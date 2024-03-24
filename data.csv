@@ -1,0 +1,1415 @@
+nombre;abono;distrito;modalidad;mes;anio;fecha;alumno;edad;pago;menor_cantidad;adolescentes_cantidad;adultos_cantidad;all;nombre_sede;count_sede1;count_sede2;count_sede3;taller
+Kathy;200;Comas;Escolar;Abril;2022;5/04/2022;Terri;45;Yape;0;0;1;1;Sede 2;0;1;0;Pintura
+Whitney;200;Miraflores;Escolar;Abril;2022;5/04/2022;Cody;45;Scotiabank;0;0;1;1;Sede 3;0;0;1;Comic
+Kathy;200;Comas;Escolar;Abril;2022;5/04/2022;Terri;45;Yape;0;0;1;1;Sede 2;0;1;0;Pintura
+Whitney;200;Miraflores;Escolar;Abril;2022;5/04/2022;Cody;45;Scotiabank;0;0;1;1;Sede 3;0;0;1;Comic
+Kathy;200;Comas;Escolar;Mayo;2022;3/05/2022;Terri;45;Yape;0;0;1;1;Sede 2;0;1;0;Pintura
+Whitney;200;Miraflores;Escolar;Mayo;2022;3/05/2022;Cody;45;Scotiabank;0;0;1;1;Sede 3;0;0;1;Comic
+Kathy;200;Comas;Escolar;Mayo;2022;3/05/2022;Terri;45;Yape;0;0;1;1;Sede 2;0;1;0;Pintura
+Whitney;200;Miraflores;Escolar;Mayo;2022;3/05/2022;Cody;45;Scotiabank;0;0;1;1;Sede 3;0;0;1;Comic
+Kathy;200;Comas;Escolar;Junio;2022;7/06/2022;Terri;45;Yape;0;0;1;1;Sede 2;0;1;0;Pintura
+Whitney;200;Miraflores;Escolar;Junio;2022;7/06/2022;Cody;45;Scotiabank;0;0;1;1;Sede 3;0;0;1;Comic
+Kathy;200;Comas;Escolar;Junio;2022;7/06/2022;Terri;45;Yape;0;0;1;1;Sede 2;0;1;0;Pintura
+Whitney;200;Miraflores;Escolar;Junio;2022;7/06/2022;Cody;45;Scotiabank;0;0;1;1;Sede 3;0;0;1;Comic
+Kathy;200;Surco;Escolar;Julio;2022;5/07/2022;Terri;45;Yape;0;0;1;1;Sede 2;0;1;0;Pintura
+Whitney;200;Molina;Escolar;Julio;2022;5/07/2022;Cody;45;Scotiabank;0;0;1;1;Sede 3;0;0;1;Comic
+Kathy;200;Villa el Salvador;Escolar;Julio;2022;5/07/2022;Terri;45;Yape;0;0;1;1;Sede 2;0;1;0;Pintura
+Whitney;200;Surco;Escolar;Julio;2022;5/07/2022;Cody;45;Scotiabank;0;0;1;1;Sede 3;0;0;1;Comic
+Kathy;200;Surco;Escolar;Agosto;2022;2/08/2022;Terri;45;Yape;0;0;1;1;Sede 2;0;1;0;Pintura
+Whitney;200;Molina;Escolar;Agosto;2022;2/08/2022;Cody;45;Scotiabank;0;0;1;1;Sede 3;0;0;1;Comic
+Kathy;200;Villa el Salvador;Escolar;Agosto;2022;2/08/2022;Terri;45;Yape;0;0;1;1;Sede 2;0;1;0;Pintura
+Whitney;200;Surco;Escolar;Agosto;2022;2/08/2022;Cody;45;Scotiabank;0;0;1;1;Sede 3;0;0;1;Comic
+Kathy;200;Surco;Escolar;Setiembre;2022;1/09/2022;Terri;45;Yape;0;0;1;1;Sede 2;0;1;0;Pintura
+Whitney;200;Molina;Escolar;Setiembre;2022;1/09/2022;Cody;45;Scotiabank;0;0;1;1;Sede 3;0;0;1;Comic
+Kathy;200;Villa el Salvador;Escolar;Setiembre;2022;1/09/2022;Terri;45;Yape;0;0;1;1;Sede 2;0;1;0;Pintura
+Whitney;200;Surco;Escolar;Setiembre;2022;1/09/2022;Cody;45;Scotiabank;0;0;1;1;Sede 3;0;0;1;Comic
+Kathy;200;Surco;Escolar;Octubre;2022;4/10/2022;Terri;45;Yape;0;0;1;1;Sede 2;0;1;0;Pintura
+Whitney;200;Molina;Escolar;Octubre;2022;4/10/2022;Cody;45;Scotiabank;0;0;1;1;Sede 3;0;0;1;Comic
+Kathy;200;Villa el Salvador;Escolar;Octubre;2022;4/10/2022;Terri;45;Yape;0;0;1;1;Sede 2;0;1;0;Pintura
+Whitney;200;Surco;Escolar;Octubre;2022;4/10/2022;Cody;45;Scotiabank;0;0;1;1;Sede 3;0;0;1;Comic
+Kathy;200;Surco;Escolar;Noviembre;2022;1/11/2022;Terri;45;Yape;0;0;1;1;Sede 2;0;1;0;Pintura
+Whitney;200;Molina;Escolar;Noviembre;2022;1/11/2022;Cody;45;Scotiabank;0;0;1;1;Sede 3;0;0;1;Comic
+Kathy;200;Villa el Salvador;Escolar;Noviembre;2022;1/11/2022;Terri;45;Yape;0;0;1;1;Sede 2;0;1;0;Pintura
+Whitney;200;Surco;Escolar;Noviembre;2022;1/11/2022;Cody;45;Scotiabank;0;0;1;1;Sede 3;0;0;1;Comic
+Kathy;200;Surco;Escolar;Diciembre;2022;3/12/2022;Terri;45;Yape;0;0;1;1;Sede 2;0;1;0;Pintura
+Whitney;200;Molina;Escolar;Diciembre;2022;3/12/2022;Cody;45;Scotiabank;0;0;1;1;Sede 3;0;0;1;Comic
+Kathy;200;Villa el Salvador;Escolar;Diciembre;2022;3/12/2022;Terri;45;Yape;0;0;1;1;Sede 2;0;1;0;Pintura
+Whitney;200;Surco;Escolar;Diciembre;2022;3/12/2022;Cody;45;Scotiabank;0;0;1;1;Sede 3;0;0;1;Comic
+Gina;200;Surco;Escolar;Abril;2022;5/04/2022;William;36;BCP;0;0;1;1;Sede 1;1;0;0;Manga
+Gina;200;Surco;Escolar;Abril;2022;5/04/2022;William;36;BCP;0;0;1;1;Sede 1;1;0;0;Manga
+Gina;200;Surco;Escolar;Mayo;2022;3/05/2022;William;36;BCP;0;0;1;1;Sede 1;1;0;0;Manga
+Gina;200;Surco;Escolar;Mayo;2022;3/05/2022;William;36;BCP;0;0;1;1;Sede 1;1;0;0;Manga
+Gina;200;Surco;Escolar;Junio;2022;7/06/2022;William;36;BCP;0;0;1;1;Sede 1;1;0;0;Manga
+Gina;200;Surco;Escolar;Junio;2022;7/06/2022;William;36;BCP;0;0;1;1;Sede 1;1;0;0;Manga
+Gina;200;Miraflores;Escolar;Julio;2022;5/07/2022;William;36;BCP;0;0;1;1;Sede 1;1;0;0;Manga
+Gina;200;Comas;Escolar;Julio;2022;5/07/2022;William;36;BCP;0;0;1;1;Sede 1;1;0;0;Manga
+Gina;200;Miraflores;Escolar;Agosto;2022;2/08/2022;William;36;BCP;0;0;1;1;Sede 1;1;0;0;Manga
+Gina;200;Comas;Escolar;Agosto;2022;2/08/2022;William;36;BCP;0;0;1;1;Sede 1;1;0;0;Manga
+Gina;200;Miraflores;Escolar;Setiembre;2022;1/09/2022;William;36;BCP;0;0;1;1;Sede 1;1;0;0;Manga
+Gina;200;Comas;Escolar;Setiembre;2022;1/09/2022;William;36;BCP;0;0;1;1;Sede 1;1;0;0;Manga
+Gina;200;Miraflores;Escolar;Octubre;2022;4/10/2022;William;36;BCP;0;0;1;1;Sede 1;1;0;0;Manga
+Gina;200;Comas;Escolar;Octubre;2022;4/10/2022;William;36;BCP;0;0;1;1;Sede 1;1;0;0;Manga
+Gina;200;Miraflores;Escolar;Noviembre;2022;1/11/2022;William;36;BCP;0;0;1;1;Sede 1;1;0;0;Manga
+Gina;200;Comas;Escolar;Noviembre;2022;1/11/2022;William;36;BCP;0;0;1;1;Sede 1;1;0;0;Manga
+Gina;200;Miraflores;Escolar;Diciembre;2022;3/12/2022;William;36;BCP;0;0;1;1;Sede 1;1;0;0;Manga
+Gina;200;Comas;Escolar;Diciembre;2022;3/12/2022;William;36;BCP;0;0;1;1;Sede 1;1;0;0;Manga
+Jason;200;Molina;Escolar;Abril;2022;5/04/2022;Kathleen;28;BCP;0;0;1;1;Sede 1;1;0;0;Dibujo
+Jason;200;Molina;Escolar;Abril;2022;5/04/2022;Kathleen;28;BCP;0;0;1;1;Sede 1;1;0;0;Dibujo
+Jason;200;Molina;Escolar;Mayo;2022;3/05/2022;Kathleen;28;BCP;0;0;1;1;Sede 1;1;0;0;Dibujo
+Jason;200;Molina;Escolar;Mayo;2022;3/05/2022;Kathleen;28;BCP;0;0;1;1;Sede 1;1;0;0;Dibujo
+Jason;200;Molina;Escolar;Junio;2022;7/06/2022;Kathleen;28;BCP;0;0;1;1;Sede 1;1;0;0;Dibujo
+Jason;200;Molina;Escolar;Junio;2022;7/06/2022;Kathleen;28;BCP;0;0;1;1;Sede 1;1;0;0;Dibujo
+Jason;200;Villa el Salvador;Escolar;Julio;2022;5/07/2022;Kathleen;28;BCP;0;0;1;1;Sede 1;1;0;0;Dibujo
+Jason;200;Molina;Escolar;Julio;2022;5/07/2022;Kathleen;28;BCP;0;0;1;1;Sede 1;1;0;0;Dibujo
+Jason;200;Villa el Salvador;Escolar;Agosto;2022;2/08/2022;Kathleen;28;BCP;0;0;1;1;Sede 1;1;0;0;Dibujo
+Jason;200;Molina;Escolar;Agosto;2022;2/08/2022;Kathleen;28;BCP;0;0;1;1;Sede 1;1;0;0;Dibujo
+Jason;200;Villa el Salvador;Escolar;Setiembre;2022;1/09/2022;Kathleen;28;BCP;0;0;1;1;Sede 1;1;0;0;Dibujo
+Jason;200;Molina;Escolar;Setiembre;2022;1/09/2022;Kathleen;28;BCP;0;0;1;1;Sede 1;1;0;0;Dibujo
+Jason;200;Villa el Salvador;Escolar;Octubre;2022;4/10/2022;Kathleen;28;BCP;0;0;1;1;Sede 1;1;0;0;Dibujo
+Jason;200;Molina;Escolar;Octubre;2022;4/10/2022;Kathleen;28;BCP;0;0;1;1;Sede 1;1;0;0;Dibujo
+Jason;200;Villa el Salvador;Escolar;Noviembre;2022;1/11/2022;Kathleen;28;BCP;0;0;1;1;Sede 1;1;0;0;Dibujo
+Jason;200;Molina;Escolar;Noviembre;2022;1/11/2022;Kathleen;28;BCP;0;0;1;1;Sede 1;1;0;0;Dibujo
+Jason;200;Villa el Salvador;Escolar;Diciembre;2022;3/12/2022;Kathleen;28;BCP;0;0;1;1;Sede 1;1;0;0;Dibujo
+Jason;200;Molina;Escolar;Diciembre;2022;3/12/2022;Kathleen;28;BCP;0;0;1;1;Sede 1;1;0;0;Dibujo
+Megan;200;Villa el Salvador;Escolar;Abril;2022;5/04/2022;Kristen;27;BVBA;0;0;1;1;Sede 3;0;0;1;Lettering
+Megan;200;Villa el Salvador;Escolar;Abril;2022;5/04/2022;Kristen;27;BVBA;0;0;1;1;Sede 3;0;0;1;Lettering
+Megan;200;Villa el Salvador;Escolar;Mayo;2022;3/05/2022;Kristen;27;BVBA;0;0;1;1;Sede 3;0;0;1;Lettering
+Megan;200;Villa el Salvador;Escolar;Mayo;2022;3/05/2022;Kristen;27;BVBA;0;0;1;1;Sede 3;0;0;1;Lettering
+Megan;200;Villa el Salvador;Escolar;Junio;2022;7/06/2022;Kristen;27;BVBA;0;0;1;1;Sede 3;0;0;1;Lettering
+Megan;200;Villa el Salvador;Escolar;Junio;2022;7/06/2022;Kristen;27;BVBA;0;0;1;1;Sede 3;0;0;1;Lettering
+Megan;200;Villa el Salvador;Escolar;Julio;2022;5/07/2022;Kristen;27;BVBA;0;0;1;1;Sede 3;0;0;1;Lettering
+Megan;200;Molina;Escolar;Julio;2022;5/07/2022;Kristen;27;BVBA;0;0;1;1;Sede 3;0;0;1;Lettering
+Megan;200;Villa el Salvador;Escolar;Agosto;2022;2/08/2022;Kristen;27;BVBA;0;0;1;1;Sede 3;0;0;1;Lettering
+Megan;200;Molina;Escolar;Agosto;2022;2/08/2022;Kristen;27;BVBA;0;0;1;1;Sede 3;0;0;1;Lettering
+Megan;200;Villa el Salvador;Escolar;Setiembre;2022;1/09/2022;Kristen;27;BVBA;0;0;1;1;Sede 3;0;0;1;Lettering
+Megan;200;Molina;Escolar;Setiembre;2022;1/09/2022;Kristen;27;BVBA;0;0;1;1;Sede 3;0;0;1;Lettering
+Megan;200;Villa el Salvador;Escolar;Octubre;2022;4/10/2022;Kristen;27;BVBA;0;0;1;1;Sede 3;0;0;1;Lettering
+Megan;200;Molina;Escolar;Octubre;2022;4/10/2022;Kristen;27;BVBA;0;0;1;1;Sede 3;0;0;1;Lettering
+Megan;200;Villa el Salvador;Escolar;Noviembre;2022;1/11/2022;Kristen;27;BVBA;0;0;1;1;Sede 3;0;0;1;Lettering
+Megan;200;Molina;Escolar;Noviembre;2022;1/11/2022;Kristen;27;BVBA;0;0;1;1;Sede 3;0;0;1;Lettering
+Megan;200;Villa el Salvador;Escolar;Diciembre;2022;3/12/2022;Kristen;27;BVBA;0;0;1;1;Sede 3;0;0;1;Lettering
+Megan;200;Molina;Escolar;Diciembre;2022;3/12/2022;Kristen;27;BVBA;0;0;1;1;Sede 3;0;0;1;Lettering
+Katherine;200;Surco;Escolar;Abril;2022;5/04/2022;Stacy;26;Scotiabank;0;0;1;1;Sede 2;0;1;0;Manga
+Jennifer;200;Molina;Escolar;Abril;2022;5/04/2022;Rebecca;26;PLIN;0;0;1;1;Sede 2;0;1;0;Dibujo
+Katherine;200;Surco;Escolar;Mayo;2022;3/05/2022;Stacy;26;Scotiabank;0;0;1;1;Sede 2;0;1;0;Manga
+Jennifer;200;Molina;Escolar;Mayo;2022;3/05/2022;Rebecca;26;PLIN;0;0;1;1;Sede 2;0;1;0;Dibujo
+Katherine;200;Surco;Escolar;Junio;2022;7/06/2022;Stacy;26;Scotiabank;0;0;1;1;Sede 2;0;1;0;Manga
+Jennifer;200;Molina;Escolar;Junio;2022;7/06/2022;Rebecca;26;PLIN;0;0;1;1;Sede 2;0;1;0;Dibujo
+Katherine;200;Surco;Escolar;Julio;2022;5/07/2022;Stacy;26;Scotiabank;0;0;1;1;Sede 2;0;1;0;Manga
+Jennifer;200;Molina;Escolar;Julio;2022;5/07/2022;Rebecca;26;PLIN;0;0;1;1;Sede 2;0;1;0;Dibujo
+Katherine;200;Surco;Escolar;Agosto;2022;2/08/2022;Stacy;26;Scotiabank;0;0;1;1;Sede 2;0;1;0;Manga
+Jennifer;200;Molina;Escolar;Agosto;2022;2/08/2022;Rebecca;26;PLIN;0;0;1;1;Sede 2;0;1;0;Dibujo
+Katherine;200;Surco;Escolar;Setiembre;2022;1/09/2022;Stacy;26;Scotiabank;0;0;1;1;Sede 2;0;1;0;Manga
+Jennifer;200;Molina;Escolar;Setiembre;2022;1/09/2022;Rebecca;26;PLIN;0;0;1;1;Sede 2;0;1;0;Dibujo
+Katherine;200;Surco;Escolar;Octubre;2022;4/10/2022;Stacy;26;Scotiabank;0;0;1;1;Sede 2;0;1;0;Manga
+Jennifer;200;Molina;Escolar;Octubre;2022;4/10/2022;Rebecca;26;PLIN;0;0;1;1;Sede 2;0;1;0;Dibujo
+Katherine;200;Surco;Escolar;Noviembre;2022;1/11/2022;Stacy;26;Scotiabank;0;0;1;1;Sede 2;0;1;0;Manga
+Jennifer;200;Molina;Escolar;Noviembre;2022;1/11/2022;Rebecca;26;PLIN;0;0;1;1;Sede 2;0;1;0;Dibujo
+Katherine;200;Surco;Escolar;Diciembre;2022;3/12/2022;Stacy;26;Scotiabank;0;0;1;1;Sede 2;0;1;0;Manga
+Jennifer;200;Molina;Escolar;Diciembre;2022;3/12/2022;Rebecca;26;PLIN;0;0;1;1;Sede 2;0;1;0;Dibujo
+Daniel;200;Comas;Escolar;Abril;2022;5/04/2022;Shannon;25;BCP;0;0;1;1;Sede 1;1;0;0;Pintura
+Daniel;200;Comas;Escolar;Mayo;2022;3/05/2022;Shannon;25;BCP;0;0;1;1;Sede 1;1;0;0;Pintura
+Daniel;200;Comas;Escolar;Junio;2022;7/06/2022;Shannon;25;BCP;0;0;1;1;Sede 1;1;0;0;Pintura
+Daniel;200;Comas;Escolar;Julio;2022;5/07/2022;Shannon;25;BCP;0;0;1;1;Sede 1;1;0;0;Pintura
+Daniel;200;Comas;Escolar;Agosto;2022;2/08/2022;Shannon;25;BCP;0;0;1;1;Sede 1;1;0;0;Pintura
+Daniel;200;Comas;Escolar;Setiembre;2022;1/09/2022;Shannon;25;BCP;0;0;1;1;Sede 1;1;0;0;Pintura
+Daniel;200;Comas;Escolar;Octubre;2022;4/10/2022;Shannon;25;BCP;0;0;1;1;Sede 1;1;0;0;Pintura
+Daniel;200;Comas;Escolar;Noviembre;2022;1/11/2022;Shannon;25;BCP;0;0;1;1;Sede 1;1;0;0;Pintura
+Daniel;200;Comas;Escolar;Diciembre;2022;3/12/2022;Shannon;25;BCP;0;0;1;1;Sede 1;1;0;0;Pintura
+Taylor;200;SJL;Escolar;Abril;2022;5/04/2022;Mary;23;Efectivo;0;0;1;1;Sede 2;0;1;0;Manga
+Taylor;200;SJL;Escolar;Abril;2022;5/04/2022;Mary;23;Efectivo;0;0;1;1;Sede 2;0;1;0;Manga
+Taylor;200;SJL;Escolar;Mayo;2022;3/05/2022;Mary;23;Efectivo;0;0;1;1;Sede 2;0;1;0;Manga
+Taylor;200;SJL;Escolar;Mayo;2022;3/05/2022;Mary;23;Efectivo;0;0;1;1;Sede 2;0;1;0;Manga
+Taylor;200;SJL;Escolar;Junio;2022;7/06/2022;Mary;23;Efectivo;0;0;1;1;Sede 2;0;1;0;Manga
+Taylor;200;SJL;Escolar;Junio;2022;7/06/2022;Mary;23;Efectivo;0;0;1;1;Sede 2;0;1;0;Manga
+Taylor;200;Miraflores;Escolar;Julio;2022;5/07/2022;Mary;23;Efectivo;0;0;1;1;Sede 2;0;1;0;Manga
+Taylor;200;SJL;Escolar;Julio;2022;5/07/2022;Mary;23;Efectivo;0;0;1;1;Sede 2;0;1;0;Manga
+Taylor;200;Miraflores;Escolar;Agosto;2022;2/08/2022;Mary;23;Efectivo;0;0;1;1;Sede 2;0;1;0;Manga
+Taylor;200;SJL;Escolar;Agosto;2022;2/08/2022;Mary;23;Efectivo;0;0;1;1;Sede 2;0;1;0;Manga
+Taylor;200;Miraflores;Escolar;Setiembre;2022;1/09/2022;Mary;23;Efectivo;0;0;1;1;Sede 2;0;1;0;Manga
+Taylor;200;SJL;Escolar;Setiembre;2022;1/09/2022;Mary;23;Efectivo;0;0;1;1;Sede 2;0;1;0;Manga
+Taylor;200;Miraflores;Escolar;Octubre;2022;4/10/2022;Mary;23;Efectivo;0;0;1;1;Sede 2;0;1;0;Manga
+Taylor;200;SJL;Escolar;Octubre;2022;4/10/2022;Mary;23;Efectivo;0;0;1;1;Sede 2;0;1;0;Manga
+Taylor;200;Miraflores;Escolar;Noviembre;2022;1/11/2022;Mary;23;Efectivo;0;0;1;1;Sede 2;0;1;0;Manga
+Taylor;200;SJL;Escolar;Noviembre;2022;1/11/2022;Mary;23;Efectivo;0;0;1;1;Sede 2;0;1;0;Manga
+Taylor;200;Miraflores;Escolar;Diciembre;2022;3/12/2022;Mary;23;Efectivo;0;0;1;1;Sede 2;0;1;0;Manga
+Taylor;200;SJL;Escolar;Diciembre;2022;3/12/2022;Mary;23;Efectivo;0;0;1;1;Sede 2;0;1;0;Manga
+Judy;200;Villa el Salvador;Escolar;Abril;2022;5/04/2022;Lauren;22;BCP;0;0;1;1;Sede 2;0;1;0;Comic
+Judy;200;Villa el Salvador;Escolar;Mayo;2022;3/05/2022;Lauren;22;BCP;0;0;1;1;Sede 2;0;1;0;Comic
+Judy;200;Villa el Salvador;Escolar;Junio;2022;7/06/2022;Lauren;22;BCP;0;0;1;1;Sede 2;0;1;0;Comic
+Judy;200;Miraflores;Escolar;Julio;2022;5/07/2022;Lauren;22;BCP;0;0;1;1;Sede 2;0;1;0;Comic
+Judy;200;Miraflores;Escolar;Agosto;2022;2/08/2022;Lauren;22;BCP;0;0;1;1;Sede 2;0;1;0;Comic
+Judy;200;Miraflores;Escolar;Setiembre;2022;1/09/2022;Lauren;22;BCP;0;0;1;1;Sede 2;0;1;0;Comic
+Judy;200;Miraflores;Escolar;Octubre;2022;4/10/2022;Lauren;22;BCP;0;0;1;1;Sede 2;0;1;0;Comic
+Judy;200;Miraflores;Escolar;Noviembre;2022;1/11/2022;Lauren;22;BCP;0;0;1;1;Sede 2;0;1;0;Comic
+Judy;200;Miraflores;Escolar;Diciembre;2022;3/12/2022;Lauren;22;BCP;0;0;1;1;Sede 2;0;1;0;Comic
+Rachel;200;Surco;Escolar;Abril;2022;5/04/2022;Gina;19;Yape;0;0;1;1;Sede 3;0;0;1;Lettering
+Julie;200;SJL;Escolar;Abril;2022;5/04/2022;Christopher;19;BCP;0;0;1;1;Sede 1;1;0;0;Comic
+Randall;200;Villa el Salvador;Escolar;Abril;2022;5/04/2022;Mary;19;PLIN;0;0;1;1;Sede 2;0;1;0;Lettering
+Randall;200;Villa el Salvador;Escolar;Abril;2022;5/04/2022;Mary;19;PLIN;0;0;1;1;Sede 2;0;1;0;Lettering
+Rachel;200;Surco;Escolar;Mayo;2022;3/05/2022;Gina;19;Yape;0;0;1;1;Sede 3;0;0;1;Lettering
+Julie;200;SJL;Escolar;Mayo;2022;3/05/2022;Christopher;19;BCP;0;0;1;1;Sede 1;1;0;0;Comic
+Randall;200;Villa el Salvador;Escolar;Mayo;2022;3/05/2022;Mary;19;PLIN;0;0;1;1;Sede 2;0;1;0;Lettering
+Randall;200;Villa el Salvador;Escolar;Mayo;2022;3/05/2022;Mary;19;PLIN;0;0;1;1;Sede 2;0;1;0;Lettering
+Rachel;200;Surco;Escolar;Junio;2022;7/06/2022;Gina;19;Yape;0;0;1;1;Sede 3;0;0;1;Lettering
+Julie;200;SJL;Escolar;Junio;2022;7/06/2022;Christopher;19;BCP;0;0;1;1;Sede 1;1;0;0;Comic
+Randall;200;Villa el Salvador;Escolar;Junio;2022;7/06/2022;Mary;19;PLIN;0;0;1;1;Sede 2;0;1;0;Lettering
+Randall;200;Villa el Salvador;Escolar;Junio;2022;7/06/2022;Mary;19;PLIN;0;0;1;1;Sede 2;0;1;0;Lettering
+Rachel;200;Villa el Salvador;Escolar;Julio;2022;5/07/2022;Gina;19;Yape;0;0;1;1;Sede 3;0;0;1;Lettering
+Julie;200;Miraflores;Escolar;Julio;2022;5/07/2022;Christopher;19;BCP;0;0;1;1;Sede 1;1;0;0;Comic
+Randall;200;Comas;Escolar;Julio;2022;5/07/2022;Mary;19;PLIN;0;0;1;1;Sede 2;0;1;0;Lettering
+Randall;200;Villa el Salvador;Escolar;Julio;2022;5/07/2022;Mary;19;PLIN;0;0;1;1;Sede 2;0;1;0;Lettering
+Rachel;200;Villa el Salvador;Escolar;Agosto;2022;2/08/2022;Gina;19;Yape;0;0;1;1;Sede 3;0;0;1;Lettering
+Julie;200;Miraflores;Escolar;Agosto;2022;2/08/2022;Christopher;19;BCP;0;0;1;1;Sede 1;1;0;0;Comic
+Randall;200;Comas;Escolar;Agosto;2022;2/08/2022;Mary;19;PLIN;0;0;1;1;Sede 2;0;1;0;Lettering
+Randall;200;Villa el Salvador;Escolar;Agosto;2022;2/08/2022;Mary;19;PLIN;0;0;1;1;Sede 2;0;1;0;Lettering
+Rachel;200;Villa el Salvador;Escolar;Setiembre;2022;1/09/2022;Gina;19;Yape;0;0;1;1;Sede 3;0;0;1;Lettering
+Julie;200;Miraflores;Escolar;Setiembre;2022;1/09/2022;Christopher;19;BCP;0;0;1;1;Sede 1;1;0;0;Comic
+Randall;200;Comas;Escolar;Setiembre;2022;1/09/2022;Mary;19;PLIN;0;0;1;1;Sede 2;0;1;0;Lettering
+Randall;200;Villa el Salvador;Escolar;Setiembre;2022;1/09/2022;Mary;19;PLIN;0;0;1;1;Sede 2;0;1;0;Lettering
+Rachel;200;Villa el Salvador;Escolar;Octubre;2022;4/10/2022;Gina;19;Yape;0;0;1;1;Sede 3;0;0;1;Lettering
+Julie;200;Miraflores;Escolar;Octubre;2022;4/10/2022;Christopher;19;BCP;0;0;1;1;Sede 1;1;0;0;Comic
+Randall;200;Comas;Escolar;Octubre;2022;4/10/2022;Mary;19;PLIN;0;0;1;1;Sede 2;0;1;0;Lettering
+Randall;200;Villa el Salvador;Escolar;Octubre;2022;4/10/2022;Mary;19;PLIN;0;0;1;1;Sede 2;0;1;0;Lettering
+Rachel;200;Villa el Salvador;Escolar;Noviembre;2022;1/11/2022;Gina;19;Yape;0;0;1;1;Sede 3;0;0;1;Lettering
+Julie;200;Miraflores;Escolar;Noviembre;2022;1/11/2022;Christopher;19;BCP;0;0;1;1;Sede 1;1;0;0;Comic
+Randall;200;Comas;Escolar;Noviembre;2022;1/11/2022;Mary;19;PLIN;0;0;1;1;Sede 2;0;1;0;Lettering
+Randall;200;Villa el Salvador;Escolar;Noviembre;2022;1/11/2022;Mary;19;PLIN;0;0;1;1;Sede 2;0;1;0;Lettering
+Rachel;200;Villa el Salvador;Escolar;Diciembre;2022;3/12/2022;Gina;19;Yape;0;0;1;1;Sede 3;0;0;1;Lettering
+Julie;200;Miraflores;Escolar;Diciembre;2022;3/12/2022;Christopher;19;BCP;0;0;1;1;Sede 1;1;0;0;Comic
+Randall;200;Comas;Escolar;Diciembre;2022;3/12/2022;Mary;19;PLIN;0;0;1;1;Sede 2;0;1;0;Lettering
+Randall;200;Villa el Salvador;Escolar;Diciembre;2022;3/12/2022;Mary;19;PLIN;0;0;1;1;Sede 2;0;1;0;Lettering
+Ian;200;Comas;Escolar;Abril;2022;5/04/2022;Ashley;18;PLIN;0;0;1;1;Sede 1;1;0;0;Dibujo
+Angie;200;Comas;Escolar;Abril;2022;5/04/2022;Frank;18;BVBA;0;0;1;1;Sede 3;0;0;1;Pintura
+Angie;200;Comas;Escolar;Abril;2022;5/04/2022;Frank;18;BVBA;0;0;1;1;Sede 3;0;0;1;Pintura
+Ian;200;Comas;Escolar;Mayo;2022;3/05/2022;Ashley;18;PLIN;0;0;1;1;Sede 1;1;0;0;Dibujo
+Angie;200;Comas;Escolar;Mayo;2022;3/05/2022;Frank;18;BVBA;0;0;1;1;Sede 3;0;0;1;Pintura
+Angie;200;Comas;Escolar;Mayo;2022;3/05/2022;Frank;18;BVBA;0;0;1;1;Sede 3;0;0;1;Pintura
+Ian;200;Comas;Escolar;Junio;2022;7/06/2022;Ashley;18;PLIN;0;0;1;1;Sede 1;1;0;0;Dibujo
+Angie;200;Comas;Escolar;Junio;2022;7/06/2022;Frank;18;BVBA;0;0;1;1;Sede 3;0;0;1;Pintura
+Angie;200;Comas;Escolar;Junio;2022;7/06/2022;Frank;18;BVBA;0;0;1;1;Sede 3;0;0;1;Pintura
+Ian;200;Molina;Escolar;Julio;2022;5/07/2022;Ashley;18;PLIN;0;0;1;1;Sede 1;1;0;0;Dibujo
+Angie;200;Surco;Escolar;Julio;2022;5/07/2022;Frank;18;BVBA;0;0;1;1;Sede 3;0;0;1;Pintura
+Angie;200;Comas;Escolar;Julio;2022;5/07/2022;Frank;18;BVBA;0;0;1;1;Sede 3;0;0;1;Pintura
+Ian;200;Molina;Escolar;Agosto;2022;2/08/2022;Ashley;18;PLIN;0;0;1;1;Sede 1;1;0;0;Dibujo
+Angie;200;Surco;Escolar;Agosto;2022;2/08/2022;Frank;18;BVBA;0;0;1;1;Sede 3;0;0;1;Pintura
+Angie;200;Comas;Escolar;Agosto;2022;2/08/2022;Frank;18;BVBA;0;0;1;1;Sede 3;0;0;1;Pintura
+Ian;200;Molina;Escolar;Setiembre;2022;1/09/2022;Ashley;18;PLIN;0;0;1;1;Sede 1;1;0;0;Dibujo
+Angie;200;Surco;Escolar;Setiembre;2022;1/09/2022;Frank;18;BVBA;0;0;1;1;Sede 3;0;0;1;Pintura
+Angie;200;Comas;Escolar;Setiembre;2022;1/09/2022;Frank;18;BVBA;0;0;1;1;Sede 3;0;0;1;Pintura
+Ian;200;Molina;Escolar;Octubre;2022;4/10/2022;Ashley;18;PLIN;0;0;1;1;Sede 1;1;0;0;Dibujo
+Angie;200;Surco;Escolar;Octubre;2022;4/10/2022;Frank;18;BVBA;0;0;1;1;Sede 3;0;0;1;Pintura
+Angie;200;Comas;Escolar;Octubre;2022;4/10/2022;Frank;18;BVBA;0;0;1;1;Sede 3;0;0;1;Pintura
+Ian;200;Molina;Escolar;Noviembre;2022;1/11/2022;Ashley;18;PLIN;0;0;1;1;Sede 1;1;0;0;Dibujo
+Angie;200;Surco;Escolar;Noviembre;2022;1/11/2022;Frank;18;BVBA;0;0;1;1;Sede 3;0;0;1;Pintura
+Angie;200;Comas;Escolar;Noviembre;2022;1/11/2022;Frank;18;BVBA;0;0;1;1;Sede 3;0;0;1;Pintura
+Ian;200;Molina;Escolar;Diciembre;2022;3/12/2022;Ashley;18;PLIN;0;0;1;1;Sede 1;1;0;0;Dibujo
+Angie;200;Surco;Escolar;Diciembre;2022;3/12/2022;Frank;18;BVBA;0;0;1;1;Sede 3;0;0;1;Pintura
+Angie;200;Comas;Escolar;Diciembre;2022;3/12/2022;Frank;18;BVBA;0;0;1;1;Sede 3;0;0;1;Pintura
+Whitney;200;Miraflores;Escolar;Febrero;2019;11/05/2019;Corey;18;BVBA;0;0;1;1;Sede 1;1;0;0;Dibujo
+James;200;Brenia;Invierno;Enero;2019;17/05/2019;Rebecca;18;Scotiabank;0;0;1;1;Sede 1;1;0;0;Comic
+Jerry;200;Comas;Escolar;Setiembre;2019;3/04/2019;Robert;18;Scotiabank;0;0;1;1;Sede 3;0;0;1;Dibujo
+Jamie;200;Surco;Otonio;Diciembre;2019;1/05/2019;Craig;18;Efectivo;0;0;1;1;Sede 3;0;0;1;Manga
+Russell;200;Comas;Otonio;Agosto;2019;29/04/2019;Charles;18;PLIN;0;0;1;1;Sede 3;0;0;1;Lettering
+Nicholas;200;Molina;Otonio;Mayo;2019;30/01/2019;Julia;18;Scotiabank;0;0;1;1;Sede 2;0;1;0;Manga
+Daniel;200;Surco;Verano;Agosto;2019;6/03/2019;Dana;18;BCP;0;0;1;1;Sede 1;1;0;0;Dibujo
+Mariah;200;Brenia;Invierno;Diciembre;2019;3/09/2019;Aaron;18;PLIN;0;0;1;1;Sede 1;1;0;0;Pintura
+Barbara;200;Villa el Salvador;Invierno;Agosto;2019;14/02/2019;Peggy;18;Yape;0;0;1;1;Sede 3;0;0;1;Dibujo
+Brian;200;Brenia;Primavera;Febrero;2019;3/05/2019;Scott;18;BCP;0;0;1;1;Sede 2;0;1;0;Comic
+Stephen;200;Surco;Invierno;Mayo;2019;19/03/2019;Austin;18;Scotiabank;0;0;1;1;Sede 3;0;0;1;Manga
+Candice;200;Villa el Salvador;Primavera;Agosto;2019;23/12/2019;Whitney;18;PLIN;0;0;1;1;Sede 1;1;0;0;Pintura
+David;200;Villa el Salvador;Invierno;Julio;2020;21/07/2020;Taylor;18;Yape;0;0;1;1;Sede 1;1;0;0;Dibujo
+Gina;200;Surco;Primavera;Mayo;2020;23/04/2020;William;18;Scotiabank;0;0;1;1;Sede 3;0;0;1;Lettering
+Christopher;200;Surco;Verano;Diciembre;2020;26/06/2020;Jonathan;18;Efectivo;0;0;1;1;Sede 1;1;0;0;Pintura
+Charles;200;Surco;Otonio;Octubre;2020;23/06/2020;Shawn;18;BCP;0;0;1;1;Sede 1;1;0;0;Manga
+Derrick;200;Brenia;Escolar;Febrero;2020;20/05/2020;Cory;18;BVBA;0;0;1;1;Sede 3;0;0;1;Comic
+Johnny;200;Villa el Salvador;Otonio;Marzo;2020;23/02/2020;Jessica;18;Yape;0;0;1;1;Sede 3;0;0;1;Pintura
+Matthew;200;Surco;Verano;Abril;2020;16/07/2020;Eric;18;BVBA;0;0;1;1;Sede 1;1;0;0;Dibujo
+Briana;200;Molina;Escolar;Marzo;2020;16/04/2020;Diane;18;Scotiabank;0;0;1;1;Sede 1;1;0;0;Pintura
+Holly;200;Molina;Invierno;Julio;2020;17/12/2020;Joy;18;Scotiabank;0;0;1;1;Sede 3;0;0;1;Dibujo
+Angela;200;Miraflores;Otonio;Junio;2020;12/09/2020;Jean;18;PLIN;0;0;1;1;Sede 2;0;1;0;Comic
+Richard;200;Miraflores;Primavera;Agosto;2020;28/01/2020;Lisa;18;Yape;0;0;1;1;Sede 3;0;0;1;Dibujo
+Steven;200;Miraflores;Primavera;Julio;2020;12/01/2020;Courtney;18;Scotiabank;0;0;1;1;Sede 2;0;1;0;Manga
+Tamara;200;Molina;Primavera;Octubre;2020;27/02/2020;Rachel;18;Yape;0;0;1;1;Sede 2;0;1;0;Dibujo
+Joseph;200;Villa el Salvador;Primavera;Agosto;2020;25/11/2020;Benjamin;18;BCP;0;0;1;1;Sede 2;0;1;0;Comic
+Daniel;200;SJL;Otonio;Abril;2020;30/03/2020;Caleb;18;Efectivo;0;0;1;1;Sede 2;0;1;0;Dibujo
+Janet;200;Surco;Invierno;Junio;2020;10/03/2020;Willie;18;BCP;0;0;1;1;Sede 1;1;0;0;Comic
+Kenneth;200;SJL;Escolar;Marzo;2020;28/11/2020;Krista;18;BCP;0;0;1;1;Sede 1;1;0;0;Pintura
+Jay;200;Surco;Otonio;Mayo;2020;12/10/2020;Bobby;18;BVBA;0;0;1;1;Sede 1;1;0;0;Comic
+Joseph;200;Molina;Invierno;Enero;2020;12/06/2020;Daniel;18;Scotiabank;0;0;1;1;Sede 1;1;0;0;Pintura
+Ana;200;Miraflores;Primavera;Mayo;2020;3/04/2020;Ashley;18;Scotiabank;0;0;1;1;Sede 1;1;0;0;Manga
+Ryan;200;SJL;Otonio;Noviembre;2020;5/06/2020;Emily;18;Yape;0;0;1;1;Sede 1;1;0;0;Dibujo
+Jacob;200;Comas;Primavera;Julio;2020;1/01/2020;Hannah;18;BCP;0;0;1;1;Sede 1;1;0;0;Pintura
+Lisa;200;SJL;Primavera;Enero;2020;9/01/2020;David;18;PLIN;0;0;1;1;Sede 3;0;0;1;Lettering
+James;200;Surco;Otonio;Enero;2020;20/08/2020;Melissa;18;Efectivo;0;0;1;1;Sede 1;1;0;0;Manga
+Stephanie;200;Comas;Verano;Enero;2023;27/03/2023;Jill;18;PLIN;0;0;1;1;Sede 1;1;0;0;Dibujo
+Heidi;200;Comas;Verano;Junio;2023;2/10/2023;Heather;18;BVBA;0;0;1;1;Sede 3;0;0;1;Dibujo
+Charlotte;200;Villa el Salvador;Verano;Octubre;2023;30/03/2023;Michelle;18;Efectivo;0;0;1;1;Sede 3;0;0;1;Manga
+Kimberly;200;Villa el Salvador;Primavera;Agosto;2023;24/08/2023;Nicole;18;Yape;0;0;1;1;Sede 3;0;0;1;Dibujo
+Joseph;200;Villa el Salvador;Verano;Octubre;2023;13/07/2023;Stephanie;18;Yape;0;0;1;1;Sede 1;1;0;0;Dibujo
+Noah;200;Villa el Salvador;Escolar;Octubre;2023;25/06/2023;Michele;18;Yape;0;0;1;1;Sede 2;0;1;0;Manga
+Blake;200;Molina;Primavera;Setiembre;2023;17/02/2023;Christopher;18;BVBA;0;0;1;1;Sede 2;0;1;0;Lettering
+Brandon;200;Surco;Escolar;Marzo;2023;13/06/2023;Amanda;18;BVBA;0;0;1;1;Sede 1;1;0;0;Pintura
+Fernando;200;Miraflores;Otonio;Marzo;2023;28/04/2023;Diana;18;BCP;0;0;1;1;Sede 1;1;0;0;Manga
+Cynthia;200;Comas;Verano;Octubre;2023;21/04/2023;Elizabeth;18;BCP;0;0;1;1;Sede 2;0;1;0;Pintura
+James;200;SJL;Primavera;Octubre;2023;13/08/2023;Geoffrey;17;Yape;0;1;0;1;Sede 2;0;1;0;Dibujo
+Brenda;200;SJL;Verano;Enero;2023;17/03/2023;Shawn;18;BVBA;0;0;1;1;Sede 2;0;1;0;Comic
+Gina;200;Surco;Escolar;Enero;2023;28/09/2023;Steven;18;Yape;0;0;1;1;Sede 1;1;0;0;Comic
+Lisa;200;Villa el Salvador;Primavera;Mayo;2023;26/01/2023;Gabriella;18;BVBA;0;0;1;1;Sede 2;0;1;0;Manga
+Ray;200;Surco;Escolar;Enero;2023;2/09/2023;Christina;18;Yape;0;0;1;1;Sede 1;1;0;0;Dibujo
+Heather;200;Comas;Escolar;Junio;2023;18/11/2023;Anthony;18;Efectivo;0;0;1;1;Sede 2;0;1;0;Pintura
+Barry;200;Miraflores;Invierno;Abril;2019;23/01/2019;Cody;17;PLIN;0;1;0;1;Sede 2;0;1;0;Lettering
+Kimberly;200;Molina;Invierno;Setiembre;2019;19/02/2019;Sandra;17;Efectivo;0;1;0;1;Sede 2;0;1;0;Pintura
+Cheryl;200;SJL;Invierno;Mayo;2019;9/08/2019;Kelly;17;Yape;0;1;0;1;Sede 2;0;1;0;Dibujo
+Catherine;200;Surco;Invierno;Diciembre;2019;21/03/2019;Brittney;17;BCP;0;1;0;1;Sede 3;0;0;1;Manga
+Laura;200;Villa el Salvador;Invierno;Junio;2019;26/03/2019;Jennifer;17;Yape;0;1;0;1;Sede 3;0;0;1;Lettering
+Karen;200;SJL;Escolar;Enero;2019;27/08/2019;Victoria;17;PLIN;0;1;0;1;Sede 2;0;1;0;Dibujo
+Maria;200;Comas;Primavera;Junio;2019;21/12/2019;Cynthia;17;PLIN;0;1;0;1;Sede 2;0;1;0;Pintura
+Sara;200;Villa el Salvador;Primavera;Enero;2019;25/10/2019;Claudia;17;BCP;0;1;0;1;Sede 1;1;0;0;Comic
+Amanda;200;Surco;Verano;Enero;2019;17/05/2019;Jon;17;PLIN;0;1;0;1;Sede 3;0;0;1;Manga
+Charles;200;Brenia;Otonio;Setiembre;2019;12/10/2019;Steven;17;PLIN;0;1;0;1;Sede 1;1;0;0;Lettering
+Cassandra;200;Molina;Escolar;Febrero;2019;21/10/2019;Meagan;17;BCP;0;1;0;1;Sede 2;0;1;0;Manga
+Eduardo;200;Molina;Escolar;Agosto;2019;17/09/2019;Ralph;17;BVBA;0;1;0;1;Sede 3;0;0;1;Comic
+Frances;200;Comas;Otonio;Diciembre;2019;7/11/2019;Brianna;17;PLIN;0;1;0;1;Sede 1;1;0;0;Dibujo
+Kathleen;200;Surco;Invierno;Abril;2019;2/05/2019;Christopher;17;Scotiabank;0;1;0;1;Sede 1;1;0;0;Pintura
+Margaret;200;Comas;Otonio;Noviembre;2019;21/12/2019;Sally;17;Yape;0;1;0;1;Sede 2;0;1;0;Comic
+Monica;200;Villa el Salvador;Invierno;Julio;2019;12/07/2019;Brian;17;BVBA;0;1;0;1;Sede 3;0;0;1;Lettering
+Kyle;200;Brenia;Invierno;Febrero;2019;19/04/2019;Andrew;17;PLIN;0;1;0;1;Sede 3;0;0;1;Pintura
+Valerie;200;Comas;Escolar;Mayo;2019;1/10/2019;Richard;17;BCP;0;1;0;1;Sede 2;0;1;0;Dibujo
+Jessica;200;Surco;Escolar;Julio;2019;31/08/2019;Angela;17;PLIN;0;1;0;1;Sede 2;0;1;0;Lettering
+John;200;Comas;Otonio;Marzo;2019;18/05/2019;Victor;17;PLIN;0;1;0;1;Sede 3;0;0;1;Comic
+Timothy;200;Comas;Verano;Abril;2020;12/07/2020;Shannon;17;Efectivo;0;1;0;1;Sede 2;0;1;0;Pintura
+Eric;200;Comas;Primavera;Setiembre;2020;21/03/2020;Morgan;17;BCP;0;1;0;1;Sede 1;1;0;0;Comic
+Richard;200;Molina;Escolar;Febrero;2020;11/06/2020;Peter;17;Efectivo;0;1;0;1;Sede 3;0;0;1;Pintura
+Bradley;200;Molina;Verano;Setiembre;2020;6/03/2020;Alexis;17;PLIN;0;1;0;1;Sede 1;1;0;0;Dibujo
+Terri;200;Surco;Primavera;Junio;2020;20/05/2020;Dana;17;Yape;0;1;0;1;Sede 3;0;0;1;Pintura
+Lori;200;Surco;Primavera;Enero;2020;14/09/2020;Kathy;17;PLIN;0;1;0;1;Sede 1;1;0;0;Manga
+Daniel;200;Surco;Verano;Mayo;2020;8/08/2020;Nancy;17;Scotiabank;0;1;0;1;Sede 2;0;1;0;Manga
+Chelsea;200;Villa el Salvador;Escolar;Noviembre;2020;12/01/2020;Manuel;17;PLIN;0;1;0;1;Sede 2;0;1;0;Pintura
+Michele;200;SJL;Otonio;Setiembre;2020;17/05/2020;Ryan;17;BCP;0;1;0;1;Sede 1;1;0;0;Lettering
+Matthew;200;Comas;Escolar;Setiembre;2020;25/04/2020;Joshua;17;Yape;0;1;0;1;Sede 2;0;1;0;Manga
+John;200;Comas;Invierno;Julio;2020;24/12/2020;Matthew;17;BVBA;0;1;0;1;Sede 2;0;1;0;Dibujo
+James;200;SJL;Verano;Mayo;2020;12/03/2020;Angela;17;BCP;0;1;0;1;Sede 2;0;1;0;Dibujo
+Tony;200;Surco;Escolar;Octubre;2020;12/08/2020;Jerome;17;Scotiabank;0;1;0;1;Sede 2;0;1;0;Lettering
+Diana;200;Miraflores;Escolar;Noviembre;2020;7/10/2020;Robert;17;PLIN;0;1;0;1;Sede 1;1;0;0;Comic
+Bailey;200;Surco;Invierno;Noviembre;2020;26/01/2020;Victoria;17;BVBA;0;1;0;1;Sede 3;0;0;1;Lettering
+Heather;200;Surco;Verano;Setiembre;2020;24/05/2020;Manuel;17;BVBA;0;1;0;1;Sede 1;1;0;0;Manga
+Scott;200;Comas;Escolar;Junio;2020;12/01/2020;Joy;17;PLIN;0;1;0;1;Sede 2;0;1;0;Comic
+Meredith;200;Miraflores;Primavera;Enero;2020;26/08/2020;Johnathan;17;BCP;0;1;0;1;Sede 3;0;0;1;Manga
+Joshua;200;Surco;Primavera;Agosto;2020;25/05/2020;Karen;17;BVBA;0;1;0;1;Sede 1;1;0;0;Lettering
+Andrea;200;Molina;Primavera;Marzo;2020;14/12/2020;Cheryl;17;Efectivo;0;1;0;1;Sede 3;0;0;1;Manga
+Miranda;200;SJL;Primavera;Octubre;2023;15/11/2023;James;17;Efectivo;0;1;0;1;Sede 2;0;1;0;Manga
+Richard;200;Comas;Invierno;Febrero;2023;21/03/2023;Kelly;17;Yape;0;1;0;1;Sede 1;1;0;0;Comic
+Daniel;200;Surco;Verano;Octubre;2023;8/08/2023;Julian;16;Yape;0;1;0;1;Sede 1;1;0;0;Manga
+Benjamin;200;Molina;Invierno;Febrero;2023;11/07/2023;Cindy;17;PLIN;0;1;0;1;Sede 3;0;0;1;Lettering
+Jessica;200;Brenia;Escolar;Mayo;2023;13/11/2023;Teresa;17;PLIN;0;1;0;1;Sede 2;0;1;0;Lettering
+Melissa;200;Brenia;Invierno;Junio;2023;10/10/2023;Benjamin;17;BCP;0;1;0;1;Sede 2;0;1;0;Lettering
+Shannon;200;Miraflores;Otonio;Octubre;2023;8/08/2023;Roger;16;Scotiabank;0;1;0;1;Sede 1;1;0;0;Dibujo
+Holly;200;Surco;Escolar;Octubre;2023;10/02/2023;Karen;16;Scotiabank;0;1;0;1;Sede 2;0;1;0;Dibujo
+Alexis;200;Brenia;Invierno;Enero;2023;8/10/2023;Nicole;17;Yape;0;1;0;1;Sede 1;1;0;0;Comic
+Katherine;200;SJL;Invierno;Enero;2023;4/01/2023;Justin;17;Scotiabank;0;1;0;1;Sede 3;0;0;1;Lettering
+Wendy;200;SJL;Escolar;Octubre;2023;1/11/2023;Melanie;16;BCP;0;1;0;1;Sede 1;1;0;0;Lettering
+Joseph;200;Villa el Salvador;Escolar;Febrero;2023;8/05/2023;Fernando;17;BCP;0;1;0;1;Sede 3;0;0;1;Dibujo
+Jonathan;200;Surco;Invierno;Febrero;2023;5/11/2023;Eileen;17;PLIN;0;1;0;1;Sede 1;1;0;0;Dibujo
+Jill;200;SJL;Invierno;Marzo;2023;14/02/2023;David;17;Yape;0;1;0;1;Sede 3;0;0;1;Lettering
+Jennifer;200;Villa el Salvador;Invierno;Agosto;2023;1/09/2023;Jeremy;17;Yape;0;1;0;1;Sede 1;1;0;0;Manga
+Tabitha;200;Comas;Verano;Febrero;2023;12/08/2023;Sandra;17;PLIN;0;1;0;1;Sede 2;0;1;0;Comic
+Mark;200;Miraflores;Invierno;Mayo;2023;9/01/2023;Jeffery;17;PLIN;0;1;0;1;Sede 1;1;0;0;Comic
+Kenneth;200;SJL;Invierno;Mayo;2023;23/07/2023;Michael;17;Efectivo;0;1;0;1;Sede 1;1;0;0;Pintura
+Andrew;200;SJL;Otonio;Marzo;2023;14/03/2023;Susan;17;BVBA;0;1;0;1;Sede 2;0;1;0;Comic
+Rebekah;200;Brenia;Invierno;Enero;2023;19/03/2023;James;17;Efectivo;0;1;0;1;Sede 2;0;1;0;Pintura
+Elizabeth;200;Miraflores;Invierno;Junio;2023;4/07/2023;Dominique;17;Scotiabank;0;1;0;1;Sede 2;0;1;0;Dibujo
+Shelly;200;Surco;Invierno;Agosto;2023;30/07/2023;David;17;BVBA;0;1;0;1;Sede 1;1;0;0;Lettering
+Allison;200;Miraflores;Invierno;Marzo;2023;23/10/2023;Betty;17;Yape;0;1;0;1;Sede 3;0;0;1;Manga
+Luis;200;Miraflores;Invierno;Setiembre;2023;3/02/2023;Claire;17;Efectivo;0;1;0;1;Sede 2;0;1;0;Lettering
+Deborah;200;Comas;Otonio;Marzo;2023;27/04/2023;Willie;17;BCP;0;1;0;1;Sede 3;0;0;1;Manga
+Amanda;200;Molina;Primavera;Enero;2023;24/02/2023;Jeffrey;17;BCP;0;1;0;1;Sede 3;0;0;1;Comic
+Theresa;200;Miraflores;Escolar;Abril;2022;5/04/2022;Ashley;16;Scotiabank;0;1;0;1;Sede 1;1;0;0;Comic
+Mark;200;Surco;Escolar;Abril;2022;5/04/2022;Kayla;16;Efectivo;0;1;0;1;Sede 3;0;0;1;Manga
+Nathan;200;Molina;Escolar;Abril;2022;5/04/2022;David;16;BCP;0;1;0;1;Sede 1;1;0;0;Dibujo
+Barbara;200;Villa el Salvador;Escolar;Abril;2022;5/04/2022;Kayla;16;Scotiabank;0;1;0;1;Sede 3;0;0;1;Lettering
+Theresa;200;Miraflores;Escolar;Mayo;2022;3/05/2022;Ashley;16;Scotiabank;0;1;0;1;Sede 1;1;0;0;Comic
+Mark;200;Surco;Escolar;Mayo;2022;3/05/2022;Kayla;16;Efectivo;0;1;0;1;Sede 3;0;0;1;Manga
+Nathan;200;Molina;Escolar;Mayo;2022;3/05/2022;David;16;BCP;0;1;0;1;Sede 1;1;0;0;Dibujo
+Barbara;200;Villa el Salvador;Escolar;Mayo;2022;3/05/2022;Kayla;16;Scotiabank;0;1;0;1;Sede 3;0;0;1;Lettering
+Theresa;200;Miraflores;Escolar;Junio;2022;7/06/2022;Ashley;16;Scotiabank;0;1;0;1;Sede 1;1;0;0;Comic
+Mark;200;Surco;Escolar;Junio;2022;7/06/2022;Kayla;16;Efectivo;0;1;0;1;Sede 3;0;0;1;Manga
+Nathan;200;Molina;Escolar;Junio;2022;7/06/2022;David;16;BCP;0;1;0;1;Sede 1;1;0;0;Dibujo
+Barbara;200;Villa el Salvador;Escolar;Junio;2022;7/06/2022;Kayla;16;Scotiabank;0;1;0;1;Sede 3;0;0;1;Lettering
+Theresa;200;Miraflores;Escolar;Julio;2022;5/07/2022;Ashley;16;Scotiabank;0;1;0;1;Sede 1;1;0;0;Comic
+Mark;200;Surco;Escolar;Julio;2022;5/07/2022;Kayla;16;Efectivo;0;1;0;1;Sede 3;0;0;1;Manga
+Nathan;200;Molina;Escolar;Julio;2022;5/07/2022;David;16;BCP;0;1;0;1;Sede 1;1;0;0;Dibujo
+Barbara;200;Villa el Salvador;Escolar;Julio;2022;5/07/2022;Kayla;16;Scotiabank;0;1;0;1;Sede 3;0;0;1;Lettering
+Theresa;200;Miraflores;Escolar;Agosto;2022;2/08/2022;Ashley;16;Scotiabank;0;1;0;1;Sede 1;1;0;0;Comic
+Mark;200;Surco;Escolar;Agosto;2022;2/08/2022;Kayla;16;Efectivo;0;1;0;1;Sede 3;0;0;1;Manga
+Nathan;200;Molina;Escolar;Agosto;2022;2/08/2022;David;16;BCP;0;1;0;1;Sede 1;1;0;0;Dibujo
+Barbara;200;Villa el Salvador;Escolar;Agosto;2022;2/08/2022;Kayla;16;Scotiabank;0;1;0;1;Sede 3;0;0;1;Lettering
+Theresa;200;Miraflores;Escolar;Setiembre;2022;1/09/2022;Ashley;16;Scotiabank;0;1;0;1;Sede 1;1;0;0;Comic
+Mark;200;Surco;Escolar;Setiembre;2022;1/09/2022;Kayla;16;Efectivo;0;1;0;1;Sede 3;0;0;1;Manga
+Nathan;200;Molina;Escolar;Setiembre;2022;1/09/2022;David;16;BCP;0;1;0;1;Sede 1;1;0;0;Dibujo
+Barbara;200;Villa el Salvador;Escolar;Setiembre;2022;1/09/2022;Kayla;16;Scotiabank;0;1;0;1;Sede 3;0;0;1;Lettering
+Theresa;200;Miraflores;Escolar;Octubre;2022;4/10/2022;Ashley;16;Scotiabank;0;1;0;1;Sede 1;1;0;0;Comic
+Mark;200;Surco;Escolar;Octubre;2022;4/10/2022;Kayla;16;Efectivo;0;1;0;1;Sede 3;0;0;1;Manga
+Nathan;200;Molina;Escolar;Octubre;2022;4/10/2022;David;16;BCP;0;1;0;1;Sede 1;1;0;0;Dibujo
+Barbara;200;Villa el Salvador;Escolar;Octubre;2022;4/10/2022;Kayla;16;Scotiabank;0;1;0;1;Sede 3;0;0;1;Lettering
+Theresa;200;Miraflores;Escolar;Noviembre;2022;1/11/2022;Ashley;16;Scotiabank;0;1;0;1;Sede 1;1;0;0;Comic
+Mark;200;Surco;Escolar;Noviembre;2022;1/11/2022;Kayla;16;Efectivo;0;1;0;1;Sede 3;0;0;1;Manga
+Nathan;200;Molina;Escolar;Noviembre;2022;1/11/2022;David;16;BCP;0;1;0;1;Sede 1;1;0;0;Dibujo
+Barbara;200;Villa el Salvador;Escolar;Noviembre;2022;1/11/2022;Kayla;16;Scotiabank;0;1;0;1;Sede 3;0;0;1;Lettering
+Theresa;200;Miraflores;Escolar;Diciembre;2022;3/12/2022;Ashley;16;Scotiabank;0;1;0;1;Sede 1;1;0;0;Comic
+Mark;200;Surco;Escolar;Diciembre;2022;3/12/2022;Kayla;16;Efectivo;0;1;0;1;Sede 3;0;0;1;Manga
+Nathan;200;Molina;Escolar;Diciembre;2022;3/12/2022;David;16;BCP;0;1;0;1;Sede 1;1;0;0;Dibujo
+Barbara;200;Villa el Salvador;Escolar;Diciembre;2022;3/12/2022;Kayla;16;Scotiabank;0;1;0;1;Sede 3;0;0;1;Lettering
+Sylvia;200;SJL;Verano;Agosto;2019;10/11/2019;Angela;16;BVBA;0;1;0;1;Sede 1;1;0;0;Comic
+Scott;200;Brenia;Invierno;Agosto;2019;24/11/2019;Heather;16;Yape;0;1;0;1;Sede 1;1;0;0;Dibujo
+Scott;200;Villa el Salvador;Otonio;Octubre;2019;19/11/2019;Jocelyn;16;Efectivo;0;1;0;1;Sede 3;0;0;1;Lettering
+Samantha;200;Villa el Salvador;Escolar;Marzo;2019;2/07/2019;Micheal;16;Yape;0;1;0;1;Sede 2;0;1;0;Dibujo
+Steven;200;Surco;Otonio;Febrero;2019;1/02/2019;Paula;16;BCP;0;1;0;1;Sede 1;1;0;0;Comic
+William;200;SJL;Primavera;Octubre;2019;26/05/2019;Kenneth;16;Yape;0;1;0;1;Sede 3;0;0;1;Dibujo
+Ashley;200;Brenia;Verano;Abril;2019;17/05/2019;Karen;16;PLIN;0;1;0;1;Sede 1;1;0;0;Dibujo
+Mary;200;Brenia;Invierno;Junio;2019;21/06/2019;Christopher;16;BVBA;0;1;0;1;Sede 2;0;1;0;Manga
+Joshua;200;Villa el Salvador;Invierno;Diciembre;2019;23/05/2019;Elizabeth;16;Efectivo;0;1;0;1;Sede 3;0;0;1;Comic
+William;200;Villa el Salvador;Otonio;Marzo;2019;11/04/2019;Jake;16;BVBA;0;1;0;1;Sede 1;1;0;0;Dibujo
+Joseph;200;Molina;Otonio;Mayo;2019;1/06/2019;Beverly;16;PLIN;0;1;0;1;Sede 2;0;1;0;Comic
+Jared;200;Villa el Salvador;Invierno;Mayo;2019;24/05/2019;Alexandria;16;Efectivo;0;1;0;1;Sede 3;0;0;1;Pintura
+Kathleen;200;Miraflores;Escolar;Enero;2019;7/03/2019;Sharon;16;Yape;0;1;0;1;Sede 1;1;0;0;Manga
+Rhonda;200;Brenia;Otonio;Enero;2019;23/09/2019;Brian;16;PLIN;0;1;0;1;Sede 3;0;0;1;Pintura
+Amy;200;Miraflores;Invierno;Noviembre;2019;17/12/2019;Leroy;16;Scotiabank;0;1;0;1;Sede 3;0;0;1;Pintura
+Mark;200;Brenia;Invierno;Noviembre;2019;1/07/2019;Pamela;16;PLIN;0;1;0;1;Sede 3;0;0;1;Dibujo
+Michelle;200;Surco;Escolar;Diciembre;2019;29/10/2019;Susan;16;Efectivo;0;1;0;1;Sede 1;1;0;0;Pintura
+Richard;200;Molina;Escolar;Setiembre;2019;19/05/2019;Lauren;16;Efectivo;0;1;0;1;Sede 3;0;0;1;Manga
+Linda;200;Surco;Primavera;Agosto;2019;30/03/2019;Nathan;16;PLIN;0;1;0;1;Sede 2;0;1;0;Manga
+Victor;200;Surco;Primavera;Julio;2019;23/05/2019;Erik;16;Efectivo;0;1;0;1;Sede 1;1;0;0;Pintura
+Gloria;200;Brenia;Invierno;Agosto;2019;9/01/2019;Christopher;16;BCP;0;1;0;1;Sede 1;1;0;0;Manga
+Brian;200;Brenia;Verano;Agosto;2019;28/01/2019;Brittany;16;Efectivo;0;1;0;1;Sede 3;0;0;1;Lettering
+Matthew;200;Brenia;Verano;Julio;2020;14/02/2020;Stephen;16;PLIN;0;1;0;1;Sede 2;0;1;0;Lettering
+Jacqueline;200;Villa el Salvador;Invierno;Julio;2020;11/09/2020;Jamie;16;Efectivo;0;1;0;1;Sede 1;1;0;0;Manga
+Kristen;200;Miraflores;Verano;Junio;2020;7/08/2020;Anna;16;BVBA;0;1;0;1;Sede 2;0;1;0;Pintura
+Brian;200;Villa el Salvador;Verano;Marzo;2020;14/12/2020;Angela;16;Efectivo;0;1;0;1;Sede 3;0;0;1;Manga
+Loretta;200;Brenia;Invierno;Abril;2020;12/12/2020;Joseph;16;BVBA;0;1;0;1;Sede 3;0;0;1;Lettering
+Micheal;200;Villa el Salvador;Invierno;Abril;2020;11/07/2020;Thomas;16;Efectivo;0;1;0;1;Sede 3;0;0;1;Comic
+Brittany;200;Molina;Verano;Enero;2020;12/12/2020;Jeffrey;16;Efectivo;0;1;0;1;Sede 3;0;0;1;Comic
+Brenda;200;Molina;Verano;Febrero;2020;6/06/2020;Michelle;16;BCP;0;1;0;1;Sede 2;0;1;0;Dibujo
+Cameron;200;Comas;Primavera;Diciembre;2020;29/03/2020;Justin;16;PLIN;0;1;0;1;Sede 3;0;0;1;Manga
+Daniel;200;Miraflores;Escolar;Mayo;2020;10/12/2020;Andrew;16;Efectivo;0;1;0;1;Sede 1;1;0;0;Dibujo
+Michelle;200;Miraflores;Primavera;Junio;2020;25/12/2020;Jennifer;16;BVBA;0;1;0;1;Sede 1;1;0;0;Comic
+James;200;Villa el Salvador;Primavera;Julio;2020;10/02/2020;Amanda;16;PLIN;0;1;0;1;Sede 3;0;0;1;Lettering
+Brian;200;Surco;Otonio;Junio;2020;13/11/2020;Adam;16;Efectivo;0;1;0;1;Sede 1;1;0;0;Lettering
+Jose;200;Molina;Otonio;Diciembre;2020;24/06/2020;Kristi;16;Scotiabank;0;1;0;1;Sede 2;0;1;0;Lettering
+Elizabeth;200;Molina;Invierno;Febrero;2023;15/06/2023;Chad;16;BVBA;0;1;0;1;Sede 3;0;0;1;Lettering
+Sandra;200;SJL;Invierno;Agosto;2023;20/10/2023;Robert;16;PLIN;0;1;0;1;Sede 2;0;1;0;Manga
+Carrie;200;Surco;Invierno;Enero;2023;28/01/2023;Melissa;16;Efectivo;0;1;0;1;Sede 2;0;1;0;Pintura
+Janice;200;Molina;Escolar;Marzo;2023;6/01/2023;Phillip;16;Yape;0;1;0;1;Sede 2;0;1;0;Dibujo
+Melissa;200;Miraflores;Verano;Agosto;2023;31/03/2023;Donna;16;Yape;0;1;0;1;Sede 2;0;1;0;Manga
+Richard;200;Surco;Otonio;Octubre;2023;26/02/2023;Brian;15;PLIN;0;1;0;1;Sede 1;1;0;0;Manga
+Sean;200;Miraflores;Otonio;Julio;2023;3/10/2023;John;16;PLIN;0;1;0;1;Sede 1;1;0;0;Manga
+Timothy;200;Miraflores;Escolar;Octubre;2023;1/05/2023;James;16;PLIN;0;1;0;1;Sede 2;0;1;0;Lettering
+Timothy;200;Miraflores;Verano;Mayo;2023;2/10/2023;Abigail;16;BVBA;0;1;0;1;Sede 3;0;0;1;Pintura
+Eric;200;Surco;Escolar;Octubre;2023;1/04/2023;Victoria;16;PLIN;0;1;0;1;Sede 2;0;1;0;Pintura
+Lorraine;200;Miraflores;Verano;Marzo;2023;3/08/2023;Christopher;16;BCP;0;1;0;1;Sede 2;0;1;0;Comic
+Randy;200;Miraflores;Escolar;Octubre;2023;16/03/2023;Jacqueline;15;Efectivo;0;1;0;1;Sede 1;1;0;0;Lettering
+Christopher;200;SJL;Invierno;Octubre;2023;22/11/2023;Crystal;14;Efectivo;0;1;0;1;Sede 3;0;0;1;Pintura
+Jacob;200;Molina;Invierno;Marzo;2023;22/10/2023;Stephen;16;Scotiabank;0;1;0;1;Sede 1;1;0;0;Pintura
+Lisa;200;Villa el Salvador;Verano;Agosto;2023;23/12/2023;Jessica;16;Efectivo;0;1;0;1;Sede 1;1;0;0;Comic
+Scott;200;Comas;Primavera;Octubre;2023;20/11/2023;Rodney;14;Efectivo;0;1;0;1;Sede 2;0;1;0;Manga
+Kimberly;200;Surco;Otonio;Abril;2023;8/12/2023;Nathan;16;Yape;0;1;0;1;Sede 2;0;1;0;Lettering
+Anna;200;Miraflores;Invierno;Febrero;2023;17/11/2023;Jeanne;16;Scotiabank;0;1;0;1;Sede 3;0;0;1;Comic
+Eric;200;Miraflores;Escolar;Octubre;2023;13/06/2023;Bobby;13;BCP;0;1;0;1;Sede 3;0;0;1;Manga
+Matthew;200;Miraflores;Otonio;Febrero;2023;6/05/2023;Andrea;16;BCP;0;1;0;1;Sede 3;0;0;1;Comic
+Denise;200;Miraflores;Escolar;Octubre;2023;21/07/2023;Patricia;12;Efectivo;0;1;0;1;Sede 2;0;1;0;Lettering
+Jessica;200;Surco;Escolar;Abril;2022;5/04/2022;Joanne;15;BCP;0;1;0;1;Sede 3;0;0;1;Manga
+Jordan;200;Comas;Escolar;Abril;2022;5/04/2022;Samuel;15;BCP;0;1;0;1;Sede 1;1;0;0;Pintura
+Derek;200;Surco;Escolar;Abril;2022;5/04/2022;Louis;15;PLIN;0;1;0;1;Sede 2;0;1;0;Manga
+Michael;200;Miraflores;Escolar;Abril;2022;5/04/2022;Melissa;15;BVBA;0;1;0;1;Sede 3;0;0;1;Comic
+Jessica;200;Surco;Escolar;Mayo;2022;3/05/2022;Joanne;15;BCP;0;1;0;1;Sede 3;0;0;1;Manga
+Jordan;200;Comas;Escolar;Mayo;2022;3/05/2022;Samuel;15;BCP;0;1;0;1;Sede 1;1;0;0;Pintura
+Derek;200;Surco;Escolar;Mayo;2022;3/05/2022;Louis;15;PLIN;0;1;0;1;Sede 2;0;1;0;Manga
+Michael;200;Miraflores;Escolar;Mayo;2022;3/05/2022;Melissa;15;BVBA;0;1;0;1;Sede 3;0;0;1;Comic
+Jessica;200;Surco;Escolar;Junio;2022;7/06/2022;Joanne;15;BCP;0;1;0;1;Sede 3;0;0;1;Manga
+Jordan;200;Comas;Escolar;Junio;2022;7/06/2022;Samuel;15;BCP;0;1;0;1;Sede 1;1;0;0;Pintura
+Derek;200;Surco;Escolar;Junio;2022;7/06/2022;Louis;15;PLIN;0;1;0;1;Sede 2;0;1;0;Manga
+Michael;200;Miraflores;Escolar;Junio;2022;7/06/2022;Melissa;15;BVBA;0;1;0;1;Sede 3;0;0;1;Comic
+Jessica;200;Surco;Escolar;Julio;2022;5/07/2022;Joanne;15;BCP;0;1;0;1;Sede 3;0;0;1;Manga
+Jordan;200;Comas;Escolar;Julio;2022;5/07/2022;Samuel;15;BCP;0;1;0;1;Sede 1;1;0;0;Pintura
+Derek;200;Surco;Escolar;Julio;2022;5/07/2022;Louis;15;PLIN;0;1;0;1;Sede 2;0;1;0;Manga
+Michael;200;Miraflores;Escolar;Julio;2022;5/07/2022;Melissa;15;BVBA;0;1;0;1;Sede 3;0;0;1;Comic
+Jessica;200;Surco;Escolar;Agosto;2022;2/08/2022;Joanne;15;BCP;0;1;0;1;Sede 3;0;0;1;Manga
+Jordan;200;Comas;Escolar;Agosto;2022;2/08/2022;Samuel;15;BCP;0;1;0;1;Sede 1;1;0;0;Pintura
+Derek;200;Surco;Escolar;Agosto;2022;2/08/2022;Louis;15;PLIN;0;1;0;1;Sede 2;0;1;0;Manga
+Michael;200;Miraflores;Escolar;Agosto;2022;2/08/2022;Melissa;15;BVBA;0;1;0;1;Sede 3;0;0;1;Comic
+Jessica;200;Surco;Escolar;Setiembre;2022;1/09/2022;Joanne;15;BCP;0;1;0;1;Sede 3;0;0;1;Manga
+Jordan;200;Comas;Escolar;Setiembre;2022;1/09/2022;Samuel;15;BCP;0;1;0;1;Sede 1;1;0;0;Pintura
+Derek;200;Surco;Escolar;Setiembre;2022;1/09/2022;Louis;15;PLIN;0;1;0;1;Sede 2;0;1;0;Manga
+Michael;200;Miraflores;Escolar;Setiembre;2022;1/09/2022;Melissa;15;BVBA;0;1;0;1;Sede 3;0;0;1;Comic
+Jessica;200;Surco;Escolar;Octubre;2022;4/10/2022;Joanne;15;BCP;0;1;0;1;Sede 3;0;0;1;Manga
+Jordan;200;Comas;Escolar;Octubre;2022;4/10/2022;Samuel;15;BCP;0;1;0;1;Sede 1;1;0;0;Pintura
+Derek;200;Surco;Escolar;Octubre;2022;4/10/2022;Louis;15;PLIN;0;1;0;1;Sede 2;0;1;0;Manga
+Michael;200;Miraflores;Escolar;Octubre;2022;4/10/2022;Melissa;15;BVBA;0;1;0;1;Sede 3;0;0;1;Comic
+Jessica;200;Surco;Escolar;Noviembre;2022;1/11/2022;Joanne;15;BCP;0;1;0;1;Sede 3;0;0;1;Manga
+Jordan;200;Comas;Escolar;Noviembre;2022;1/11/2022;Samuel;15;BCP;0;1;0;1;Sede 1;1;0;0;Pintura
+Derek;200;Surco;Escolar;Noviembre;2022;1/11/2022;Louis;15;PLIN;0;1;0;1;Sede 2;0;1;0;Manga
+Michael;200;Miraflores;Escolar;Noviembre;2022;1/11/2022;Melissa;15;BVBA;0;1;0;1;Sede 3;0;0;1;Comic
+Jessica;200;Surco;Escolar;Diciembre;2022;3/12/2022;Joanne;15;BCP;0;1;0;1;Sede 3;0;0;1;Manga
+Jordan;200;Comas;Escolar;Diciembre;2022;3/12/2022;Samuel;15;BCP;0;1;0;1;Sede 1;1;0;0;Pintura
+Derek;200;Surco;Escolar;Diciembre;2022;3/12/2022;Louis;15;PLIN;0;1;0;1;Sede 2;0;1;0;Manga
+Michael;200;Miraflores;Escolar;Diciembre;2022;3/12/2022;Melissa;15;BVBA;0;1;0;1;Sede 3;0;0;1;Comic
+Rebecca;200;Brenia;Invierno;Diciembre;2019;1/09/2019;Mary;15;Scotiabank;0;1;0;1;Sede 2;0;1;0;Dibujo
+Courtney;200;Villa el Salvador;Primavera;Setiembre;2019;16/02/2019;Mark;15;BCP;0;1;0;1;Sede 1;1;0;0;Pintura
+Frank;200;Brenia;Verano;Enero;2019;4/03/2019;David;15;Yape;0;1;0;1;Sede 1;1;0;0;Manga
+Latoya;200;Miraflores;Otonio;Octubre;2019;25/04/2019;Harold;15;BVBA;0;1;0;1;Sede 2;0;1;0;Comic
+Gary;200;Comas;Invierno;Diciembre;2019;22/12/2019;Sean;15;BCP;0;1;0;1;Sede 1;1;0;0;Comic
+Eric;200;Miraflores;Otonio;Marzo;2019;17/01/2019;Karen;15;Efectivo;0;1;0;1;Sede 3;0;0;1;Pintura
+Maria;200;Molina;Primavera;Enero;2019;3/02/2019;Jeffery;15;Scotiabank;0;1;0;1;Sede 1;1;0;0;Comic
+Steven;200;Surco;Primavera;Diciembre;2019;23/01/2019;Joseph;15;PLIN;0;1;0;1;Sede 1;1;0;0;Comic
+Robin;200;Villa el Salvador;Primavera;Mayo;2019;29/06/2019;Kelli;15;BCP;0;1;0;1;Sede 3;0;0;1;Lettering
+Joshua;200;Miraflores;Otonio;Junio;2019;29/12/2019;Jessica;15;BVBA;0;1;0;1;Sede 3;0;0;1;Manga
+Teresa;200;Brenia;Escolar;Mayo;2019;2/10/2019;Rodney;15;PLIN;0;1;0;1;Sede 1;1;0;0;Dibujo
+Julian;200;SJL;Primavera;Setiembre;2019;5/12/2019;Crystal;15;Efectivo;0;1;0;1;Sede 2;0;1;0;Manga
+Sara;200;SJL;Primavera;Marzo;2019;24/10/2019;Jonathan;15;BVBA;0;1;0;1;Sede 1;1;0;0;Dibujo
+Joseph;200;Surco;Verano;Junio;2019;10/03/2019;Natasha;15;BCP;0;1;0;1;Sede 1;1;0;0;Manga
+Gail;200;Brenia;Verano;Febrero;2019;1/09/2019;Richard;15;Yape;0;1;0;1;Sede 1;1;0;0;Comic
+Emily;200;Villa el Salvador;Invierno;Octubre;2019;9/11/2019;Daniel;15;Yape;0;1;0;1;Sede 1;1;0;0;Pintura
+Jenny;200;Comas;Otonio;Agosto;2019;16/11/2019;Shannon;15;PLIN;0;1;0;1;Sede 1;1;0;0;Pintura
+Sandra;200;Surco;Primavera;Junio;2019;3/08/2019;William;15;BCP;0;1;0;1;Sede 1;1;0;0;Comic
+Bryan;200;Miraflores;Primavera;Julio;2020;28/08/2020;Katherine;15;PLIN;0;1;0;1;Sede 3;0;0;1;Dibujo
+Tracey;200;Villa el Salvador;Verano;Julio;2020;22/11/2020;John;15;BCP;0;1;0;1;Sede 1;1;0;0;Lettering
+Charles;200;Surco;Primavera;Febrero;2020;23/01/2020;Thomas;15;Efectivo;0;1;0;1;Sede 1;1;0;0;Pintura
+Michael;200;Surco;Otonio;Febrero;2020;2/03/2020;Tiffany;15;PLIN;0;1;0;1;Sede 2;0;1;0;Dibujo
+Heather;200;Surco;Verano;Julio;2020;19/06/2020;David;15;BVBA;0;1;0;1;Sede 1;1;0;0;Dibujo
+Laura;200;Brenia;Verano;Diciembre;2020;25/07/2020;Joanna;15;Scotiabank;0;1;0;1;Sede 1;1;0;0;Dibujo
+Daniel;200;Brenia;Primavera;Setiembre;2020;22/03/2020;Brian;15;BVBA;0;1;0;1;Sede 2;0;1;0;Lettering
+Christine;200;Surco;Otonio;Enero;2020;24/05/2020;Victoria;15;Scotiabank;0;1;0;1;Sede 2;0;1;0;Manga
+Thomas;200;Molina;Escolar;Febrero;2020;3/07/2020;Julie;15;Efectivo;0;1;0;1;Sede 2;0;1;0;Pintura
+Robert;200;Surco;Escolar;Julio;2020;24/01/2020;Samuel;15;Efectivo;0;1;0;1;Sede 2;0;1;0;Lettering
+Cindy;200;Surco;Invierno;Abril;2020;13/02/2020;Andrea;15;Scotiabank;0;1;0;1;Sede 2;0;1;0;Manga
+Tammy;200;Surco;Otonio;Setiembre;2020;30/10/2020;Erica;15;PLIN;0;1;0;1;Sede 1;1;0;0;Manga
+Renee;200;Villa el Salvador;Verano;Febrero;2020;22/01/2020;Cynthia;15;Scotiabank;0;1;0;1;Sede 1;1;0;0;Pintura
+Dana;200;Miraflores;Verano;Setiembre;2020;30/05/2020;Robin;15;BCP;0;1;0;1;Sede 2;0;1;0;Manga
+Jimmy;200;SJL;Invierno;Diciembre;2020;31/03/2020;Christopher;15;Yape;0;1;0;1;Sede 3;0;0;1;Comic
+Sean;200;Molina;Invierno;Junio;2020;17/02/2020;Michael;15;Scotiabank;0;1;0;1;Sede 2;0;1;0;Dibujo
+Jennifer;200;Molina;Verano;Octubre;2020;27/06/2020;Edward;15;Scotiabank;0;1;0;1;Sede 1;1;0;0;Manga
+Joshua;200;Comas;Escolar;Abril;2020;15/03/2020;George;15;BCP;0;1;0;1;Sede 1;1;0;0;Manga
+Tanner;200;Surco;Escolar;Diciembre;2020;1/10/2020;Donna;15;BVBA;0;1;0;1;Sede 2;0;1;0;Lettering
+Cody;200;Surco;Verano;Mayo;2020;14/02/2020;Matthew;15;Yape;0;1;0;1;Sede 3;0;0;1;Comic
+Mark;200;Villa el Salvador;Verano;Febrero;2020;4/02/2020;Allison;15;PLIN;0;1;0;1;Sede 2;0;1;0;Dibujo
+Terri;200;Surco;Verano;Setiembre;2020;9/09/2020;Jason;15;BCP;0;1;0;1;Sede 3;0;0;1;Dibujo
+Jose;200;Surco;Invierno;Setiembre;2020;6/03/2020;Ronald;15;Scotiabank;0;1;0;1;Sede 1;1;0;0;Pintura
+Tyler;200;Miraflores;Otonio;Mayo;2020;12/06/2020;Billy;15;Scotiabank;0;1;0;1;Sede 1;1;0;0;Dibujo
+Tina;200;Miraflores;Otonio;Setiembre;2020;30/07/2020;Megan;15;PLIN;0;1;0;1;Sede 3;0;0;1;Pintura
+Jonathan;200;Comas;Escolar;Enero;2023;5/11/2023;Sherri;15;PLIN;0;1;0;1;Sede 3;0;0;1;Lettering
+Lance;200;SJL;Escolar;Octubre;2023;12/01/2023;Alexis;12;PLIN;0;1;0;1;Sede 3;0;0;1;Comic
+Kathryn;200;Molina;Verano;Octubre;2023;9/09/2023;Douglas;12;BCP;0;1;0;1;Sede 2;0;1;0;Lettering
+Yolanda;200;Surco;Primavera;Febrero;2023;18/08/2023;Jose;15;Scotiabank;0;1;0;1;Sede 2;0;1;0;Lettering
+Kevin;200;Villa el Salvador;Escolar;Octubre;2023;13/09/2023;Tammy;10;BVBA;1;0;0;1;Sede 1;1;0;0;Lettering
+Michael;200;SJL;Invierno;Febrero;2023;11/02/2023;Beth;15;BVBA;0;1;0;1;Sede 2;0;1;0;Lettering
+Jeffrey;200;Brenia;Verano;Agosto;2023;16/07/2023;Maxwell;15;BVBA;0;1;0;1;Sede 3;0;0;1;Comic
+Terry;200;Brenia;Verano;Setiembre;2023;29/12/2023;Ronald;15;BCP;0;1;0;1;Sede 2;0;1;0;Manga
+Michael;200;SJL;Otonio;Octubre;2023;10/10/2023;Shawna;15;Yape;0;1;0;1;Sede 3;0;0;1;Dibujo
+Adrian;200;Miraflores;Verano;Julio;2023;22/05/2023;Robert;15;PLIN;0;1;0;1;Sede 2;0;1;0;Dibujo
+Abigail;200;Villa el Salvador;Otonio;Abril;2023;3/02/2023;Eric;15;Scotiabank;0;1;0;1;Sede 1;1;0;0;Lettering
+Robert;200;Miraflores;Invierno;Setiembre;2023;29/12/2023;Nichole;15;Yape;0;1;0;1;Sede 3;0;0;1;Dibujo
+Robert;200;Brenia;Invierno;Febrero;2023;17/01/2023;Maureen;15;PLIN;0;1;0;1;Sede 1;1;0;0;Dibujo
+Henry;200;SJL;Primavera;Junio;2023;28/06/2023;Christopher;15;Efectivo;0;1;0;1;Sede 3;0;0;1;Manga
+James;200;Molina;Primavera;Abril;2023;15/03/2023;Stephanie;15;Yape;0;1;0;1;Sede 3;0;0;1;Lettering
+Melanie;200;Miraflores;Otonio;Febrero;2023;15/01/2023;Ernest;15;Efectivo;0;1;0;1;Sede 1;1;0;0;Lettering
+Nichole;200;Miraflores;Invierno;Marzo;2023;16/08/2023;Laura;15;PLIN;0;1;0;1;Sede 3;0;0;1;Comic
+Michele;200;Molina;Verano;Octubre;2023;7/07/2023;Paul;15;Scotiabank;0;1;0;1;Sede 2;0;1;0;Manga
+Erica;200;Surco;Escolar;Enero;2023;20/04/2023;Ricky;15;BCP;0;1;0;1;Sede 3;0;0;1;Manga
+Jared;200;Villa el Salvador;Otonio;Octubre;2023;13/11/2023;Christopher;10;Yape;1;0;0;1;Sede 1;1;0;0;Dibujo
+Margaret;200;Surco;Invierno;Mayo;2023;7/03/2023;Allison;15;Scotiabank;0;1;0;1;Sede 2;0;1;0;Dibujo
+William;200;Surco;Escolar;Febrero;2023;2/04/2023;Caleb;15;BVBA;0;1;0;1;Sede 3;0;0;1;Comic
+Jose;200;SJL;Primavera;Mayo;2023;10/08/2023;Ashley;15;Yape;0;1;0;1;Sede 2;0;1;0;Lettering
+Kayla;200;Molina;Primavera;Setiembre;2023;26/09/2023;Joshua;15;BCP;0;1;0;1;Sede 2;0;1;0;Pintura
+Michael;200;SJL;Escolar;Octubre;2023;13/03/2023;Lauren;9;Yape;1;0;0;1;Sede 2;0;1;0;Lettering
+Heather;200;SJL;Invierno;Junio;2023;12/12/2023;Douglas;15;Efectivo;0;1;0;1;Sede 3;0;0;1;Comic
+Bryan;200;Brenia;Escolar;Octubre;2023;19/08/2023;Danielle;9;Efectivo;1;0;0;1;Sede 2;0;1;0;Dibujo
+Monica;200;Villa el Salvador;Escolar;Abril;2022;5/04/2022;Nathan;14;PLIN;0;1;0;1;Sede 1;1;0;0;Lettering
+Lori;200;Comas;Escolar;Abril;2022;5/04/2022;William;14;Efectivo;0;1;0;1;Sede 2;0;1;0;Dibujo
+Jerry;200;Surco;Escolar;Abril;2022;5/04/2022;Ashley;14;Yape;0;1;0;1;Sede 1;1;0;0;Lettering
+Mary;200;Miraflores;Escolar;Abril;2022;5/04/2022;Christine;14;BCP;0;1;0;1;Sede 2;0;1;0;Pintura
+Monica;200;Villa el Salvador;Escolar;Mayo;2022;3/05/2022;Nathan;14;PLIN;0;1;0;1;Sede 1;1;0;0;Lettering
+Lori;200;Comas;Escolar;Mayo;2022;3/05/2022;William;14;Efectivo;0;1;0;1;Sede 2;0;1;0;Dibujo
+Jerry;200;Surco;Escolar;Mayo;2022;3/05/2022;Ashley;14;Yape;0;1;0;1;Sede 1;1;0;0;Lettering
+Mary;200;Miraflores;Escolar;Mayo;2022;3/05/2022;Christine;14;BCP;0;1;0;1;Sede 2;0;1;0;Pintura
+Monica;200;Villa el Salvador;Escolar;Junio;2022;7/06/2022;Nathan;14;PLIN;0;1;0;1;Sede 1;1;0;0;Lettering
+Lori;200;Comas;Escolar;Junio;2022;7/06/2022;William;14;Efectivo;0;1;0;1;Sede 2;0;1;0;Dibujo
+Jerry;200;Surco;Escolar;Junio;2022;7/06/2022;Ashley;14;Yape;0;1;0;1;Sede 1;1;0;0;Lettering
+Mary;200;Miraflores;Escolar;Junio;2022;7/06/2022;Christine;14;BCP;0;1;0;1;Sede 2;0;1;0;Pintura
+Monica;200;Villa el Salvador;Escolar;Julio;2022;5/07/2022;Nathan;14;PLIN;0;1;0;1;Sede 1;1;0;0;Lettering
+Lori;200;Molina;Escolar;Julio;2022;5/07/2022;William;14;Efectivo;0;1;0;1;Sede 2;0;1;0;Dibujo
+Jerry;200;Villa el Salvador;Escolar;Julio;2022;5/07/2022;Ashley;14;Yape;0;1;0;1;Sede 1;1;0;0;Lettering
+Mary;200;Comas;Escolar;Julio;2022;5/07/2022;Christine;14;BCP;0;1;0;1;Sede 2;0;1;0;Pintura
+Monica;200;Villa el Salvador;Escolar;Agosto;2022;2/08/2022;Nathan;14;PLIN;0;1;0;1;Sede 1;1;0;0;Lettering
+Lori;200;Molina;Escolar;Agosto;2022;2/08/2022;William;14;Efectivo;0;1;0;1;Sede 2;0;1;0;Dibujo
+Jerry;200;Villa el Salvador;Escolar;Agosto;2022;2/08/2022;Ashley;14;Yape;0;1;0;1;Sede 1;1;0;0;Lettering
+Mary;200;Comas;Escolar;Agosto;2022;2/08/2022;Christine;14;BCP;0;1;0;1;Sede 2;0;1;0;Pintura
+Monica;200;Villa el Salvador;Escolar;Setiembre;2022;1/09/2022;Nathan;14;PLIN;0;1;0;1;Sede 1;1;0;0;Lettering
+Lori;200;Molina;Escolar;Setiembre;2022;1/09/2022;William;14;Efectivo;0;1;0;1;Sede 2;0;1;0;Dibujo
+Jerry;200;Villa el Salvador;Escolar;Setiembre;2022;1/09/2022;Ashley;14;Yape;0;1;0;1;Sede 1;1;0;0;Lettering
+Mary;200;Comas;Escolar;Setiembre;2022;1/09/2022;Christine;14;BCP;0;1;0;1;Sede 2;0;1;0;Pintura
+Monica;200;Villa el Salvador;Escolar;Octubre;2022;4/10/2022;Nathan;14;PLIN;0;1;0;1;Sede 1;1;0;0;Lettering
+Lori;200;Molina;Escolar;Octubre;2022;4/10/2022;William;14;Efectivo;0;1;0;1;Sede 2;0;1;0;Dibujo
+Jerry;200;Villa el Salvador;Escolar;Octubre;2022;4/10/2022;Ashley;14;Yape;0;1;0;1;Sede 1;1;0;0;Lettering
+Mary;200;Comas;Escolar;Octubre;2022;4/10/2022;Christine;14;BCP;0;1;0;1;Sede 2;0;1;0;Pintura
+Monica;200;Villa el Salvador;Escolar;Noviembre;2022;1/11/2022;Nathan;14;PLIN;0;1;0;1;Sede 1;1;0;0;Lettering
+Lori;200;Molina;Escolar;Noviembre;2022;1/11/2022;William;14;Efectivo;0;1;0;1;Sede 2;0;1;0;Dibujo
+Jerry;200;Villa el Salvador;Escolar;Noviembre;2022;1/11/2022;Ashley;14;Yape;0;1;0;1;Sede 1;1;0;0;Lettering
+Mary;200;Comas;Escolar;Noviembre;2022;1/11/2022;Christine;14;BCP;0;1;0;1;Sede 2;0;1;0;Pintura
+Monica;200;Villa el Salvador;Escolar;Diciembre;2022;3/12/2022;Nathan;14;PLIN;0;1;0;1;Sede 1;1;0;0;Lettering
+Lori;200;Molina;Escolar;Diciembre;2022;3/12/2022;William;14;Efectivo;0;1;0;1;Sede 2;0;1;0;Dibujo
+Jerry;200;Villa el Salvador;Escolar;Diciembre;2022;3/12/2022;Ashley;14;Yape;0;1;0;1;Sede 1;1;0;0;Lettering
+Mary;200;Comas;Escolar;Diciembre;2022;3/12/2022;Christine;14;BCP;0;1;0;1;Sede 2;0;1;0;Pintura
+Tammy;200;Villa el Salvador;Escolar;Diciembre;2019;6/08/2019;Rachel;14;BCP;0;1;0;1;Sede 2;0;1;0;Lettering
+Carl;200;Comas;Primavera;Junio;2019;30/08/2019;James;14;Scotiabank;0;1;0;1;Sede 1;1;0;0;Lettering
+Lance;200;Comas;Verano;Octubre;2019;12/10/2019;Sharon;14;PLIN;0;1;0;1;Sede 1;1;0;0;Comic
+Amber;200;Villa el Salvador;Verano;Noviembre;2019;28/02/2019;Christopher;14;Efectivo;0;1;0;1;Sede 3;0;0;1;Lettering
+Kevin;200;Molina;Verano;Noviembre;2019;19/03/2019;Sarah;14;PLIN;0;1;0;1;Sede 3;0;0;1;Dibujo
+Gregory;200;Miraflores;Verano;Mayo;2019;20/07/2019;Samantha;14;Yape;0;1;0;1;Sede 1;1;0;0;Comic
+Paul;200;Comas;Escolar;Octubre;2019;24/02/2019;Eddie;14;BCP;0;1;0;1;Sede 1;1;0;0;Pintura
+Wendy;200;Molina;Primavera;Diciembre;2019;24/12/2019;Joseph;14;BVBA;0;1;0;1;Sede 3;0;0;1;Manga
+Jordan;200;Brenia;Primavera;Julio;2019;20/07/2019;Mark;14;PLIN;0;1;0;1;Sede 2;0;1;0;Lettering
+Lisa;200;Miraflores;Otonio;Febrero;2019;10/10/2019;Hannah;14;BCP;0;1;0;1;Sede 1;1;0;0;Dibujo
+Steven;200;Molina;Otonio;Junio;2019;13/08/2019;Brandon;14;BVBA;0;1;0;1;Sede 2;0;1;0;Pintura
+Daniel;200;Molina;Otonio;Octubre;2019;25/04/2019;Heather;14;PLIN;0;1;0;1;Sede 3;0;0;1;Dibujo
+Jason;200;Molina;Invierno;Enero;2019;28/06/2019;Ross;14;BCP;0;1;0;1;Sede 1;1;0;0;Comic
+Lisa;200;Villa el Salvador;Verano;Octubre;2019;22/06/2019;Jo;14;PLIN;0;1;0;1;Sede 1;1;0;0;Lettering
+Adam;200;SJL;Verano;Noviembre;2020;2/11/2020;Crystal;14;BVBA;0;1;0;1;Sede 3;0;0;1;Comic
+Matthew;200;Comas;Otonio;Abril;2020;24/03/2020;Steven;14;BCP;0;1;0;1;Sede 1;1;0;0;Dibujo
+Darlene;200;Miraflores;Verano;Diciembre;2020;16/06/2020;Virginia;14;PLIN;0;1;0;1;Sede 3;0;0;1;Lettering
+Gabrielle;200;Brenia;Otonio;Julio;2020;25/08/2020;Kyle;14;Yape;0;1;0;1;Sede 2;0;1;0;Manga
+Whitney;200;Miraflores;Invierno;Marzo;2020;23/04/2020;James;14;Yape;0;1;0;1;Sede 2;0;1;0;Manga
+Stacey;200;Molina;Verano;Octubre;2020;3/10/2020;Jennifer;14;Efectivo;0;1;0;1;Sede 3;0;0;1;Comic
+Adam;200;Comas;Verano;Setiembre;2020;31/05/2020;Zachary;14;Yape;0;1;0;1;Sede 3;0;0;1;Lettering
+Sarah;200;Villa el Salvador;Escolar;Febrero;2020;9/12/2020;Eduardo;14;Efectivo;0;1;0;1;Sede 1;1;0;0;Pintura
+Dalton;200;SJL;Invierno;Setiembre;2020;8/03/2020;Amy;14;Scotiabank;0;1;0;1;Sede 3;0;0;1;Comic
+Thomas;200;Villa el Salvador;Otonio;Diciembre;2020;23/07/2020;Alexis;14;BVBA;0;1;0;1;Sede 1;1;0;0;Comic
+Sara;200;Miraflores;Otonio;Febrero;2020;12/11/2020;Jason;14;Efectivo;0;1;0;1;Sede 2;0;1;0;Pintura
+Michael;200;Villa el Salvador;Otonio;Noviembre;2020;24/09/2020;Elizabeth;14;BVBA;0;1;0;1;Sede 2;0;1;0;Lettering
+Julie;200;Villa el Salvador;Primavera;Junio;2020;27/01/2020;Richard;14;PLIN;0;1;0;1;Sede 2;0;1;0;Pintura
+Alexandria;200;Villa el Salvador;Escolar;Enero;2020;30/03/2020;Stephanie;14;Scotiabank;0;1;0;1;Sede 1;1;0;0;Dibujo
+Patrick;200;Villa el Salvador;Verano;Noviembre;2020;24/08/2020;Tracey;14;Scotiabank;0;1;0;1;Sede 2;0;1;0;Manga
+Randy;200;Molina;Invierno;Junio;2020;26/10/2020;Lauren;14;BVBA;0;1;0;1;Sede 2;0;1;0;Dibujo
+Jack;200;Miraflores;Otonio;Abril;2020;20/12/2020;Kent;14;Scotiabank;0;1;0;1;Sede 1;1;0;0;Manga
+Peter;200;Comas;Invierno;Abril;2020;9/10/2020;John;14;BVBA;0;1;0;1;Sede 1;1;0;0;Dibujo
+William;200;Brenia;Primavera;Marzo;2023;6/05/2023;Brandon;14;BCP;0;1;0;1;Sede 1;1;0;0;Lettering
+Erik;200;SJL;Verano;Enero;2023;26/07/2023;Stephen;14;Scotiabank;0;1;0;1;Sede 2;0;1;0;Comic
+Todd;200;SJL;Verano;Octubre;2023;1/01/2023;Brandon;14;BVBA;0;1;0;1;Sede 2;0;1;0;Dibujo
+Justin;200;Comas;Primavera;Enero;2023;6/12/2023;Loretta;14;Efectivo;0;1;0;1;Sede 2;0;1;0;Pintura
+Robin;200;Miraflores;Primavera;Octubre;2023;9/01/2023;Deborah;6;Efectivo;1;0;0;1;Sede 1;1;0;0;Comic
+Tyler;200;Surco;Otonio;Enero;2023;27/11/2023;Paul;14;PLIN;0;1;0;1;Sede 1;1;0;0;Dibujo
+Carla;200;Miraflores;Invierno;Octubre;2023;25/08/2023;Michael;6;BCP;1;0;0;1;Sede 2;0;1;0;Dibujo
+Spencer;200;SJL;Verano;Octubre;2023;7/06/2023;Nancy;14;Yape;0;1;0;1;Sede 2;0;1;0;Pintura
+Kristi;200;Brenia;Escolar;Marzo;2023;11/01/2023;Brandon;14;BCP;0;1;0;1;Sede 1;1;0;0;Pintura
+Jeffrey;200;Comas;Otonio;Julio;2023;25/08/2023;Jason;14;BVBA;0;1;0;1;Sede 2;0;1;0;Pintura
+Kim;200;Brenia;Invierno;Febrero;2023;23/07/2023;Kirsten;14;Efectivo;0;1;0;1;Sede 3;0;0;1;Manga
+Jennifer;200;Brenia;Otonio;Marzo;2023;26/09/2023;Laura;14;BVBA;0;1;0;1;Sede 3;0;0;1;Dibujo
+Charles;200;SJL;Escolar;Marzo;2023;3/01/2023;William;14;Scotiabank;0;1;0;1;Sede 3;0;0;1;Lettering
+Andrew;200;Comas;Verano;Enero;2023;31/07/2023;Sara;14;Scotiabank;0;1;0;1;Sede 2;0;1;0;Pintura
+Rachael;200;SJL;Invierno;Abril;2023;30/09/2023;Angie;14;BCP;0;1;0;1;Sede 1;1;0;0;Lettering
+Elizabeth;200;Villa el Salvador;Escolar;Octubre;2023;23/05/2023;Jeffrey;6;BVBA;1;0;0;1;Sede 3;0;0;1;Comic
+Andrew;200;Villa el Salvador;Invierno;Enero;2023;2/06/2023;Kelly;14;Scotiabank;0;1;0;1;Sede 2;0;1;0;Dibujo
+Eric;200;Villa el Salvador;Primavera;Febrero;2023;18/08/2023;Christopher;14;PLIN;0;1;0;1;Sede 3;0;0;1;Dibujo
+Abril;200;Villa el Salvador;Otonio;Abril;2023;27/12/2023;Michael;14;PLIN;0;1;0;1;Sede 3;0;0;1;Pintura
+Lawrence;200;Molina;Escolar;Abril;2022;5/04/2022;Brian;13;BCP;0;1;0;1;Sede 2;0;1;0;Dibujo
+Lawrence;200;Molina;Escolar;Mayo;2022;3/05/2022;Brian;13;BCP;0;1;0;1;Sede 2;0;1;0;Dibujo
+Lawrence;200;Molina;Escolar;Junio;2022;7/06/2022;Brian;13;BCP;0;1;0;1;Sede 2;0;1;0;Dibujo
+Lawrence;200;Molina;Escolar;Julio;2022;5/07/2022;Brian;13;BCP;0;1;0;1;Sede 2;0;1;0;Dibujo
+Lawrence;200;Molina;Escolar;Agosto;2022;2/08/2022;Brian;13;BCP;0;1;0;1;Sede 2;0;1;0;Dibujo
+Lawrence;200;Molina;Escolar;Setiembre;2022;1/09/2022;Brian;13;BCP;0;1;0;1;Sede 2;0;1;0;Dibujo
+Lawrence;200;Molina;Escolar;Octubre;2022;4/10/2022;Brian;13;BCP;0;1;0;1;Sede 2;0;1;0;Dibujo
+Lawrence;200;Molina;Escolar;Noviembre;2022;1/11/2022;Brian;13;BCP;0;1;0;1;Sede 2;0;1;0;Dibujo
+Lawrence;200;Molina;Escolar;Diciembre;2022;3/12/2022;Brian;13;BCP;0;1;0;1;Sede 2;0;1;0;Dibujo
+Crystal;200;Brenia;Escolar;Mayo;2019;2/05/2019;Patrick;13;Scotiabank;0;1;0;1;Sede 3;0;0;1;Lettering
+John;200;Comas;Invierno;Mayo;2019;16/11/2019;David;13;Yape;0;1;0;1;Sede 1;1;0;0;Comic
+Karen;200;Molina;Primavera;Diciembre;2019;5/11/2019;Michael;13;Scotiabank;0;1;0;1;Sede 3;0;0;1;Manga
+Alyssa;200;Molina;Invierno;Enero;2019;26/06/2019;Stephanie;13;Scotiabank;0;1;0;1;Sede 2;0;1;0;Comic
+Nicholas;200;Brenia;Verano;Diciembre;2019;30/11/2019;Andrea;13;Yape;0;1;0;1;Sede 3;0;0;1;Manga
+Robert;200;SJL;Escolar;Diciembre;2019;11/10/2019;Ryan;13;PLIN;0;1;0;1;Sede 1;1;0;0;Comic
+Ariel;200;Molina;Otonio;Junio;2019;2/05/2019;Beth;13;Efectivo;0;1;0;1;Sede 3;0;0;1;Manga
+Brandon;200;Surco;Invierno;Setiembre;2019;23/11/2019;Brian;13;Scotiabank;0;1;0;1;Sede 2;0;1;0;Comic
+Gary;200;Comas;Otonio;Agosto;2019;2/11/2019;Randy;13;BCP;0;1;0;1;Sede 2;0;1;0;Manga
+Jason;200;Molina;Invierno;Marzo;2019;4/09/2019;Lisa;13;BCP;0;1;0;1;Sede 1;1;0;0;Lettering
+James;200;Surco;Invierno;Marzo;2019;4/03/2019;Nancy;13;Efectivo;0;1;0;1;Sede 1;1;0;0;Manga
+Trevor;200;Brenia;Invierno;Agosto;2019;31/08/2019;James;13;PLIN;0;1;0;1;Sede 2;0;1;0;Dibujo
+Peter;200;Miraflores;Verano;Marzo;2019;1/05/2019;Laura;13;Scotiabank;0;1;0;1;Sede 3;0;0;1;Manga
+Tara;200;Molina;Verano;Mayo;2019;28/10/2019;Timothy;13;BCP;0;1;0;1;Sede 2;0;1;0;Manga
+Jennifer;200;Brenia;Escolar;Mayo;2019;7/08/2019;Jason;13;Scotiabank;0;1;0;1;Sede 3;0;0;1;Lettering
+Kimberly;200;Villa el Salvador;Otonio;Enero;2019;7/06/2019;Kyle;13;Efectivo;0;1;0;1;Sede 1;1;0;0;Dibujo
+Sean;200;Molina;Verano;Abril;2019;18/03/2019;Adam;13;Efectivo;0;1;0;1;Sede 3;0;0;1;Pintura
+Natasha;200;Surco;Otonio;Octubre;2019;11/01/2019;Alicia;13;BVBA;0;1;0;1;Sede 2;0;1;0;Manga
+Samantha;200;Molina;Verano;Junio;2019;9/09/2019;Patricia;13;BCP;0;1;0;1;Sede 2;0;1;0;Manga
+James;200;Villa el Salvador;Escolar;Diciembre;2019;25/04/2019;Toni;13;BCP;0;1;0;1;Sede 1;1;0;0;Dibujo
+Eric;200;Brenia;Primavera;Setiembre;2019;10/11/2019;Roger;13;PLIN;0;1;0;1;Sede 3;0;0;1;Comic
+Olivia;200;Comas;Primavera;Marzo;2019;11/08/2019;Jeremy;13;Efectivo;0;1;0;1;Sede 1;1;0;0;Lettering
+Crystal;200;Miraflores;Otonio;Julio;2019;6/12/2019;Benjamin;13;BVBA;0;1;0;1;Sede 2;0;1;0;Lettering
+Katherine;200;Miraflores;Otonio;Marzo;2019;7/07/2019;Laura;13;Efectivo;0;1;0;1;Sede 2;0;1;0;Lettering
+Lori;200;Brenia;Invierno;Febrero;2019;18/05/2019;Robert;13;Yape;0;1;0;1;Sede 3;0;0;1;Dibujo
+Michael;200;Villa el Salvador;Verano;Setiembre;2019;16/07/2019;Kimberly;13;BVBA;0;1;0;1;Sede 2;0;1;0;Pintura
+Daniel;200;Molina;Verano;Junio;2020;26/04/2020;Rachel;13;Scotiabank;0;1;0;1;Sede 3;0;0;1;Lettering
+Robert;200;SJL;Otonio;Noviembre;2020;17/02/2020;Adam;13;Efectivo;0;1;0;1;Sede 2;0;1;0;Pintura
+Douglas;200;Molina;Invierno;Julio;2020;18/08/2020;Richard;13;PLIN;0;1;0;1;Sede 2;0;1;0;Dibujo
+Stephanie;200;Surco;Primavera;Julio;2020;2/10/2020;Jessica;13;BVBA;0;1;0;1;Sede 1;1;0;0;Comic
+Hannah;200;Surco;Otonio;Mayo;2020;22/07/2020;Steven;13;Scotiabank;0;1;0;1;Sede 1;1;0;0;Dibujo
+Roberto;200;Brenia;Escolar;Mayo;2020;20/02/2020;Alexander;13;Scotiabank;0;1;0;1;Sede 3;0;0;1;Lettering
+Theresa;200;Brenia;Otonio;Febrero;2020;6/10/2020;Dawn;13;PLIN;0;1;0;1;Sede 2;0;1;0;Manga
+Eric;200;Brenia;Escolar;Agosto;2020;28/08/2020;John;13;BCP;0;1;0;1;Sede 1;1;0;0;Lettering
+Mark;200;Molina;Otonio;Octubre;2020;19/05/2020;Ryan;13;Efectivo;0;1;0;1;Sede 3;0;0;1;Pintura
+Raymond;200;Comas;Verano;Julio;2020;3/08/2020;Leah;13;Yape;0;1;0;1;Sede 3;0;0;1;Pintura
+Allison;200;Molina;Verano;Noviembre;2020;31/03/2020;Alan;13;Scotiabank;0;1;0;1;Sede 2;0;1;0;Lettering
+Heidi;200;Miraflores;Escolar;Abril;2020;22/06/2020;Justin;13;BVBA;0;1;0;1;Sede 2;0;1;0;Comic
+Sarah;200;Comas;Invierno;Diciembre;2020;30/08/2020;Bradley;13;Efectivo;0;1;0;1;Sede 1;1;0;0;Pintura
+Mary;200;Brenia;Otonio;Febrero;2020;10/03/2020;Rachel;13;PLIN;0;1;0;1;Sede 2;0;1;0;Manga
+Mary;200;Villa el Salvador;Invierno;Enero;2020;27/12/2020;Justin;13;PLIN;0;1;0;1;Sede 3;0;0;1;Comic
+Autumn;200;SJL;Primavera;Octubre;2020;21/02/2020;Grace;13;Yape;0;1;0;1;Sede 2;0;1;0;Lettering
+Brandon;200;Miraflores;Escolar;Octubre;2020;10/04/2020;John;13;Scotiabank;0;1;0;1;Sede 1;1;0;0;Lettering
+Joshua;200;Miraflores;Otonio;Mayo;2020;3/01/2020;Emily;13;Scotiabank;0;1;0;1;Sede 2;0;1;0;Pintura
+Angelica;200;Villa el Salvador;Verano;Marzo;2020;1/03/2020;Lisa;13;PLIN;0;1;0;1;Sede 3;0;0;1;Pintura
+Samuel;200;Molina;Primavera;Noviembre;2020;7/02/2020;Jackie;13;Yape;0;1;0;1;Sede 1;1;0;0;Pintura
+Johnathan;200;Comas;Otonio;Enero;2020;13/02/2020;Tracy;13;BVBA;0;1;0;1;Sede 1;1;0;0;Lettering
+Troy;200;Miraflores;Escolar;Junio;2020;19/10/2020;Richard;13;Efectivo;0;1;0;1;Sede 1;1;0;0;Pintura
+Denise;200;Villa el Salvador;Otonio;Diciembre;2020;14/07/2020;Christie;13;PLIN;0;1;0;1;Sede 3;0;0;1;Manga
+Scott;200;Villa el Salvador;Invierno;Mayo;2020;3/05/2020;Cynthia;13;Scotiabank;0;1;0;1;Sede 2;0;1;0;Manga
+Paige;200;Brenia;Primavera;Julio;2020;1/11/2020;Andrew;13;Scotiabank;0;1;0;1;Sede 2;0;1;0;Comic
+Alexis;200;Surco;Invierno;Setiembre;2023;21/03/2023;Austin;13;Yape;0;1;0;1;Sede 2;0;1;0;Lettering
+Dean;200;Brenia;Primavera;Setiembre;2023;1/03/2023;Stephanie;18;Yape;0;0;1;1;Sede 1;1;0;0;Pintura
+Douglas;200;Brenia;Invierno;Abril;2023;13/09/2023;Carlos;13;Efectivo;0;1;0;1;Sede 3;0;0;1;Comic
+Vanessa;200;Miraflores;Escolar;Marzo;2023;7/08/2023;Jasmine;13;Yape;0;1;0;1;Sede 3;0;0;1;Lettering
+Eric;200;Molina;Verano;Octubre;2023;12/06/2023;Yolanda;13;BVBA;0;1;0;1;Sede 3;0;0;1;Pintura
+Margaret;200;Molina;Verano;Mayo;2023;2/02/2023;Stanley;13;BCP;0;1;0;1;Sede 3;0;0;1;Dibujo
+Holly;200;Brenia;Verano;Setiembre;2023;23/05/2023;George;17;BCP;0;1;0;1;Sede 1;1;0;0;Pintura
+Carl;200;Miraflores;Primavera;Julio;2023;28/01/2023;Charles;13;PLIN;0;1;0;1;Sede 2;0;1;0;Pintura
+Donna;200;Comas;Verano;Junio;2023;18/01/2023;Julie;13;BCP;0;1;0;1;Sede 1;1;0;0;Lettering
+Timothy;200;Molina;Verano;Agosto;2023;10/12/2023;Brandy;13;BVBA;0;1;0;1;Sede 1;1;0;0;Comic
+Deborah;200;Miraflores;Otonio;Octubre;2023;5/10/2023;Daniel;13;BVBA;0;1;0;1;Sede 1;1;0;0;Comic
+Andrew;200;SJL;Otonio;Agosto;2023;29/01/2023;Zachary;13;Scotiabank;0;1;0;1;Sede 3;0;0;1;Manga
+Miranda;200;Miraflores;Primavera;Enero;2023;13/07/2023;Samantha;13;BVBA;0;1;0;1;Sede 2;0;1;0;Manga
+Vanessa;200;Villa el Salvador;Escolar;Enero;2023;16/11/2023;Elizabeth;13;Efectivo;0;1;0;1;Sede 2;0;1;0;Dibujo
+Donald;200;Miraflores;Invierno;Setiembre;2023;8/01/2023;Phyllis;17;Scotiabank;0;1;0;1;Sede 3;0;0;1;Manga
+William;200;Brenia;Verano;Febrero;2023;22/06/2023;Charles;13;BCP;0;1;0;1;Sede 2;0;1;0;Lettering
+Austin;200;SJL;Primavera;Marzo;2023;7/09/2023;Alexander;13;BVBA;0;1;0;1;Sede 1;1;0;0;Pintura
+Kevin;200;Comas;Verano;Julio;2023;13/04/2023;Mary;13;Yape;0;1;0;1;Sede 2;0;1;0;Manga
+Brett;200;SJL;Primavera;Marzo;2023;14/02/2023;Pamela;13;PLIN;0;1;0;1;Sede 3;0;0;1;Dibujo
+Amy;200;Molina;Verano;Setiembre;2023;13/08/2023;Eric;17;Yape;0;1;0;1;Sede 3;0;0;1;Lettering
+Stephanie;200;Brenia;Otonio;Mayo;2023;18/11/2023;Lisa;13;Yape;0;1;0;1;Sede 3;0;0;1;Manga
+Elizabeth;200;Brenia;Escolar;Marzo;2023;11/12/2023;Samuel;13;Scotiabank;0;1;0;1;Sede 2;0;1;0;Lettering
+Elizabeth;200;SJL;Escolar;Marzo;2023;30/12/2023;Suzanne;13;Scotiabank;0;1;0;1;Sede 3;0;0;1;Comic
+Henry;200;Miraflores;Escolar;Setiembre;2023;24/10/2023;Adam;16;Scotiabank;0;1;0;1;Sede 2;0;1;0;Comic
+Daniel;200;SJL;Primavera;Agosto;2023;7/01/2023;Sandra;13;BVBA;0;1;0;1;Sede 2;0;1;0;Pintura
+Julie;200;Molina;Primavera;Junio;2023;1/03/2023;Victoria;13;BCP;0;1;0;1;Sede 2;0;1;0;Dibujo
+Ana;200;Comas;Escolar;Abril;2022;5/04/2022;Danielle;12;BVBA;0;1;0;1;Sede 2;0;1;0;Pintura
+Amanda;200;Miraflores;Escolar;Abril;2022;5/04/2022;Paula;12;Yape;0;1;0;1;Sede 2;0;1;0;Comic
+Amber;200;Molina;Escolar;Abril;2022;5/04/2022;Charles;12;Scotiabank;0;1;0;1;Sede 3;0;0;1;Manga
+Ana;200;Comas;Escolar;Mayo;2022;3/05/2022;Danielle;12;BVBA;0;1;0;1;Sede 2;0;1;0;Pintura
+Amanda;200;Miraflores;Escolar;Mayo;2022;3/05/2022;Paula;12;Yape;0;1;0;1;Sede 2;0;1;0;Comic
+Amber;200;Molina;Escolar;Mayo;2022;3/05/2022;Charles;12;Scotiabank;0;1;0;1;Sede 3;0;0;1;Manga
+Ana;200;Comas;Escolar;Junio;2022;7/06/2022;Danielle;12;BVBA;0;1;0;1;Sede 2;0;1;0;Pintura
+Amanda;200;Miraflores;Escolar;Junio;2022;7/06/2022;Paula;12;Yape;0;1;0;1;Sede 2;0;1;0;Comic
+Amber;200;Molina;Escolar;Junio;2022;7/06/2022;Charles;12;Scotiabank;0;1;0;1;Sede 3;0;0;1;Manga
+Ana;200;Comas;Escolar;Julio;2022;5/07/2022;Danielle;12;BVBA;0;1;0;1;Sede 2;0;1;0;Pintura
+Amanda;200;Miraflores;Escolar;Julio;2022;5/07/2022;Paula;12;Yape;0;1;0;1;Sede 2;0;1;0;Comic
+Amber;200;Surco;Escolar;Julio;2022;5/07/2022;Charles;12;Scotiabank;0;1;0;1;Sede 3;0;0;1;Manga
+Ana;200;Comas;Escolar;Agosto;2022;2/08/2022;Danielle;12;BVBA;0;1;0;1;Sede 2;0;1;0;Pintura
+Amanda;200;Miraflores;Escolar;Agosto;2022;2/08/2022;Paula;12;Yape;0;1;0;1;Sede 2;0;1;0;Comic
+Amber;200;Surco;Escolar;Agosto;2022;2/08/2022;Charles;12;Scotiabank;0;1;0;1;Sede 3;0;0;1;Manga
+Ana;200;Comas;Escolar;Setiembre;2022;1/09/2022;Danielle;12;BVBA;0;1;0;1;Sede 2;0;1;0;Pintura
+Amanda;200;Miraflores;Escolar;Setiembre;2022;1/09/2022;Paula;12;Yape;0;1;0;1;Sede 2;0;1;0;Comic
+Amber;200;Surco;Escolar;Setiembre;2022;1/09/2022;Charles;12;Scotiabank;0;1;0;1;Sede 3;0;0;1;Manga
+Ana;200;Comas;Escolar;Octubre;2022;4/10/2022;Danielle;12;BVBA;0;1;0;1;Sede 2;0;1;0;Pintura
+Amanda;200;Miraflores;Escolar;Octubre;2022;4/10/2022;Paula;12;Yape;0;1;0;1;Sede 2;0;1;0;Comic
+Amber;200;Surco;Escolar;Octubre;2022;4/10/2022;Charles;12;Scotiabank;0;1;0;1;Sede 3;0;0;1;Manga
+Ana;200;Comas;Escolar;Noviembre;2022;1/11/2022;Danielle;12;BVBA;0;1;0;1;Sede 2;0;1;0;Pintura
+Amanda;200;Miraflores;Escolar;Noviembre;2022;1/11/2022;Paula;12;Yape;0;1;0;1;Sede 2;0;1;0;Comic
+Amber;200;Surco;Escolar;Noviembre;2022;1/11/2022;Charles;12;Scotiabank;0;1;0;1;Sede 3;0;0;1;Manga
+Ana;200;Comas;Escolar;Diciembre;2022;3/12/2022;Danielle;12;BVBA;0;1;0;1;Sede 2;0;1;0;Pintura
+Amanda;200;Miraflores;Escolar;Diciembre;2022;3/12/2022;Paula;12;Yape;0;1;0;1;Sede 2;0;1;0;Comic
+Amber;200;Surco;Escolar;Diciembre;2022;3/12/2022;Charles;12;Scotiabank;0;1;0;1;Sede 3;0;0;1;Manga
+Wendy;200;Comas;Invierno;Agosto;2019;4/04/2019;David;12;Yape;0;1;0;1;Sede 3;0;0;1;Manga
+Annette;200;Molina;Primavera;Marzo;2019;23/07/2019;Holly;12;Scotiabank;0;1;0;1;Sede 2;0;1;0;Pintura
+Erica;200;Villa el Salvador;Otonio;Julio;2019;14/06/2019;Richard;12;PLIN;0;1;0;1;Sede 3;0;0;1;Comic
+Ashley;200;Surco;Otonio;Diciembre;2019;26/08/2019;David;12;BCP;0;1;0;1;Sede 3;0;0;1;Dibujo
+Eric;200;Comas;Otonio;Febrero;2019;23/09/2019;Christopher;12;Scotiabank;0;1;0;1;Sede 3;0;0;1;Pintura
+Paula;200;Brenia;Otonio;Mayo;2019;20/01/2019;Sharon;12;PLIN;0;1;0;1;Sede 2;0;1;0;Comic
+David;200;Miraflores;Primavera;Mayo;2019;7/10/2019;Victoria;12;BVBA;0;1;0;1;Sede 2;0;1;0;Manga
+Margaret;200;Miraflores;Otonio;Octubre;2019;8/02/2019;Erik;12;BCP;0;1;0;1;Sede 1;1;0;0;Lettering
+Stephanie;200;SJL;Verano;Agosto;2019;10/07/2019;Alexa;12;PLIN;0;1;0;1;Sede 3;0;0;1;Pintura
+Keith;200;Miraflores;Otonio;Marzo;2019;4/01/2019;Sara;12;PLIN;0;1;0;1;Sede 3;0;0;1;Manga
+Melinda;200;Molina;Primavera;Junio;2019;23/10/2019;John;12;PLIN;0;1;0;1;Sede 2;0;1;0;Pintura
+Theresa;200;Brenia;Escolar;Enero;2019;13/03/2019;Edward;12;Efectivo;0;1;0;1;Sede 2;0;1;0;Dibujo
+Anthony;200;Surco;Invierno;Marzo;2019;30/09/2019;Curtis;12;BCP;0;1;0;1;Sede 2;0;1;0;Comic
+Adam;200;SJL;Invierno;Octubre;2019;28/08/2019;Nicholas;12;Yape;0;1;0;1;Sede 3;0;0;1;Manga
+Joseph;200;Brenia;Invierno;Agosto;2019;14/04/2019;James;12;BVBA;0;1;0;1;Sede 1;1;0;0;Pintura
+Timothy;200;SJL;Escolar;Octubre;2019;17/02/2019;Calvin;12;Scotiabank;0;1;0;1;Sede 1;1;0;0;Manga
+Tracy;200;Surco;Escolar;Noviembre;2019;19/09/2019;Ashley;12;Efectivo;0;1;0;1;Sede 1;1;0;0;Pintura
+David;200;Surco;Primavera;Abril;2019;2/03/2019;Cynthia;12;BCP;0;1;0;1;Sede 3;0;0;1;Pintura
+Jennifer;200;Surco;Verano;Julio;2019;24/01/2019;Justin;12;Scotiabank;0;1;0;1;Sede 2;0;1;0;Comic
+Kelsey;200;Comas;Verano;Abril;2019;14/10/2019;Ricky;12;Scotiabank;0;1;0;1;Sede 3;0;0;1;Comic
+Tina;200;SJL;Otonio;Mayo;2020;5/09/2020;Tim;12;BCP;0;1;0;1;Sede 3;0;0;1;Comic
+George;200;Brenia;Escolar;Febrero;2020;23/03/2020;Sarah;12;BCP;0;1;0;1;Sede 3;0;0;1;Pintura
+Michael;200;Surco;Escolar;Junio;2020;6/11/2020;Clinton;12;BCP;0;1;0;1;Sede 3;0;0;1;Pintura
+Christopher;200;Molina;Escolar;Marzo;2020;25/08/2020;Jeffrey;12;Efectivo;0;1;0;1;Sede 3;0;0;1;Comic
+William;200;Molina;Primavera;Agosto;2020;17/11/2020;Danielle;12;Scotiabank;0;1;0;1;Sede 1;1;0;0;Lettering
+Wesley;200;Molina;Escolar;Enero;2020;13/03/2020;Charles;12;Efectivo;0;1;0;1;Sede 2;0;1;0;Manga
+Michael;200;Villa el Salvador;Invierno;Octubre;2020;25/10/2020;Richard;12;PLIN;0;1;0;1;Sede 2;0;1;0;Dibujo
+Dale;200;Surco;Primavera;Octubre;2020;14/06/2020;Tonya;12;BCP;0;1;0;1;Sede 3;0;0;1;Comic
+Raymond;200;Miraflores;Verano;Diciembre;2020;27/01/2020;Jennifer;12;Scotiabank;0;1;0;1;Sede 1;1;0;0;Manga
+Samantha;200;Brenia;Invierno;Diciembre;2020;20/06/2020;Maria;12;Efectivo;0;1;0;1;Sede 2;0;1;0;Pintura
+Crystal;200;Brenia;Primavera;Mayo;2020;16/08/2020;Katelyn;12;BCP;0;1;0;1;Sede 1;1;0;0;Dibujo
+Todd;200;Molina;Primavera;Diciembre;2020;26/11/2020;Thomas;12;Scotiabank;0;1;0;1;Sede 2;0;1;0;Dibujo
+Mark;200;Brenia;Otonio;Noviembre;2020;25/11/2020;Kristina;12;Efectivo;0;1;0;1;Sede 2;0;1;0;Manga
+Michelle;200;SJL;Otonio;Abril;2020;25/06/2020;Michelle;12;Scotiabank;0;1;0;1;Sede 2;0;1;0;Pintura
+Beverly;200;Villa el Salvador;Escolar;Julio;2020;4/07/2020;Joshua;12;BCP;0;1;0;1;Sede 1;1;0;0;Dibujo
+Teresa;200;Brenia;Otonio;Julio;2020;27/03/2020;Curtis;12;Efectivo;0;1;0;1;Sede 1;1;0;0;Comic
+Harry;200;SJL;Verano;Julio;2020;21/11/2020;Brandi;12;Scotiabank;0;1;0;1;Sede 3;0;0;1;Comic
+Tammy;200;Miraflores;Verano;Mayo;2020;8/08/2020;Kathleen;12;BCP;0;1;0;1;Sede 3;0;0;1;Lettering
+Daniel;200;Brenia;Primavera;Diciembre;2020;25/04/2020;Steven;12;BCP;0;1;0;1;Sede 2;0;1;0;Lettering
+Elizabeth;200;Molina;Primavera;Junio;2020;8/09/2020;Brittany;12;BVBA;0;1;0;1;Sede 1;1;0;0;Comic
+Lori;200;Molina;Primavera;Febrero;2023;18/08/2023;Theresa;12;BCP;0;1;0;1;Sede 1;1;0;0;Dibujo
+Kristina;200;SJL;Invierno;Abril;2023;7/04/2023;Sara;12;PLIN;0;1;0;1;Sede 3;0;0;1;Dibujo
+Brian;200;Molina;Primavera;Setiembre;2023;5/08/2023;Christopher;16;BVBA;0;1;0;1;Sede 1;1;0;0;Dibujo
+Annette;200;Comas;Primavera;Setiembre;2023;27/04/2023;Michele;15;BCP;0;1;0;1;Sede 3;0;0;1;Dibujo
+Brian;200;Villa el Salvador;Escolar;Febrero;2023;5/06/2023;Lisa;12;Scotiabank;0;1;0;1;Sede 3;0;0;1;Comic
+Linda;200;Surco;Primavera;Marzo;2023;28/01/2023;Ryan;12;BCP;0;1;0;1;Sede 1;1;0;0;Pintura
+Carol;200;Villa el Salvador;Primavera;Marzo;2023;20/04/2023;Amber;12;Scotiabank;0;1;0;1;Sede 3;0;0;1;Dibujo
+Jillian;200;Comas;Escolar;Setiembre;2023;4/07/2023;Kyle;12;BCP;0;1;0;1;Sede 3;0;0;1;Dibujo
+Jessica;200;Brenia;Escolar;Setiembre;2023;9/02/2023;Angela;15;Efectivo;0;1;0;1;Sede 1;1;0;0;Pintura
+Joseph;200;Surco;Invierno;Abril;2023;26/01/2023;Laura;12;BCP;0;1;0;1;Sede 1;1;0;0;Lettering
+Caroline;200;Brenia;Invierno;Mayo;2023;8/03/2023;Alejandra;12;BVBA;0;1;0;1;Sede 1;1;0;0;Pintura
+Margaret;200;Molina;Primavera;Setiembre;2023;30/12/2023;Chad;12;BVBA;0;1;0;1;Sede 1;1;0;0;Dibujo
+Christopher;200;Surco;Verano;Setiembre;2023;19/02/2023;Nicholas;15;BCP;0;1;0;1;Sede 1;1;0;0;Pintura
+Meredith;200;Surco;Escolar;Junio;2023;19/08/2023;Jennifer;12;BVBA;0;1;0;1;Sede 2;0;1;0;Pintura
+Mary;200;Comas;Escolar;Setiembre;2023;5/12/2023;Jennifer;15;PLIN;0;1;0;1;Sede 3;0;0;1;Manga
+Holly;200;Comas;Invierno;Setiembre;2023;22/10/2023;Michelle;14;BCP;0;1;0;1;Sede 2;0;1;0;Pintura
+Jonathan;200;Surco;Escolar;Abril;2023;7/01/2023;Scott;12;Scotiabank;0;1;0;1;Sede 2;0;1;0;Lettering
+Charlotte;200;Miraflores;Verano;Mayo;2023;3/11/2023;Pamela;12;Yape;0;1;0;1;Sede 1;1;0;0;Manga
+Austin;200;Molina;Otonio;Julio;2023;25/09/2023;Emily;12;BVBA;0;1;0;1;Sede 3;0;0;1;Lettering
+Bryan;200;Surco;Otonio;Abril;2023;11/10/2023;Aaron;12;Scotiabank;0;1;0;1;Sede 1;1;0;0;Pintura
+Carolyn;200;Surco;Primavera;Agosto;2023;10/08/2023;Howard;12;Scotiabank;0;1;0;1;Sede 3;0;0;1;Comic
+Joanne;200;Surco;Verano;Enero;2022;2/01/2022;Jessica;11;BCP;1;0;0;1;Sede 2;0;1;0;Lettering
+Tara;200;Surco;Verano;Enero;2022;2/01/2022;Kristen;11;BCP;1;0;0;1;Sede 2;0;1;0;Lettering
+Edward;200;Surco;Verano;Enero;2022;2/01/2022;Dale;11;BCP;1;0;0;1;Sede 2;0;1;0;Lettering
+Joanne;200;Surco;Verano;Febrero;2022;2/02/2022;Jessica;11;BCP;1;0;0;1;Sede 2;0;1;0;Lettering
+Tara;200;Surco;Verano;Febrero;2022;2/02/2022;Kristen;11;BCP;1;0;0;1;Sede 2;0;1;0;Lettering
+Edward;200;Surco;Verano;Febrero;2022;2/02/2022;Dale;11;BCP;1;0;0;1;Sede 2;0;1;0;Lettering
+Joanne;200;Surco;Escolar;Marzo;2022;8/03/2022;Jessica;11;BCP;1;0;0;1;Sede 2;0;1;0;Lettering
+Tara;200;Surco;Escolar;Marzo;2022;8/03/2022;Kristen;11;BCP;1;0;0;1;Sede 2;0;1;0;Lettering
+James;200;Villa el Salvador;Otonio;Diciembre;2019;22/10/2019;Lindsey;11;BVBA;1;0;0;1;Sede 2;0;1;0;Manga
+Samuel;200;Villa el Salvador;Primavera;Abril;2019;5/03/2019;James;11;BVBA;1;0;0;1;Sede 3;0;0;1;Pintura
+Robert;200;Comas;Otonio;Julio;2019;29/07/2019;Adam;11;BCP;1;0;0;1;Sede 1;1;0;0;Pintura
+Melissa;200;Molina;Verano;Mayo;2019;29/03/2019;Ebony;11;Efectivo;1;0;0;1;Sede 2;0;1;0;Comic
+Jerry;200;Molina;Escolar;Enero;2019;24/10/2019;Jennifer;11;BCP;1;0;0;1;Sede 1;1;0;0;Manga
+George;200;Surco;Otonio;Enero;2019;22/06/2019;Lisa;11;BVBA;1;0;0;1;Sede 2;0;1;0;Dibujo
+Melissa;200;Miraflores;Escolar;Abril;2019;4/01/2019;Marcus;11;PLIN;1;0;0;1;Sede 2;0;1;0;Dibujo
+Natalie;200;Comas;Invierno;Julio;2019;16/04/2019;Jeffrey;11;Efectivo;1;0;0;1;Sede 3;0;0;1;Comic
+Hayden;200;SJL;Primavera;Abril;2019;19/03/2019;Michelle;11;Yape;1;0;0;1;Sede 1;1;0;0;Pintura
+Danny;200;SJL;Escolar;Febrero;2019;17/07/2019;Stephen;11;Scotiabank;1;0;0;1;Sede 3;0;0;1;Dibujo
+Michael;200;Molina;Primavera;Julio;2019;20/03/2019;Debbie;11;Scotiabank;1;0;0;1;Sede 1;1;0;0;Lettering
+Mike;200;Comas;Verano;Julio;2019;31/05/2019;Debra;11;BVBA;1;0;0;1;Sede 3;0;0;1;Manga
+Sandra;200;Comas;Primavera;Enero;2019;22/03/2019;Phillip;11;Scotiabank;1;0;0;1;Sede 1;1;0;0;Lettering
+Ashley;200;Miraflores;Invierno;Diciembre;2019;16/11/2019;Courtney;11;PLIN;1;0;0;1;Sede 1;1;0;0;Pintura
+Tabitha;200;SJL;Primavera;Abril;2019;26/12/2019;Sarah;11;BVBA;1;0;0;1;Sede 3;0;0;1;Dibujo
+John;200;Miraflores;Primavera;Enero;2019;2/03/2019;Tyler;11;BVBA;1;0;0;1;Sede 1;1;0;0;Lettering
+Gail;200;Comas;Escolar;Octubre;2019;30/03/2019;Sarah;11;Scotiabank;1;0;0;1;Sede 3;0;0;1;Manga
+Robert;200;Brenia;Verano;Junio;2019;15/08/2019;Edward;11;BVBA;1;0;0;1;Sede 2;0;1;0;Pintura
+Richard;200;Brenia;Invierno;Octubre;2019;5/11/2019;Mark;11;Scotiabank;1;0;0;1;Sede 2;0;1;0;Lettering
+Jose;200;Surco;Primavera;Mayo;2019;4/04/2019;Monica;11;Scotiabank;1;0;0;1;Sede 1;1;0;0;Dibujo
+Nancy;200;Brenia;Primavera;Julio;2019;18/12/2019;Aaron;11;Efectivo;1;0;0;1;Sede 2;0;1;0;Dibujo
+Trevor;200;Comas;Otonio;Abril;2019;10/09/2019;Matthew;11;BVBA;1;0;0;1;Sede 2;0;1;0;Pintura
+Michelle;200;Villa el Salvador;Verano;Julio;2019;21/07/2019;Vincent;11;Yape;1;0;0;1;Sede 3;0;0;1;Comic
+Paula;200;Villa el Salvador;Escolar;Diciembre;2019;24/04/2019;Samantha;11;Yape;1;0;0;1;Sede 2;0;1;0;Lettering
+Derrick;200;Villa el Salvador;Primavera;Noviembre;2019;14/02/2019;Michelle;11;Efectivo;1;0;0;1;Sede 3;0;0;1;Manga
+Scott;200;SJL;Otonio;Setiembre;2019;21/10/2019;Angela;11;Efectivo;1;0;0;1;Sede 1;1;0;0;Manga
+Patrick;200;Brenia;Invierno;Octubre;2019;12/08/2019;Linda;11;PLIN;1;0;0;1;Sede 3;0;0;1;Dibujo
+Mark;200;Surco;Verano;Noviembre;2020;19/10/2020;Katrina;11;Efectivo;1;0;0;1;Sede 3;0;0;1;Pintura
+Charles;200;Brenia;Verano;Mayo;2020;3/03/2020;Kerri;11;Efectivo;1;0;0;1;Sede 3;0;0;1;Dibujo
+Charles;200;Comas;Escolar;Mayo;2020;5/04/2020;Tanya;11;BCP;1;0;0;1;Sede 1;1;0;0;Lettering
+David;200;Brenia;Invierno;Diciembre;2020;24/07/2020;Daniel;11;Scotiabank;1;0;0;1;Sede 2;0;1;0;Pintura
+Emily;200;Miraflores;Otonio;Mayo;2020;1/06/2020;Jeremy;11;Efectivo;1;0;0;1;Sede 1;1;0;0;Manga
+Jeffrey;200;Villa el Salvador;Escolar;Setiembre;2020;16/04/2020;Emily;11;BVBA;1;0;0;1;Sede 3;0;0;1;Dibujo
+Jaime;200;SJL;Verano;Diciembre;2020;1/03/2020;Melissa;11;BVBA;1;0;0;1;Sede 2;0;1;0;Manga
+Amanda;200;Villa el Salvador;Escolar;Enero;2020;31/08/2020;Lisa;11;Efectivo;1;0;0;1;Sede 2;0;1;0;Manga
+Janet;200;Comas;Otonio;Enero;2020;5/04/2020;Jessica;11;Yape;1;0;0;1;Sede 2;0;1;0;Comic
+Christopher;200;SJL;Invierno;Setiembre;2020;19/01/2020;Kathryn;11;BCP;1;0;0;1;Sede 2;0;1;0;Dibujo
+Walter;200;Brenia;Verano;Setiembre;2020;19/04/2020;Samantha;11;BCP;1;0;0;1;Sede 1;1;0;0;Dibujo
+Margaret;200;Brenia;Primavera;Agosto;2020;27/01/2020;Cody;11;BCP;1;0;0;1;Sede 1;1;0;0;Dibujo
+Dennis;200;Molina;Otonio;Noviembre;2020;15/06/2020;Harry;11;Scotiabank;1;0;0;1;Sede 1;1;0;0;Manga
+Ricardo;200;Surco;Escolar;Agosto;2020;4/08/2020;Brenda;11;Efectivo;1;0;0;1;Sede 2;0;1;0;Lettering
+Amanda;200;Surco;Verano;Mayo;2020;7/07/2020;Adam;11;PLIN;1;0;0;1;Sede 3;0;0;1;Pintura
+Jennifer;200;SJL;Otonio;Setiembre;2020;27/01/2020;Jessica;11;BCP;1;0;0;1;Sede 3;0;0;1;Manga
+Carolyn;200;Brenia;Primavera;Agosto;2020;17/05/2020;Joy;11;Yape;1;0;0;1;Sede 1;1;0;0;Manga
+Brittany;200;Brenia;Primavera;Julio;2020;2/12/2020;Kelly;11;BVBA;1;0;0;1;Sede 3;0;0;1;Comic
+Kimberly;200;Brenia;Verano;Setiembre;2020;14/07/2020;Richard;11;BVBA;1;0;0;1;Sede 2;0;1;0;Manga
+Christopher;200;Brenia;Escolar;Enero;2020;12/03/2020;Kiara;11;Scotiabank;1;0;0;1;Sede 1;1;0;0;Lettering
+Melissa;200;Surco;Primavera;Abril;2020;18/11/2020;Amy;11;Yape;1;0;0;1;Sede 1;1;0;0;Pintura
+Carly;200;Brenia;Escolar;Mayo;2020;8/08/2020;Steve;11;Efectivo;1;0;0;1;Sede 3;0;0;1;Comic
+Brian;200;Villa el Salvador;Primavera;Enero;2020;20/08/2020;Jennifer;11;Scotiabank;1;0;0;1;Sede 3;0;0;1;Comic
+Kenneth;200;Surco;Verano;Junio;2020;12/02/2020;Matthew;11;PLIN;1;0;0;1;Sede 3;0;0;1;Pintura
+Mark;200;Miraflores;Verano;Agosto;2020;7/06/2020;Wendy;11;BCP;1;0;0;1;Sede 2;0;1;0;Dibujo
+Michaela;200;Villa el Salvador;Verano;Noviembre;2020;21/06/2020;Elizabeth;11;Efectivo;1;0;0;1;Sede 3;0;0;1;Dibujo
+Kara;200;Brenia;Verano;Julio;2020;9/03/2020;James;11;Efectivo;1;0;0;1;Sede 1;1;0;0;Comic
+Danielle;200;SJL;Verano;Diciembre;2020;13/04/2020;Tracie;11;Efectivo;1;0;0;1;Sede 2;0;1;0;Pintura
+Nichole;200;Molina;Primavera;Setiembre;2023;28/03/2023;Victoria;13;PLIN;0;1;0;1;Sede 2;0;1;0;Pintura
+Ryan;200;Miraflores;Otonio;Setiembre;2023;11/05/2023;Natasha;13;Yape;0;1;0;1;Sede 2;0;1;0;Manga
+Samantha;200;Villa el Salvador;Verano;Febrero;2023;14/09/2023;Michael;11;Efectivo;1;0;0;1;Sede 2;0;1;0;Manga
+Brent;200;Surco;Primavera;Setiembre;2023;24/06/2023;Amanda;11;PLIN;1;0;0;1;Sede 1;1;0;0;Manga
+Thomas;200;Villa el Salvador;Primavera;Mayo;2023;27/04/2023;Michael;11;Yape;1;0;0;1;Sede 3;0;0;1;Manga
+Ryan;200;Miraflores;Otonio;Setiembre;2023;2/11/2023;Ryan;13;PLIN;0;1;0;1;Sede 1;1;0;0;Manga
+Jennifer;200;Brenia;Invierno;Setiembre;2023;9/01/2023;Erin;11;BVBA;1;0;0;1;Sede 3;0;0;1;Manga
+John;200;Miraflores;Otonio;Setiembre;2023;14/04/2023;David;13;BVBA;0;1;0;1;Sede 3;0;0;1;Manga
+Jason;200;Surco;Otonio;Julio;2023;22/01/2023;Kathryn;11;Efectivo;1;0;0;1;Sede 2;0;1;0;Comic
+Michelle;200;Molina;Invierno;Mayo;2023;16/05/2023;Jason;11;Scotiabank;1;0;0;1;Sede 3;0;0;1;Pintura
+Alison;200;SJL;Otonio;Junio;2023;8/08/2023;Michelle;11;BCP;1;0;0;1;Sede 3;0;0;1;Lettering
+Wyatt;200;Molina;Verano;Marzo;2023;12/08/2023;John;11;BCP;1;0;0;1;Sede 2;0;1;0;Pintura
+Patricia;200;Molina;Primavera;Enero;2023;2/03/2023;Kayla;11;BCP;1;0;0;1;Sede 2;0;1;0;Dibujo
+Carl;200;Villa el Salvador;Invierno;Marzo;2023;28/08/2023;Robin;11;PLIN;1;0;0;1;Sede 2;0;1;0;Manga
+Jeff;200;Comas;Verano;Enero;2022;2/01/2022;Lisa;10;Yape;1;0;0;1;Sede 1;1;0;0;Dibujo
+Nathan;200;SJL;Verano;Enero;2022;2/01/2022;Monica;10;PLIN;1;0;0;1;Sede 1;1;0;0;Comic
+Kayla;200;Surco;Verano;Enero;2022;2/01/2022;Mark;10;Efectivo;1;0;0;1;Sede 1;1;0;0;Lettering
+David;200;Molina;Verano;Enero;2022;2/01/2022;Nathan;10;BCP;1;0;0;1;Sede 3;0;0;1;Manga
+Samuel;200;Comas;Verano;Enero;2022;2/01/2022;Jordan;10;BCP;1;0;0;1;Sede 1;1;0;0;Dibujo
+Lauren;200;SJL;Verano;Enero;2022;2/01/2022;Judy;10;BCP;1;0;0;1;Sede 2;0;1;0;Pintura
+Ashley;200;Comas;Verano;Enero;2022;2/01/2022;Ian;10;PLIN;1;0;0;1;Sede 1;1;0;0;Manga
+Gina;200;Surco;Verano;Enero;2022;2/01/2022;Rachel;10;Yape;1;0;0;1;Sede 2;0;1;0;Comic
+William;200;Comas;Verano;Enero;2022;2/01/2022;Rebecca;10;Yape;1;0;0;1;Sede 1;1;0;0;Dibujo
+Kathleen;200;SJL;Verano;Enero;2022;2/01/2022;Cody;10;PLIN;1;0;0;1;Sede 1;1;0;0;Comic
+Monica;200;Surco;Verano;Enero;2022;2/01/2022;Mary;10;Efectivo;1;0;0;1;Sede 1;1;0;0;Lettering
+Kimberly;200;Molina;Verano;Enero;2022;2/01/2022;Mary;10;BCP;1;0;0;1;Sede 3;0;0;1;Manga
+Bradley;200;Comas;Verano;Enero;2022;2/01/2022;Mackenzie;10;BCP;1;0;0;1;Sede 1;1;0;0;Dibujo
+Joshua;200;SJL;Verano;Enero;2022;2/01/2022;Jenna;10;BCP;1;0;0;1;Sede 2;0;1;0;Pintura
+Michelle;200;Comas;Verano;Enero;2022;2/01/2022;Andrew;10;PLIN;1;0;0;1;Sede 1;1;0;0;Manga
+Benjamin;200;Surco;Verano;Enero;2022;2/01/2022;David;10;Yape;1;0;0;1;Sede 2;0;1;0;Comic
+Samuel;200;Comas;Verano;Enero;2022;2/01/2022;Jessica;10;Yape;1;0;0;1;Sede 1;1;0;0;Dibujo
+Christopher;200;SJL;Verano;Enero;2022;2/01/2022;Sandra;10;PLIN;1;0;0;1;Sede 1;1;0;0;Comic
+Jared;200;Surco;Verano;Enero;2022;2/01/2022;Jackie;10;Efectivo;1;0;0;1;Sede 1;1;0;0;Lettering
+Theresa;200;Molina;Verano;Enero;2022;2/01/2022;Audrey;10;BCP;1;0;0;1;Sede 3;0;0;1;Manga
+Michelle;200;Comas;Verano;Enero;2022;2/01/2022;Kathryn;10;BCP;1;0;0;1;Sede 1;1;0;0;Dibujo
+Marissa;200;SJL;Verano;Enero;2022;2/01/2022;Jessica;10;BCP;1;0;0;1;Sede 2;0;1;0;Pintura
+Vincent;200;Comas;Verano;Enero;2022;2/01/2022;Adam;10;PLIN;1;0;0;1;Sede 1;1;0;0;Manga
+Kathryn;200;Surco;Verano;Enero;2022;2/01/2022;John;10;Yape;1;0;0;1;Sede 2;0;1;0;Comic
+Jeff;200;Comas;Verano;Febrero;2022;2/02/2022;Lisa;10;Yape;1;0;0;1;Sede 1;1;0;0;Dibujo
+Nathan;200;SJL;Verano;Febrero;2022;2/02/2022;Monica;10;PLIN;1;0;0;1;Sede 1;1;0;0;Comic
+Kayla;200;Surco;Verano;Febrero;2022;2/02/2022;Mark;10;Efectivo;1;0;0;1;Sede 1;1;0;0;Lettering
+David;200;Molina;Verano;Febrero;2022;2/02/2022;Nathan;10;BCP;1;0;0;1;Sede 3;0;0;1;Manga
+Samuel;200;Comas;Verano;Febrero;2022;2/02/2022;Jordan;10;BCP;1;0;0;1;Sede 1;1;0;0;Dibujo
+Lauren;200;SJL;Escolar;Febrero;2022;2/02/2022;Judy;10;BCP;1;0;0;1;Sede 2;0;1;0;Pintura
+Ashley;200;Comas;Escolar;Febrero;2022;2/02/2022;Ian;10;PLIN;1;0;0;1;Sede 1;1;0;0;Manga
+Gina;200;Surco;Escolar;Febrero;2022;2/02/2022;Rachel;10;Yape;1;0;0;1;Sede 2;0;1;0;Comic
+William;200;Comas;Verano;Febrero;2022;2/02/2022;Rebecca;10;Yape;1;0;0;1;Sede 1;1;0;0;Dibujo
+Kathleen;200;SJL;Verano;Febrero;2022;2/02/2022;Cody;10;PLIN;1;0;0;1;Sede 1;1;0;0;Comic
+Monica;200;Surco;Verano;Febrero;2022;2/02/2022;Mary;10;Efectivo;1;0;0;1;Sede 1;1;0;0;Lettering
+Kimberly;200;Molina;Verano;Febrero;2022;2/02/2022;Mary;10;BCP;1;0;0;1;Sede 3;0;0;1;Manga
+Bradley;200;Comas;Verano;Febrero;2022;2/02/2022;Mackenzie;10;BCP;1;0;0;1;Sede 1;1;0;0;Dibujo
+Joshua;200;SJL;Verano;Febrero;2022;2/02/2022;Jenna;10;BCP;1;0;0;1;Sede 2;0;1;0;Pintura
+Michelle;200;Comas;Verano;Febrero;2022;2/02/2022;Andrew;10;PLIN;1;0;0;1;Sede 1;1;0;0;Manga
+Benjamin;200;Surco;Verano;Febrero;2022;2/02/2022;David;10;Yape;1;0;0;1;Sede 2;0;1;0;Comic
+Samuel;200;Comas;Verano;Febrero;2022;2/02/2022;Jessica;10;Yape;1;0;0;1;Sede 1;1;0;0;Dibujo
+Christopher;200;SJL;Verano;Febrero;2022;2/02/2022;Sandra;10;PLIN;1;0;0;1;Sede 1;1;0;0;Comic
+Jared;200;Surco;Verano;Febrero;2022;2/02/2022;Jackie;10;Efectivo;1;0;0;1;Sede 1;1;0;0;Lettering
+Theresa;200;Molina;Verano;Febrero;2022;2/02/2022;Audrey;10;BCP;1;0;0;1;Sede 3;0;0;1;Manga
+Michelle;200;Comas;Verano;Febrero;2022;2/02/2022;Kathryn;10;BCP;1;0;0;1;Sede 1;1;0;0;Dibujo
+Marissa;200;SJL;Verano;Febrero;2022;2/02/2022;Jessica;10;BCP;1;0;0;1;Sede 2;0;1;0;Pintura
+Vincent;200;Comas;Verano;Febrero;2022;2/02/2022;Adam;10;PLIN;1;0;0;1;Sede 1;1;0;0;Manga
+Kathryn;200;Surco;Verano;Febrero;2022;2/02/2022;John;10;Yape;1;0;0;1;Sede 2;0;1;0;Comic
+Marissa;200;SJL;Verano;Febrero;2022;2/02/2022;Jessica;10;BCP;1;0;0;1;Sede 2;0;1;0;Pintura
+Vincent;200;Comas;Verano;Febrero;2022;2/02/2022;Adam;10;PLIN;1;0;0;1;Sede 1;1;0;0;Manga
+Kathryn;200;Surco;Verano;Febrero;2022;2/02/2022;John;10;Yape;1;0;0;1;Sede 2;0;1;0;Comic
+Marissa;200;SJL;Verano;Febrero;2022;2/02/2022;Jessica;10;BCP;1;0;0;1;Sede 2;0;1;0;Pintura
+Vincent;200;Comas;Verano;Febrero;2022;2/02/2022;Adam;10;PLIN;1;0;0;1;Sede 1;1;0;0;Manga
+Kathryn;200;Surco;Verano;Febrero;2022;2/02/2022;John;10;Yape;1;0;0;1;Sede 2;0;1;0;Comic
+Jeff;200;Comas;Escolar;Marzo;2022;8/03/2022;Lisa;10;Yape;1;0;0;1;Sede 1;1;0;0;Dibujo
+Nathan;200;SJL;Escolar;Marzo;2022;8/03/2022;Monica;10;PLIN;1;0;0;1;Sede 1;1;0;0;Comic
+Kayla;200;Surco;Escolar;Marzo;2022;8/03/2022;Mark;10;Efectivo;1;0;0;1;Sede 1;1;0;0;Lettering
+David;200;Molina;Escolar;Marzo;2022;8/03/2022;Nathan;10;BCP;1;0;0;1;Sede 3;0;0;1;Manga
+Samuel;200;Comas;Escolar;Marzo;2022;8/03/2022;Jordan;10;BCP;1;0;0;1;Sede 1;1;0;0;Dibujo
+William;200;Comas;Escolar;Marzo;2022;8/03/2022;Rebecca;10;Yape;1;0;0;1;Sede 1;1;0;0;Dibujo
+Joshua;200;SJL;Escolar;Marzo;2022;8/03/2022;Jenna;10;BCP;1;0;0;1;Sede 2;0;1;0;Pintura
+Michelle;200;Comas;Escolar;Marzo;2022;8/03/2022;Andrew;10;PLIN;1;0;0;1;Sede 1;1;0;0;Manga
+Marissa;200;SJL;Escolar;Marzo;2022;8/03/2022;Jessica;10;BCP;1;0;0;1;Sede 2;0;1;0;Pintura
+Vincent;200;Comas;Escolar;Marzo;2022;8/03/2022;Adam;10;PLIN;1;0;0;1;Sede 1;1;0;0;Manga
+Kathryn;200;Surco;Escolar;Marzo;2022;8/03/2022;John;10;Yape;1;0;0;1;Sede 2;0;1;0;Comic
+Sarah;200;Molina;Invierno;Febrero;2019;24/03/2019;Latoya;10;Efectivo;1;0;0;1;Sede 1;1;0;0;Dibujo
+Kimberly;200;Miraflores;Invierno;Junio;2019;28/09/2019;William;10;PLIN;1;0;0;1;Sede 1;1;0;0;Lettering
+Melissa;200;SJL;Verano;Marzo;2019;24/02/2019;Lisa;10;Yape;1;0;0;1;Sede 1;1;0;0;Manga
+Taylor;200;Molina;Primavera;Setiembre;2019;1/03/2019;Christopher;10;Yape;1;0;0;1;Sede 2;0;1;0;Manga
+Michael;200;Miraflores;Primavera;Diciembre;2019;15/05/2019;Keith;10;Efectivo;1;0;0;1;Sede 3;0;0;1;Lettering
+Kevin;200;Villa el Salvador;Otonio;Junio;2019;4/06/2019;Kimberly;10;PLIN;1;0;0;1;Sede 3;0;0;1;Pintura
+Thomas;200;Villa el Salvador;Primavera;Mayo;2019;19/10/2019;Linda;10;BVBA;1;0;0;1;Sede 1;1;0;0;Dibujo
+Amy;200;Villa el Salvador;Verano;Julio;2019;27/04/2019;Jessica;10;Scotiabank;1;0;0;1;Sede 1;1;0;0;Lettering
+Kevin;200;Villa el Salvador;Otonio;Agosto;2019;8/11/2019;Paul;10;BVBA;1;0;0;1;Sede 1;1;0;0;Pintura
+Yesenia;200;SJL;Otonio;Agosto;2019;24/07/2019;Leslie;10;Scotiabank;1;0;0;1;Sede 1;1;0;0;Pintura
+Sabrina;200;Brenia;Otonio;Junio;2019;10/07/2019;Ian;10;PLIN;1;0;0;1;Sede 2;0;1;0;Dibujo
+Leah;200;SJL;Invierno;Diciembre;2019;16/10/2019;Amanda;10;Efectivo;1;0;0;1;Sede 2;0;1;0;Comic
+Joseph;200;Brenia;Otonio;Setiembre;2019;18/09/2019;Laurie;10;BVBA;1;0;0;1;Sede 2;0;1;0;Dibujo
+Tony;200;Villa el Salvador;Otonio;Agosto;2019;13/04/2019;Julian;10;Scotiabank;1;0;0;1;Sede 1;1;0;0;Comic
+Doris;200;Miraflores;Verano;Julio;2019;19/11/2019;David;10;BCP;1;0;0;1;Sede 2;0;1;0;Dibujo
+Connor;200;Surco;Primavera;Marzo;2019;28/09/2019;Timothy;10;PLIN;1;0;0;1;Sede 3;0;0;1;Pintura
+Shaun;200;SJL;Invierno;Julio;2019;27/01/2019;Dustin;10;Efectivo;1;0;0;1;Sede 2;0;1;0;Comic
+Michele;200;Comas;Escolar;Agosto;2019;14/06/2019;Elizabeth;10;Scotiabank;1;0;0;1;Sede 2;0;1;0;Dibujo
+Jason;200;Villa el Salvador;Verano;Julio;2019;3/02/2019;Rhonda;10;Efectivo;1;0;0;1;Sede 3;0;0;1;Lettering
+Sylvia;200;SJL;Escolar;Mayo;2019;26/04/2019;James;10;Yape;1;0;0;1;Sede 1;1;0;0;Manga
+Kenneth;200;Brenia;Escolar;Octubre;2019;10/02/2019;Luke;10;Efectivo;1;0;0;1;Sede 1;1;0;0;Comic
+Andrea;200;Comas;Verano;Marzo;2019;3/07/2019;Nancy;10;Scotiabank;1;0;0;1;Sede 1;1;0;0;Manga
+John;200;Villa el Salvador;Invierno;Diciembre;2019;24/02/2019;Wesley;10;BVBA;1;0;0;1;Sede 2;0;1;0;Pintura
+Sharon;200;Brenia;Otonio;Diciembre;2019;7/07/2019;Amber;10;BCP;1;0;0;1;Sede 2;0;1;0;Manga
+Eric;200;Miraflores;Escolar;Noviembre;2019;22/12/2019;Alyssa;10;BCP;1;0;0;1;Sede 1;1;0;0;Manga
+Dalton;200;Molina;Verano;Marzo;2019;15/10/2019;Brandi;10;PLIN;1;0;0;1;Sede 3;0;0;1;Comic
+Jordan;200;Molina;Otonio;Enero;2019;3/05/2019;Jennifer;10;Scotiabank;1;0;0;1;Sede 3;0;0;1;Lettering
+Kevin;200;SJL;Escolar;Diciembre;2019;17/08/2019;Elizabeth;10;Efectivo;1;0;0;1;Sede 1;1;0;0;Manga
+Jennifer;200;SJL;Escolar;Junio;2019;14/10/2019;Michael;10;BCP;1;0;0;1;Sede 1;1;0;0;Dibujo
+Ashley;200;Surco;Primavera;Junio;2019;5/01/2019;Stephen;10;PLIN;1;0;0;1;Sede 1;1;0;0;Lettering
+John;200;Surco;Escolar;Setiembre;2020;19/04/2020;Brett;10;BCP;1;0;0;1;Sede 1;1;0;0;Manga
+Michelle;200;Comas;Otonio;Diciembre;2020;1/07/2020;Christopher;10;PLIN;1;0;0;1;Sede 3;0;0;1;Manga
+Erin;200;Miraflores;Verano;Diciembre;2020;9/01/2020;Tony;10;Efectivo;1;0;0;1;Sede 2;0;1;0;Lettering
+Erin;200;Comas;Verano;Enero;2020;28/04/2020;David;10;Efectivo;1;0;0;1;Sede 1;1;0;0;Dibujo
+Michele;200;Comas;Invierno;Mayo;2020;5/12/2020;Meredith;10;PLIN;1;0;0;1;Sede 2;0;1;0;Lettering
+Gabrielle;200;Comas;Primavera;Marzo;2020;19/01/2020;Teresa;10;Scotiabank;1;0;0;1;Sede 1;1;0;0;Comic
+Steven;200;Miraflores;Primavera;Noviembre;2020;10/08/2020;Susan;10;Efectivo;1;0;0;1;Sede 2;0;1;0;Pintura
+Vincent;200;Comas;Otonio;Setiembre;2020;14/05/2020;Jesus;10;Efectivo;1;0;0;1;Sede 2;0;1;0;Comic
+Christine;200;Miraflores;Escolar;Octubre;2020;7/02/2020;Abril;10;Yape;1;0;0;1;Sede 1;1;0;0;Dibujo
+David;200;SJL;Invierno;Julio;2020;15/01/2020;Leslie;10;Scotiabank;1;0;0;1;Sede 3;0;0;1;Pintura
+Joyce;200;Molina;Primavera;Junio;2020;3/02/2020;Theresa;10;PLIN;1;0;0;1;Sede 1;1;0;0;Comic
+Susan;200;Molina;Invierno;Abril;2023;11/06/2023;Steven;10;BVBA;1;0;0;1;Sede 3;0;0;1;Pintura
+Anthony;200;Miraflores;Escolar;Julio;2023;30/05/2023;Carrie;10;BCP;1;0;0;1;Sede 3;0;0;1;Comic
+Eric;200;Molina;Otonio;Agosto;2023;22/02/2023;Alice;10;PLIN;1;0;0;1;Sede 1;1;0;0;Pintura
+Thomas;200;Comas;Otonio;Setiembre;2023;4/02/2023;Joshua;10;Scotiabank;1;0;0;1;Sede 1;1;0;0;Comic
+Matthew;200;SJL;Escolar;Junio;2023;13/08/2023;Carolyn;10;BVBA;1;0;0;1;Sede 2;0;1;0;Dibujo
+Chelsea;200;Brenia;Verano;Setiembre;2023;25/12/2023;Ryan;12;PLIN;0;1;0;1;Sede 3;0;0;1;Dibujo
+Elizabeth;200;Brenia;Otonio;Setiembre;2023;7/11/2023;Donna;10;Efectivo;1;0;0;1;Sede 1;1;0;0;Comic
+Kevin;200;Miraflores;Otonio;Octubre;2023;10/07/2023;Jessica;10;BVBA;1;0;0;1;Sede 3;0;0;1;Dibujo
+Christina;200;Villa el Salvador;Primavera;Abril;2023;16/03/2023;Sheryl;10;Efectivo;1;0;0;1;Sede 2;0;1;0;Lettering
+Brandon;200;Villa el Salvador;Escolar;Octubre;2023;18/01/2023;Carla;10;Efectivo;1;0;0;1;Sede 3;0;0;1;Comic
+Kelly;200;Molina;Primavera;Enero;2023;14/02/2023;James;10;Yape;1;0;0;1;Sede 1;1;0;0;Dibujo
+Vincent;200;Molina;Invierno;Setiembre;2023;9/01/2023;Heather;12;Yape;0;1;0;1;Sede 1;1;0;0;Dibujo
+Brandy;200;Brenia;Verano;Agosto;2023;22/09/2023;Nicole;10;Yape;1;0;0;1;Sede 2;0;1;0;Lettering
+Laura;200;Brenia;Escolar;Enero;2023;8/05/2023;Elizabeth;10;Yape;1;0;0;1;Sede 1;1;0;0;Comic
+Mary;200;Miraflores;Primavera;Abril;2023;23/04/2023;Christine;10;Scotiabank;1;0;0;1;Sede 2;0;1;0;Pintura
+Shelly;200;Brenia;Invierno;Enero;2023;27/03/2023;Crystal;10;Scotiabank;1;0;0;1;Sede 1;1;0;0;Lettering
+Christina;200;SJL;Primavera;Junio;2023;4/09/2023;Janet;10;BVBA;1;0;0;1;Sede 2;0;1;0;Dibujo
+Stefanie;200;SJL;Otonio;Julio;2023;11/12/2023;Michelle;10;Efectivo;1;0;0;1;Sede 1;1;0;0;Lettering
+Robert;200;Miraflores;Escolar;Setiembre;2023;26/09/2023;James;12;Scotiabank;0;1;0;1;Sede 1;1;0;0;Comic
+Ashley;200;Miraflores;Verano;Enero;2022;2/01/2022;Theresa;9;Scotiabank;1;0;0;1;Sede 3;0;0;1;Pintura
+Danielle;200;Comas;Verano;Enero;2022;2/01/2022;Ana;9;BVBA;1;0;0;1;Sede 3;0;0;1;Dibujo
+Paula;200;SJL;Verano;Enero;2022;2/01/2022;Amanda;9;Yape;1;0;0;1;Sede 2;0;1;0;Pintura
+Kayla;200;Villa el Salvador;Verano;Enero;2022;2/01/2022;Barbara;9;Scotiabank;1;0;0;1;Sede 2;0;1;0;Comic
+Louis;200;Surco;Verano;Enero;2022;2/01/2022;Derek;9;PLIN;1;0;0;1;Sede 2;0;1;0;Lettering
+Melissa;200;Miraflores;Verano;Enero;2022;2/01/2022;Michael;9;BVBA;1;0;0;1;Sede 3;0;0;1;Pintura
+William;200;Comas;Verano;Enero;2022;2/01/2022;Lori;9;Efectivo;1;0;0;1;Sede 2;0;1;0;Manga
+Ashley;200;Surco;Verano;Enero;2022;2/01/2022;Jerry;9;Yape;1;0;0;1;Sede 1;1;0;0;Comic
+Christine;200;Miraflores;Verano;Enero;2022;2/01/2022;Mary;9;BCP;1;0;0;1;Sede 3;0;0;1;Dibujo
+Charles;200;Molina;Verano;Enero;2022;2/01/2022;Amber;9;Scotiabank;1;0;0;1;Sede 1;1;0;0;Lettering
+Monica;200;Miraflores;Verano;Enero;2022;2/01/2022;Terri;9;Scotiabank;1;0;0;1;Sede 3;0;0;1;Pintura
+Juan;200;Comas;Verano;Enero;2022;2/01/2022;Kathleen;9;BVBA;1;0;0;1;Sede 3;0;0;1;Dibujo
+Kenneth;200;SJL;Verano;Enero;2022;2/01/2022;Frank;9;Yape;1;0;0;1;Sede 2;0;1;0;Pintura
+Robert;200;Villa el Salvador;Verano;Enero;2022;2/01/2022;Daniel;9;Scotiabank;1;0;0;1;Sede 2;0;1;0;Comic
+Matthew;200;Surco;Verano;Enero;2022;2/01/2022;Krystal;9;PLIN;1;0;0;1;Sede 2;0;1;0;Lettering
+Charles;200;Miraflores;Verano;Enero;2022;2/01/2022;James;9;BVBA;1;0;0;1;Sede 3;0;0;1;Pintura
+Tanner;200;Comas;Verano;Enero;2022;2/01/2022;Charles;9;Efectivo;1;0;0;1;Sede 2;0;1;0;Manga
+Beth;200;Surco;Verano;Enero;2022;2/01/2022;Jessica;9;Yape;1;0;0;1;Sede 1;1;0;0;Comic
+Lindsay;200;Miraflores;Verano;Enero;2022;2/01/2022;Samuel;9;BCP;1;0;0;1;Sede 3;0;0;1;Dibujo
+Sharon;200;Molina;Verano;Enero;2022;2/01/2022;Zachary;9;Scotiabank;1;0;0;1;Sede 1;1;0;0;Lettering
+Vincent;200;Miraflores;Verano;Enero;2022;2/01/2022;Lisa;9;Scotiabank;1;0;0;1;Sede 3;0;0;1;Pintura
+Bryan;200;Comas;Verano;Enero;2022;2/01/2022;Amanda;9;BVBA;1;0;0;1;Sede 3;0;0;1;Dibujo
+Matthew;200;SJL;Verano;Enero;2022;2/01/2022;Joshua;9;Yape;1;0;0;1;Sede 2;0;1;0;Pintura
+Gail;200;Villa el Salvador;Verano;Enero;2022;2/01/2022;Louis;9;Scotiabank;1;0;0;1;Sede 2;0;1;0;Comic
+Allison;200;Surco;Verano;Enero;2022;2/01/2022;Bridget;9;PLIN;1;0;0;1;Sede 2;0;1;0;Lettering
+Wayne;200;Miraflores;Verano;Enero;2022;2/01/2022;Jeremy;9;BVBA;1;0;0;1;Sede 3;0;0;1;Pintura
+Valerie;200;Comas;Verano;Enero;2022;2/01/2022;Mary;9;Efectivo;1;0;0;1;Sede 2;0;1;0;Manga
+Daniel;200;Surco;Verano;Enero;2022;2/01/2022;Melissa;9;Yape;1;0;0;1;Sede 1;1;0;0;Comic
+Joseph;200;Miraflores;Verano;Enero;2022;2/01/2022;Angie;9;BCP;1;0;0;1;Sede 3;0;0;1;Dibujo
+Amanda;200;Molina;Verano;Enero;2022;2/01/2022;Judy;9;Scotiabank;1;0;0;1;Sede 1;1;0;0;Lettering
+Ashley;200;Miraflores;Verano;Febrero;2022;2/02/2022;Theresa;9;Scotiabank;1;0;0;1;Sede 3;0;0;1;Pintura
+Danielle;200;Comas;Verano;Febrero;2022;2/02/2022;Ana;9;BVBA;1;0;0;1;Sede 3;0;0;1;Dibujo
+Paula;200;SJL;Verano;Febrero;2022;2/02/2022;Amanda;9;Yape;1;0;0;1;Sede 2;0;1;0;Pintura
+Kayla;200;Villa el Salvador;Verano;Febrero;2022;2/02/2022;Barbara;9;Scotiabank;1;0;0;1;Sede 2;0;1;0;Comic
+Louis;200;Surco;Verano;Febrero;2022;2/02/2022;Derek;9;PLIN;1;0;0;1;Sede 2;0;1;0;Lettering
+Melissa;200;Miraflores;Verano;Febrero;2022;2/02/2022;Michael;9;BVBA;1;0;0;1;Sede 3;0;0;1;Pintura
+William;200;Comas;Escolar;Febrero;2022;2/02/2022;Lori;9;Efectivo;1;0;0;1;Sede 2;0;1;0;Manga
+Ashley;200;Surco;Escolar;Febrero;2022;2/02/2022;Jerry;9;Yape;1;0;0;1;Sede 1;1;0;0;Comic
+Christine;200;Miraflores;Escolar;Febrero;2022;2/02/2022;Mary;9;BCP;1;0;0;1;Sede 3;0;0;1;Dibujo
+Charles;200;Molina;Escolar;Febrero;2022;2/02/2022;Amber;9;Scotiabank;1;0;0;1;Sede 1;1;0;0;Lettering
+Monica;200;Miraflores;Verano;Febrero;2022;2/02/2022;Terri;9;Scotiabank;1;0;0;1;Sede 3;0;0;1;Pintura
+Juan;200;Comas;Verano;Febrero;2022;2/02/2022;Kathleen;9;BVBA;1;0;0;1;Sede 3;0;0;1;Dibujo
+Kenneth;200;SJL;Verano;Febrero;2022;2/02/2022;Frank;9;Yape;1;0;0;1;Sede 2;0;1;0;Pintura
+Robert;200;Villa el Salvador;Verano;Febrero;2022;2/02/2022;Daniel;9;Scotiabank;1;0;0;1;Sede 2;0;1;0;Comic
+Matthew;200;Surco;Verano;Febrero;2022;2/02/2022;Krystal;9;PLIN;1;0;0;1;Sede 2;0;1;0;Lettering
+Charles;200;Miraflores;Verano;Febrero;2022;2/02/2022;James;9;BVBA;1;0;0;1;Sede 3;0;0;1;Pintura
+Tanner;200;Comas;Verano;Febrero;2022;2/02/2022;Charles;9;Efectivo;1;0;0;1;Sede 2;0;1;0;Manga
+Beth;200;Surco;Verano;Febrero;2022;2/02/2022;Jessica;9;Yape;1;0;0;1;Sede 1;1;0;0;Comic
+Lindsay;200;Miraflores;Verano;Febrero;2022;2/02/2022;Samuel;9;BCP;1;0;0;1;Sede 3;0;0;1;Dibujo
+Sharon;200;Molina;Verano;Febrero;2022;2/02/2022;Zachary;9;Scotiabank;1;0;0;1;Sede 1;1;0;0;Lettering
+Vincent;200;Miraflores;Verano;Febrero;2022;2/02/2022;Lisa;9;Scotiabank;1;0;0;1;Sede 3;0;0;1;Pintura
+Bryan;200;Comas;Verano;Febrero;2022;2/02/2022;Amanda;9;BVBA;1;0;0;1;Sede 3;0;0;1;Dibujo
+Matthew;200;SJL;Verano;Febrero;2022;2/02/2022;Joshua;9;Yape;1;0;0;1;Sede 2;0;1;0;Pintura
+Gail;200;Villa el Salvador;Verano;Febrero;2022;2/02/2022;Louis;9;Scotiabank;1;0;0;1;Sede 2;0;1;0;Comic
+Allison;200;Surco;Verano;Febrero;2022;2/02/2022;Bridget;9;PLIN;1;0;0;1;Sede 2;0;1;0;Lettering
+Wayne;200;Miraflores;Verano;Febrero;2022;2/02/2022;Jeremy;9;BVBA;1;0;0;1;Sede 3;0;0;1;Pintura
+Valerie;200;Comas;Verano;Febrero;2022;2/02/2022;Mary;9;Efectivo;1;0;0;1;Sede 2;0;1;0;Manga
+Daniel;200;Surco;Verano;Febrero;2022;2/02/2022;Melissa;9;Yape;1;0;0;1;Sede 1;1;0;0;Comic
+Joseph;200;Miraflores;Verano;Febrero;2022;2/02/2022;Angie;9;BCP;1;0;0;1;Sede 3;0;0;1;Dibujo
+Amanda;200;Molina;Verano;Febrero;2022;2/02/2022;Judy;9;Scotiabank;1;0;0;1;Sede 1;1;0;0;Lettering
+Allison;200;Surco;Verano;Febrero;2022;2/02/2022;Bridget;9;PLIN;1;0;0;1;Sede 2;0;1;0;Lettering
+Wayne;200;Miraflores;Verano;Febrero;2022;2/02/2022;Jeremy;9;BVBA;1;0;0;1;Sede 3;0;0;1;Pintura
+Valerie;200;Comas;Verano;Febrero;2022;2/02/2022;Mary;9;Efectivo;1;0;0;1;Sede 2;0;1;0;Manga
+Daniel;200;Surco;Verano;Febrero;2022;2/02/2022;Melissa;9;Yape;1;0;0;1;Sede 1;1;0;0;Comic
+Joseph;200;Miraflores;Verano;Febrero;2022;2/02/2022;Angie;9;BCP;1;0;0;1;Sede 3;0;0;1;Dibujo
+Amanda;200;Molina;Verano;Febrero;2022;2/02/2022;Judy;9;Scotiabank;1;0;0;1;Sede 1;1;0;0;Lettering
+Joseph;200;Miraflores;Verano;Febrero;2022;2/02/2022;Angie;9;BCP;1;0;0;1;Sede 3;0;0;1;Dibujo
+Amanda;200;Molina;Verano;Febrero;2022;2/02/2022;Judy;9;Scotiabank;1;0;0;1;Sede 1;1;0;0;Lettering
+Ashley;200;Miraflores;Escolar;Marzo;2022;8/03/2022;Theresa;9;Scotiabank;1;0;0;1;Sede 3;0;0;1;Pintura
+Danielle;200;Comas;Escolar;Marzo;2022;8/03/2022;Ana;9;BVBA;1;0;0;1;Sede 3;0;0;1;Dibujo
+Paula;200;SJL;Escolar;Marzo;2022;8/03/2022;Amanda;9;Yape;1;0;0;1;Sede 2;0;1;0;Pintura
+Kayla;200;Villa el Salvador;Escolar;Marzo;2022;8/03/2022;Barbara;9;Scotiabank;1;0;0;1;Sede 2;0;1;0;Comic
+Louis;200;Surco;Escolar;Marzo;2022;8/03/2022;Derek;9;PLIN;1;0;0;1;Sede 2;0;1;0;Lettering
+Monica;200;Miraflores;Escolar;Marzo;2022;8/03/2022;Terri;9;Scotiabank;1;0;0;1;Sede 3;0;0;1;Pintura
+Matthew;200;Surco;Escolar;Marzo;2022;8/03/2022;Krystal;9;PLIN;1;0;0;1;Sede 2;0;1;0;Lettering
+Charles;200;Miraflores;Escolar;Marzo;2022;8/03/2022;James;9;BVBA;1;0;0;1;Sede 3;0;0;1;Pintura
+Tanner;200;Comas;Escolar;Marzo;2022;8/03/2022;Charles;9;Efectivo;1;0;0;1;Sede 2;0;1;0;Manga
+Beth;200;Surco;Escolar;Marzo;2022;8/03/2022;Jessica;9;Yape;1;0;0;1;Sede 1;1;0;0;Comic
+Lindsay;200;Miraflores;Escolar;Marzo;2022;8/03/2022;Samuel;9;BCP;1;0;0;1;Sede 3;0;0;1;Dibujo
+Sharon;200;Molina;Escolar;Marzo;2022;8/03/2022;Zachary;9;Scotiabank;1;0;0;1;Sede 1;1;0;0;Lettering
+Joseph;200;Miraflores;Escolar;Marzo;2022;8/03/2022;Angie;9;BCP;1;0;0;1;Sede 3;0;0;1;Dibujo
+Amanda;200;Molina;Escolar;Marzo;2022;8/03/2022;Judy;9;Scotiabank;1;0;0;1;Sede 1;1;0;0;Lettering
+Mary;200;Comas;Otonio;Agosto;2019;25/05/2019;Ryan;9;Scotiabank;1;0;0;1;Sede 2;0;1;0;Dibujo
+Rebecca;200;Comas;Primavera;Octubre;2019;25/03/2019;Colleen;9;BCP;1;0;0;1;Sede 2;0;1;0;Pintura
+Caroline;200;Surco;Invierno;Octubre;2019;26/10/2019;Sara;9;Efectivo;1;0;0;1;Sede 1;1;0;0;Manga
+Robert;200;Brenia;Escolar;Junio;2019;14/05/2019;Mark;9;Scotiabank;1;0;0;1;Sede 1;1;0;0;Lettering
+Donna;200;Brenia;Primavera;Febrero;2019;23/01/2019;Amanda;9;Scotiabank;1;0;0;1;Sede 3;0;0;1;Lettering
+Gail;200;Miraflores;Otonio;Junio;2019;22/09/2019;Veronica;9;BCP;1;0;0;1;Sede 2;0;1;0;Dibujo
+Michael;200;Brenia;Escolar;Marzo;2019;12/04/2019;Michael;9;Yape;1;0;0;1;Sede 2;0;1;0;Pintura
+Debra;200;Brenia;Otonio;Marzo;2019;17/01/2019;Cathy;9;BCP;1;0;0;1;Sede 2;0;1;0;Lettering
+Steven;200;Brenia;Invierno;Febrero;2019;26/08/2019;Danny;9;PLIN;1;0;0;1;Sede 1;1;0;0;Pintura
+Ashley;200;SJL;Otonio;Julio;2019;27/01/2019;Brandon;9;BVBA;1;0;0;1;Sede 3;0;0;1;Dibujo
+Michelle;200;Molina;Verano;Diciembre;2019;29/01/2019;Adam;9;Scotiabank;1;0;0;1;Sede 3;0;0;1;Lettering
+Samuel;200;Surco;Invierno;Marzo;2019;10/09/2019;Karen;9;BVBA;1;0;0;1;Sede 2;0;1;0;Pintura
+Kimberly;200;Molina;Verano;Agosto;2019;22/10/2019;Amber;9;PLIN;1;0;0;1;Sede 1;1;0;0;Comic
+Anna;200;Surco;Verano;Febrero;2019;13/08/2019;Vickie;9;Scotiabank;1;0;0;1;Sede 3;0;0;1;Comic
+Steven;200;SJL;Invierno;Setiembre;2019;16/08/2019;William;9;Efectivo;1;0;0;1;Sede 3;0;0;1;Lettering
+Regina;200;Surco;Otonio;Enero;2019;15/06/2019;Jessica;9;Scotiabank;1;0;0;1;Sede 1;1;0;0;Manga
+Christine;200;Miraflores;Primavera;Abril;2020;6/07/2020;Ryan;9;BVBA;1;0;0;1;Sede 3;0;0;1;Comic
+Billy;200;Comas;Verano;Junio;2020;2/07/2020;John;9;BVBA;1;0;0;1;Sede 2;0;1;0;Lettering
+Christopher;200;Brenia;Otonio;Diciembre;2020;12/10/2020;Donald;9;Efectivo;1;0;0;1;Sede 2;0;1;0;Manga
+Kyle;200;Brenia;Otonio;Julio;2020;17/09/2020;Leslie;9;Yape;1;0;0;1;Sede 3;0;0;1;Comic
+Craig;200;Molina;Verano;Junio;2020;6/12/2020;David;9;Yape;1;0;0;1;Sede 1;1;0;0;Comic
+Paul;200;Villa el Salvador;Escolar;Diciembre;2020;17/10/2020;Mark;9;Scotiabank;1;0;0;1;Sede 1;1;0;0;Manga
+Alicia;200;Comas;Primavera;Noviembre;2020;25/04/2020;Susan;9;BCP;1;0;0;1;Sede 1;1;0;0;Pintura
+Katrina;200;Comas;Primavera;Marzo;2020;5/12/2020;Amy;9;Yape;1;0;0;1;Sede 1;1;0;0;Lettering
+Caleb;200;Villa el Salvador;Primavera;Enero;2020;15/04/2020;John;9;Efectivo;1;0;0;1;Sede 2;0;1;0;Manga
+Christopher;200;Molina;Invierno;Abril;2020;17/10/2020;Paul;9;Scotiabank;1;0;0;1;Sede 1;1;0;0;Comic
+David;200;Brenia;Escolar;Noviembre;2020;19/12/2020;Robert;9;BVBA;1;0;0;1;Sede 3;0;0;1;Comic
+Christopher;200;Miraflores;Invierno;Octubre;2020;20/03/2020;Sonya;9;BVBA;1;0;0;1;Sede 2;0;1;0;Lettering
+Mark;200;Villa el Salvador;Verano;Agosto;2020;12/12/2020;Christopher;9;Yape;1;0;0;1;Sede 1;1;0;0;Manga
+Terrance;200;Miraflores;Verano;Enero;2020;29/10/2020;Jim;9;Efectivo;1;0;0;1;Sede 3;0;0;1;Lettering
+Paul;200;Villa el Salvador;Primavera;Diciembre;2020;31/08/2020;Robert;9;BVBA;1;0;0;1;Sede 3;0;0;1;Manga
+Clinton;200;Miraflores;Invierno;Noviembre;2020;15/08/2020;Cameron;9;BVBA;1;0;0;1;Sede 3;0;0;1;Comic
+Jessica;200;Comas;Primavera;Octubre;2020;21/07/2020;Paul;9;Efectivo;1;0;0;1;Sede 1;1;0;0;Dibujo
+Christopher;200;Comas;Otonio;Enero;2020;4/04/2020;Randy;9;BVBA;1;0;0;1;Sede 3;0;0;1;Lettering
+Michael;200;SJL;Primavera;Enero;2020;5/11/2020;Eric;9;BVBA;1;0;0;1;Sede 2;0;1;0;Pintura
+Kathryn;200;Molina;Primavera;Marzo;2020;24/12/2020;Jonathan;9;BCP;1;0;0;1;Sede 3;0;0;1;Dibujo
+Robert;200;Comas;Escolar;Noviembre;2020;9/11/2020;Samuel;9;Yape;1;0;0;1;Sede 3;0;0;1;Lettering
+Corey;200;Miraflores;Escolar;Noviembre;2020;21/08/2020;Jonathan;9;Yape;1;0;0;1;Sede 1;1;0;0;Comic
+Elizabeth;200;Miraflores;Verano;Marzo;2020;4/03/2020;Aimee;9;PLIN;1;0;0;1;Sede 3;0;0;1;Pintura
+Richard;200;Surco;Primavera;Abril;2023;14/06/2023;Christina;9;Scotiabank;1;0;0;1;Sede 2;0;1;0;Dibujo
+James;200;Villa el Salvador;Verano;Setiembre;2023;29/07/2023;Mary;9;Scotiabank;1;0;0;1;Sede 1;1;0;0;Comic
+Amanda;200;Comas;Escolar;Mayo;2023;18/12/2023;Robert;9;BCP;1;0;0;1;Sede 3;0;0;1;Manga
+Alisha;200;Molina;Verano;Setiembre;2023;24/01/2023;Rachel;11;Scotiabank;1;0;0;1;Sede 2;0;1;0;Comic
+Alison;200;Surco;Invierno;Febrero;2023;12/08/2023;Rebecca;9;Scotiabank;1;0;0;1;Sede 2;0;1;0;Lettering
+Michael;200;Surco;Invierno;Enero;2023;9/06/2023;Alicia;9;PLIN;1;0;0;1;Sede 2;0;1;0;Manga
+Caleb;200;Brenia;Escolar;Setiembre;2023;6/06/2023;Tyler;11;PLIN;1;0;0;1;Sede 1;1;0;0;Dibujo
+Peter;200;Surco;Escolar;Abril;2023;6/10/2023;Alexis;9;Yape;1;0;0;1;Sede 1;1;0;0;Pintura
+James;200;Comas;Otonio;Enero;2023;2/09/2023;Jeremy;9;BVBA;1;0;0;1;Sede 2;0;1;0;Lettering
+Robert;200;SJL;Invierno;Setiembre;2023;8/04/2023;Michael;11;BVBA;1;0;0;1;Sede 3;0;0;1;Dibujo
+Timothy;200;Surco;Otonio;Octubre;2023;27/10/2023;Michael;9;BVBA;1;0;0;1;Sede 1;1;0;0;Dibujo
+Shannon;200;SJL;Escolar;Octubre;2023;17/07/2023;Christopher;9;BVBA;1;0;0;1;Sede 2;0;1;0;Comic
+Amanda;200;Miraflores;Primavera;Mayo;2023;14/04/2023;Brian;9;Scotiabank;1;0;0;1;Sede 2;0;1;0;Pintura
+Rachel;200;Brenia;Primavera;Setiembre;2023;12/08/2023;Jeanne;9;Efectivo;1;0;0;1;Sede 3;0;0;1;Dibujo
+Christopher;200;Molina;Primavera;Octubre;2023;17/07/2023;Michelle;9;Efectivo;1;0;0;1;Sede 1;1;0;0;Comic
+Colleen;200;Molina;Escolar;Marzo;2023;20/12/2023;Lynn;9;BCP;1;0;0;1;Sede 2;0;1;0;Lettering
+Zachary;200;Comas;Invierno;Junio;2023;8/02/2023;Madison;9;Efectivo;1;0;0;1;Sede 2;0;1;0;Comic
+Rita;200;Miraflores;Otonio;Marzo;2023;28/12/2023;Mark;9;BVBA;1;0;0;1;Sede 2;0;1;0;Pintura
+Joy;200;Comas;Otonio;Setiembre;2023;7/02/2023;Brenda;11;BCP;1;0;0;1;Sede 2;0;1;0;Comic
+Antonio;200;Comas;Escolar;Setiembre;2023;29/06/2023;Matthew;10;BCP;1;0;0;1;Sede 1;1;0;0;Comic
+James;200;Molina;Primavera;Setiembre;2023;24/12/2023;Christopher;9;Yape;1;0;0;1;Sede 2;0;1;0;Manga
+Jose;200;Surco;Primavera;Julio;2019;24/09/2019;Charles;8;Scotiabank;1;0;0;1;Sede 1;1;0;0;Pintura
+Dana;200;Molina;Invierno;Junio;2019;4/12/2019;Charles;8;PLIN;1;0;0;1;Sede 2;0;1;0;Lettering
+Joe;200;SJL;Primavera;Abril;2019;14/01/2019;Jonathan;8;BVBA;1;0;0;1;Sede 2;0;1;0;Pintura
+Christine;200;Brenia;Otonio;Febrero;2019;27/12/2019;Francisco;8;Yape;1;0;0;1;Sede 2;0;1;0;Lettering
+Rebecca;200;SJL;Primavera;Marzo;2019;24/05/2019;Nicholas;8;Yape;1;0;0;1;Sede 3;0;0;1;Comic
+Susan;200;Molina;Verano;Agosto;2019;3/08/2019;Matthew;8;PLIN;1;0;0;1;Sede 2;0;1;0;Pintura
+David;200;Miraflores;Verano;Agosto;2019;30/05/2019;Rebecca;8;Scotiabank;1;0;0;1;Sede 3;0;0;1;Pintura
+David;200;Miraflores;Invierno;Febrero;2019;24/12/2019;Tara;8;BVBA;1;0;0;1;Sede 1;1;0;0;Lettering
+Mary;200;Molina;Invierno;Diciembre;2019;27/07/2019;Melissa;8;BCP;1;0;0;1;Sede 1;1;0;0;Pintura
+Derek;200;Comas;Escolar;Diciembre;2019;5/05/2019;Gregory;8;Efectivo;1;0;0;1;Sede 3;0;0;1;Manga
+Sandra;200;Miraflores;Escolar;Octubre;2019;23/10/2019;Brian;8;Efectivo;1;0;0;1;Sede 1;1;0;0;Comic
+Whitney;200;Molina;Primavera;Diciembre;2019;15/08/2019;Michael;8;BCP;1;0;0;1;Sede 2;0;1;0;Manga
+Renee;200;Comas;Primavera;Junio;2019;21/06/2019;Matthew;8;Yape;1;0;0;1;Sede 3;0;0;1;Dibujo
+Matthew;200;Miraflores;Verano;Noviembre;2019;28/09/2019;Eric;8;Scotiabank;1;0;0;1;Sede 3;0;0;1;Lettering
+Heather;200;Surco;Verano;Mayo;2019;28/03/2019;Darrell;8;Scotiabank;1;0;0;1;Sede 2;0;1;0;Manga
+Danny;200;Comas;Verano;Enero;2019;12/11/2019;Suzanne;8;Efectivo;1;0;0;1;Sede 2;0;1;0;Lettering
+Michael;200;Comas;Primavera;Diciembre;2019;12/04/2019;Richard;8;Yape;1;0;0;1;Sede 1;1;0;0;Lettering
+Johnathan;200;Surco;Otonio;Mayo;2019;19/12/2019;Michael;8;Efectivo;1;0;0;1;Sede 1;1;0;0;Manga
+James;200;Brenia;Otonio;Mayo;2019;3/08/2019;Adam;8;BVBA;1;0;0;1;Sede 1;1;0;0;Comic
+Pamela;200;Brenia;Escolar;Noviembre;2019;26/09/2019;Kimberly;8;PLIN;1;0;0;1;Sede 3;0;0;1;Comic
+Patricia;200;Brenia;Escolar;Diciembre;2019;19/10/2019;Brad;8;BVBA;1;0;0;1;Sede 2;0;1;0;Dibujo
+Samuel;200;Villa el Salvador;Invierno;Diciembre;2020;2/10/2020;Lindsay;8;PLIN;1;0;0;1;Sede 2;0;1;0;Manga
+Peter;200;Miraflores;Escolar;Febrero;2020;31/10/2020;William;8;Scotiabank;1;0;0;1;Sede 1;1;0;0;Dibujo
+George;200;Surco;Primavera;Febrero;2020;23/06/2020;Cassandra;8;BCP;1;0;0;1;Sede 2;0;1;0;Dibujo
+Heidi;200;Comas;Invierno;Enero;2020;19/10/2020;Emily;8;BVBA;1;0;0;1;Sede 1;1;0;0;Comic
+Samuel;200;Miraflores;Primavera;Setiembre;2020;4/01/2020;Michaela;8;BVBA;1;0;0;1;Sede 2;0;1;0;Dibujo
+Caitlin;200;Miraflores;Invierno;Mayo;2020;8/03/2020;Curtis;8;PLIN;1;0;0;1;Sede 3;0;0;1;Comic
+Sarah;200;Villa el Salvador;Verano;Diciembre;2020;5/09/2020;Lisa;8;Yape;1;0;0;1;Sede 2;0;1;0;Dibujo
+Carlos;200;Molina;Escolar;Agosto;2020;17/04/2020;Abigail;8;BCP;1;0;0;1;Sede 2;0;1;0;Lettering
+Justin;200;Surco;Escolar;Marzo;2020;10/02/2020;Scott;8;PLIN;1;0;0;1;Sede 2;0;1;0;Lettering
+Ashley;200;Miraflores;Escolar;Noviembre;2020;2/01/2020;Kathleen;8;PLIN;1;0;0;1;Sede 3;0;0;1;Dibujo
+Victor;200;Molina;Primavera;Enero;2020;10/03/2020;Thomas;8;BCP;1;0;0;1;Sede 3;0;0;1;Pintura
+Barbara;200;Miraflores;Otonio;Mayo;2020;13/08/2020;Philip;8;Scotiabank;1;0;0;1;Sede 1;1;0;0;Comic
+Brittany;200;Molina;Verano;Enero;2020;27/11/2020;Valerie;8;Yape;1;0;0;1;Sede 3;0;0;1;Dibujo
+Jeffrey;200;Surco;Verano;Abril;2020;4/03/2020;Brittany;8;Scotiabank;1;0;0;1;Sede 2;0;1;0;Lettering
+Katherine;200;Comas;Verano;Mayo;2020;13/09/2020;John;8;PLIN;1;0;0;1;Sede 1;1;0;0;Manga
+Ricky;200;Surco;Verano;Febrero;2020;10/09/2020;Amber;8;Efectivo;1;0;0;1;Sede 2;0;1;0;Pintura
+Janet;200;Molina;Invierno;Diciembre;2020;15/06/2020;Danielle;8;BCP;1;0;0;1;Sede 2;0;1;0;Dibujo
+Jason;200;Villa el Salvador;Invierno;Enero;2020;2/09/2020;Pamela;8;BCP;1;0;0;1;Sede 1;1;0;0;Pintura
+Vincent;200;Villa el Salvador;Invierno;Enero;2020;19/03/2020;Matthew;8;Efectivo;1;0;0;1;Sede 2;0;1;0;Pintura
+Miguel;200;Comas;Invierno;Marzo;2020;21/09/2020;Tyler;8;BCP;1;0;0;1;Sede 3;0;0;1;Lettering
+Antonio;200;Villa el Salvador;Primavera;Agosto;2020;2/02/2020;Sydney;8;Efectivo;1;0;0;1;Sede 3;0;0;1;Comic
+Ryan;200;Villa el Salvador;Otonio;Abril;2020;15/01/2020;Matthew;8;BVBA;1;0;0;1;Sede 2;0;1;0;Lettering
+Tony;200;Surco;Otonio;Enero;2020;22/09/2020;Larry;8;BVBA;1;0;0;1;Sede 3;0;0;1;Manga
+Denise;200;Molina;Escolar;Febrero;2020;23/02/2020;Brittney;8;PLIN;1;0;0;1;Sede 1;1;0;0;Lettering
+Cody;200;Brenia;Otonio;Marzo;2020;1/04/2020;Carl;8;Scotiabank;1;0;0;1;Sede 1;1;0;0;Comic
+Jack;200;Brenia;Otonio;Octubre;2020;21/03/2020;Connor;8;BVBA;1;0;0;1;Sede 1;1;0;0;Manga
+Cindy;200;SJL;Invierno;Enero;2020;5/02/2020;Annette;8;Yape;1;0;0;1;Sede 3;0;0;1;Lettering
+Sherri;200;Villa el Salvador;Invierno;Junio;2020;13/06/2020;Lori;8;PLIN;1;0;0;1;Sede 3;0;0;1;Lettering
+Theresa;200;Villa el Salvador;Primavera;Julio;2020;5/07/2020;Michael;8;Yape;1;0;0;1;Sede 3;0;0;1;Dibujo
+Edwin;200;Miraflores;Invierno;Marzo;2020;28/04/2020;Tina;8;PLIN;1;0;0;1;Sede 1;1;0;0;Manga
+Eric;200;SJL;Escolar;Julio;2020;16/12/2020;Adam;8;Efectivo;1;0;0;1;Sede 1;1;0;0;Dibujo
+Jeffrey;200;Miraflores;Escolar;Marzo;2023;3/05/2023;Roger;8;Yape;1;0;0;1;Sede 1;1;0;0;Pintura
+David;200;SJL;Primavera;Agosto;2023;12/01/2023;Robert;8;BVBA;1;0;0;1;Sede 1;1;0;0;Comic
+Michelle;200;Comas;Primavera;Setiembre;2023;28/10/2023;Jessica;9;PLIN;1;0;0;1;Sede 1;1;0;0;Manga
+Mary;200;Molina;Verano;Julio;2023;9/04/2023;Heather;8;PLIN;1;0;0;1;Sede 3;0;0;1;Comic
+John;200;Surco;Otonio;Mayo;2023;27/11/2023;Anna;8;BVBA;1;0;0;1;Sede 3;0;0;1;Comic
+Gregory;200;Brenia;Verano;Junio;2023;25/08/2023;Wayne;8;Scotiabank;1;0;0;1;Sede 2;0;1;0;Lettering
+Mary;200;Villa el Salvador;Invierno;Mayo;2023;7/10/2023;Bobby;8;BVBA;1;0;0;1;Sede 1;1;0;0;Comic
+Amanda;200;Comas;Invierno;Octubre;2023;13/02/2023;Jasmine;8;BCP;1;0;0;1;Sede 2;0;1;0;Pintura
+Thomas;200;Surco;Primavera;Mayo;2023;16/09/2023;Christina;8;BVBA;1;0;0;1;Sede 2;0;1;0;Pintura
+Tiffany;200;Surco;Verano;Marzo;2023;20/06/2023;Joshua;8;BCP;1;0;0;1;Sede 2;0;1;0;Lettering
+Andrew;200;Miraflores;Verano;Mayo;2023;29/03/2023;Ian;8;BCP;1;0;0;1;Sede 3;0;0;1;Pintura
+Brian;200;Villa el Salvador;Primavera;Mayo;2023;30/12/2023;Stephanie;8;Efectivo;1;0;0;1;Sede 1;1;0;0;Comic
+Stephanie;200;Brenia;Invierno;Abril;2023;9/02/2023;David;8;BVBA;1;0;0;1;Sede 1;1;0;0;Manga
+Kimberly;200;Brenia;Invierno;Junio;2023;2/03/2023;Kendra;8;PLIN;1;0;0;1;Sede 1;1;0;0;Comic
+Autumn;200;Miraflores;Otonio;Abril;2023;18/11/2023;Sandra;8;Efectivo;1;0;0;1;Sede 1;1;0;0;Comic
+Brian;200;Molina;Verano;Enero;2022;2/01/2022;Lawrence;7;BCP;1;0;0;1;Sede 2;0;1;0;Manga
+Allison;200;Molina;Verano;Enero;2022;2/01/2022;William;7;BCP;1;0;0;1;Sede 2;0;1;0;Manga
+Adam;200;Molina;Verano;Enero;2022;2/01/2022;Jeffrey;7;BCP;1;0;0;1;Sede 2;0;1;0;Manga
+Brian;200;Molina;Verano;Febrero;2022;2/02/2022;Lawrence;7;BCP;1;0;0;1;Sede 2;0;1;0;Manga
+Allison;200;Molina;Verano;Febrero;2022;2/02/2022;William;7;BCP;1;0;0;1;Sede 2;0;1;0;Manga
+Adam;200;Molina;Verano;Febrero;2022;2/02/2022;Jeffrey;7;BCP;1;0;0;1;Sede 2;0;1;0;Manga
+Brian;200;Molina;Escolar;Marzo;2022;8/03/2022;Lawrence;7;BCP;1;0;0;1;Sede 2;0;1;0;Manga
+Allison;200;Molina;Escolar;Marzo;2022;8/03/2022;William;7;BCP;1;0;0;1;Sede 2;0;1;0;Manga
+Karen;200;Comas;Invierno;Mayo;2019;12/04/2019;Michael;7;Yape;1;0;0;1;Sede 2;0;1;0;Comic
+Robert;200;Molina;Verano;Marzo;2019;25/09/2019;Connor;7;Scotiabank;1;0;0;1;Sede 3;0;0;1;Dibujo
+Andrew;200;Brenia;Escolar;Mayo;2019;14/09/2019;Kevin;7;Scotiabank;1;0;0;1;Sede 2;0;1;0;Pintura
+Tina;200;Villa el Salvador;Primavera;Diciembre;2019;25/06/2019;Scott;7;BVBA;1;0;0;1;Sede 2;0;1;0;Manga
+Richard;200;Villa el Salvador;Primavera;Diciembre;2019;7/03/2019;Richard;7;Yape;1;0;0;1;Sede 1;1;0;0;Lettering
+Jeremy;200;Surco;Primavera;Octubre;2019;23/07/2019;Sabrina;7;Scotiabank;1;0;0;1;Sede 3;0;0;1;Lettering
+Jessica;200;Villa el Salvador;Primavera;Febrero;2019;30/04/2019;Rachel;7;Scotiabank;1;0;0;1;Sede 1;1;0;0;Comic
+Joshua;200;Surco;Primavera;Agosto;2019;25/11/2019;Frederick;7;Yape;1;0;0;1;Sede 1;1;0;0;Manga
+Tiffany;200;Brenia;Primavera;Abril;2019;5/06/2019;Melissa;7;Scotiabank;1;0;0;1;Sede 2;0;1;0;Pintura
+Brandon;200;Villa el Salvador;Verano;Diciembre;2019;12/01/2019;Mary;7;Scotiabank;1;0;0;1;Sede 2;0;1;0;Manga
+Thomas;200;Miraflores;Otonio;Setiembre;2019;19/11/2019;William;7;Scotiabank;1;0;0;1;Sede 1;1;0;0;Manga
+Mary;200;Brenia;Invierno;Agosto;2019;28/06/2019;Katie;7;PLIN;1;0;0;1;Sede 1;1;0;0;Pintura
+Alyssa;200;Surco;Otonio;Diciembre;2019;10/01/2019;Jessica;7;BVBA;1;0;0;1;Sede 3;0;0;1;Lettering
+Penny;200;Villa el Salvador;Otonio;Agosto;2019;15/07/2019;Rachel;7;PLIN;1;0;0;1;Sede 3;0;0;1;Manga
+Laura;200;Brenia;Invierno;Abril;2019;24/05/2019;David;7;BCP;1;0;0;1;Sede 3;0;0;1;Pintura
+Pamela;200;Villa el Salvador;Primavera;Junio;2019;5/11/2019;Carolyn;7;BCP;1;0;0;1;Sede 2;0;1;0;Lettering
+Nicole;200;Villa el Salvador;Escolar;Enero;2019;9/08/2019;Kelsey;7;BCP;1;0;0;1;Sede 3;0;0;1;Pintura
+Marcus;200;Miraflores;Otonio;Diciembre;2019;6/10/2019;Steven;7;BCP;1;0;0;1;Sede 3;0;0;1;Comic
+Laura;200;Brenia;Primavera;Octubre;2019;11/02/2019;Mark;7;Yape;1;0;0;1;Sede 2;0;1;0;Dibujo
+Daniel;200;Miraflores;Invierno;Octubre;2019;2/09/2019;Matthew;7;BVBA;1;0;0;1;Sede 3;0;0;1;Pintura
+Cynthia;200;Molina;Invierno;Diciembre;2020;31/05/2020;Terri;7;Scotiabank;1;0;0;1;Sede 2;0;1;0;Manga
+Robert;200;SJL;Escolar;Setiembre;2020;6/12/2020;Larry;7;Yape;1;0;0;1;Sede 2;0;1;0;Comic
+Malik;200;SJL;Otonio;Junio;2020;4/04/2020;James;7;BCP;1;0;0;1;Sede 3;0;0;1;Pintura
+Tamara;200;Villa el Salvador;Otonio;Junio;2020;29/01/2020;Roberta;7;Yape;1;0;0;1;Sede 2;0;1;0;Pintura
+Michelle;200;Brenia;Otonio;Diciembre;2020;21/09/2020;Ashley;7;BCP;1;0;0;1;Sede 1;1;0;0;Dibujo
+Kelli;200;Molina;Invierno;Mayo;2020;29/09/2020;Steven;7;BVBA;1;0;0;1;Sede 1;1;0;0;Lettering
+Peggy;200;Brenia;Invierno;Febrero;2020;22/01/2020;Jasmine;7;BCP;1;0;0;1;Sede 2;0;1;0;Lettering
+Nicole;200;Villa el Salvador;Primavera;Enero;2020;19/07/2020;Amy;7;BCP;1;0;0;1;Sede 2;0;1;0;Pintura
+Elizabeth;200;Surco;Invierno;Junio;2020;30/07/2020;Curtis;7;BVBA;1;0;0;1;Sede 2;0;1;0;Pintura
+Elizabeth;200;Miraflores;Escolar;Abril;2020;10/06/2020;Caitlin;7;BVBA;1;0;0;1;Sede 1;1;0;0;Comic
+Leslie;200;Miraflores;Otonio;Marzo;2020;7/05/2020;Alicia;7;Yape;1;0;0;1;Sede 2;0;1;0;Manga
+Lisa;200;Villa el Salvador;Otonio;Enero;2020;9/11/2020;Austin;7;PLIN;1;0;0;1;Sede 2;0;1;0;Comic
+John;200;SJL;Escolar;Enero;2020;14/08/2020;Michael;7;BCP;1;0;0;1;Sede 2;0;1;0;Dibujo
+Dana;200;Molina;Verano;Noviembre;2020;15/05/2020;Tina;7;BVBA;1;0;0;1;Sede 2;0;1;0;Lettering
+Kelli;200;Surco;Invierno;Noviembre;2020;24/06/2020;Robert;7;Efectivo;1;0;0;1;Sede 1;1;0;0;Dibujo
+Lindsay;200;Molina;Otonio;Abril;2020;12/01/2020;Nicole;7;BVBA;1;0;0;1;Sede 2;0;1;0;Pintura
+Emma;200;Villa el Salvador;Invierno;Agosto;2020;16/08/2020;George;7;BCP;1;0;0;1;Sede 2;0;1;0;Lettering
+Joseph;200;Molina;Verano;Octubre;2020;2/05/2020;Brett;7;BVBA;1;0;0;1;Sede 1;1;0;0;Comic
+Lisa;200;Miraflores;Verano;Enero;2020;21/01/2020;Shelley;7;BCP;1;0;0;1;Sede 3;0;0;1;Comic
+Abril;200;Surco;Otonio;Diciembre;2020;14/12/2020;Kimberly;7;PLIN;1;0;0;1;Sede 3;0;0;1;Comic
+Jesse;200;Villa el Salvador;Primavera;Octubre;2023;10/09/2023;Dawn;7;BCP;1;0;0;1;Sede 1;1;0;0;Lettering
+Timothy;200;Brenia;Otonio;Setiembre;2023;30/03/2023;Heather;7;BVBA;1;0;0;1;Sede 3;0;0;1;Manga
+Mary;200;Miraflores;Primavera;Junio;2023;16/04/2023;Catherine;7;Yape;1;0;0;1;Sede 2;0;1;0;Comic
+Rebecca;200;Brenia;Escolar;Febrero;2023;16/02/2023;Ashley;7;BVBA;1;0;0;1;Sede 1;1;0;0;Pintura
+Jennifer;200;Surco;Verano;Junio;2023;19/09/2023;Samantha;7;PLIN;1;0;0;1;Sede 1;1;0;0;Manga
+Mark;200;Villa el Salvador;Verano;Setiembre;2023;15/09/2023;Julie;7;Efectivo;1;0;0;1;Sede 2;0;1;0;Lettering
+Lori;200;Molina;Otonio;Junio;2023;20/05/2023;Jessica;7;Scotiabank;1;0;0;1;Sede 3;0;0;1;Comic
+Dana;200;SJL;Escolar;Mayo;2023;15/08/2023;Vanessa;7;BCP;1;0;0;1;Sede 3;0;0;1;Comic
+Sharon;200;Molina;Verano;Agosto;2023;10/07/2023;Randall;7;Scotiabank;1;0;0;1;Sede 1;1;0;0;Comic
+Rose;200;Brenia;Verano;Mayo;2023;30/06/2023;Jeffrey;7;Efectivo;1;0;0;1;Sede 3;0;0;1;Dibujo
+Matthew;200;SJL;Verano;Junio;2023;7/05/2023;Jenny;7;Yape;1;0;0;1;Sede 3;0;0;1;Manga
+Melissa;200;Villa el Salvador;Invierno;Mayo;2023;22/02/2023;Stephen;7;Yape;1;0;0;1;Sede 1;1;0;0;Manga
+Anna;200;SJL;Primavera;Setiembre;2023;21/08/2023;Leonard;9;PLIN;1;0;0;1;Sede 1;1;0;0;Pintura
+Kimberly;200;Villa el Salvador;Primavera;Setiembre;2023;17/07/2023;Dan;9;Scotiabank;1;0;0;1;Sede 1;1;0;0;Lettering
+Thomas;200;Villa el Salvador;Escolar;Julio;2023;24/05/2023;Brendan;7;Scotiabank;1;0;0;1;Sede 3;0;0;1;Dibujo
+Lee;200;Villa el Salvador;Invierno;Julio;2023;6/06/2023;Dorothy;7;PLIN;1;0;0;1;Sede 3;0;0;1;Comic
+Tim;200;Villa el Salvador;Primavera;Julio;2023;13/03/2023;Gabriel;7;Yape;1;0;0;1;Sede 1;1;0;0;Pintura
+Mallory;200;Miraflores;Primavera;Setiembre;2023;24/05/2023;Samantha;7;Efectivo;1;0;0;1;Sede 2;0;1;0;Dibujo
+Andrea;200;Brenia;Invierno;Marzo;2023;28/08/2023;Martin;7;Efectivo;1;0;0;1;Sede 3;0;0;1;Pintura
+Jennifer;200;Molina;Primavera;Setiembre;2023;2/10/2023;Rodney;8;BVBA;1;0;0;1;Sede 2;0;1;0;Lettering
+Vanessa;200;SJL;Verano;Diciembre;2019;16/10/2019;Tanya;6;PLIN;1;0;0;1;Sede 1;1;0;0;Dibujo
+Tammy;200;Miraflores;Invierno;Mayo;2019;28/11/2019;Stacey;6;Scotiabank;1;0;0;1;Sede 3;0;0;1;Comic
+Eric;200;SJL;Verano;Marzo;2019;30/11/2019;Erika;6;Yape;1;0;0;1;Sede 2;0;1;0;Pintura
+Corey;200;SJL;Otonio;Noviembre;2019;10/05/2019;Kimberly;6;BCP;1;0;0;1;Sede 3;0;0;1;Dibujo
+Nicole;200;Surco;Primavera;Junio;2019;11/10/2019;Samantha;6;Efectivo;1;0;0;1;Sede 2;0;1;0;Pintura
+Ethan;200;Surco;Escolar;Diciembre;2019;29/05/2019;Lisa;6;Scotiabank;1;0;0;1;Sede 1;1;0;0;Pintura
+Robert;200;Surco;Escolar;Julio;2019;23/03/2019;Alicia;6;BVBA;1;0;0;1;Sede 2;0;1;0;Manga
+Brenda;200;Villa el Salvador;Escolar;Febrero;2019;19/05/2019;Melanie;6;Scotiabank;1;0;0;1;Sede 2;0;1;0;Comic
+Jason;200;Villa el Salvador;Escolar;Noviembre;2019;22/12/2019;Angela;6;Efectivo;1;0;0;1;Sede 2;0;1;0;Manga
+William;200;Villa el Salvador;Invierno;Febrero;2019;10/08/2019;Marissa;6;BVBA;1;0;0;1;Sede 2;0;1;0;Dibujo
+Brenda;200;Brenia;Verano;Febrero;2019;13/05/2019;Janice;6;PLIN;1;0;0;1;Sede 3;0;0;1;Comic
+Karen;200;Villa el Salvador;Otonio;Marzo;2019;15/05/2019;Stephanie;6;Scotiabank;1;0;0;1;Sede 3;0;0;1;Comic
+Jennifer;200;Villa el Salvador;Verano;Enero;2019;23/12/2019;Brandon;6;Scotiabank;1;0;0;1;Sede 2;0;1;0;Lettering
+Collin;200;Comas;Primavera;Enero;2019;25/02/2019;Susan;6;Yape;1;0;0;1;Sede 1;1;0;0;Comic
+Ashley;200;Comas;Invierno;Marzo;2019;28/08/2019;Jennifer;6;PLIN;1;0;0;1;Sede 2;0;1;0;Lettering
+Francisco;200;Miraflores;Invierno;Diciembre;2019;29/08/2019;Christina;6;BVBA;1;0;0;1;Sede 2;0;1;0;Comic
+Joe;200;Villa el Salvador;Primavera;Julio;2019;6/10/2019;Matthew;6;PLIN;1;0;0;1;Sede 1;1;0;0;Dibujo
+Heather;200;Comas;Invierno;Junio;2019;18/09/2019;Ryan;6;Yape;1;0;0;1;Sede 2;0;1;0;Lettering
+Daniel;200;Surco;Verano;Abril;2019;16/04/2019;Rebecca;6;BVBA;1;0;0;1;Sede 2;0;1;0;Lettering
+Kelsey;200;Miraflores;Verano;Diciembre;2019;26/06/2019;Gregory;6;BVBA;1;0;0;1;Sede 1;1;0;0;Manga
+Robert;200;Villa el Salvador;Primavera;Junio;2019;19/07/2019;Angela;6;Scotiabank;1;0;0;1;Sede 2;0;1;0;Pintura
+Eric;200;SJL;Verano;Marzo;2019;18/11/2019;Lisa;6;BVBA;1;0;0;1;Sede 3;0;0;1;Dibujo
+Ryan;200;Molina;Invierno;Marzo;2019;30/12/2019;John;6;BCP;1;0;0;1;Sede 1;1;0;0;Comic
+Charles;200;Comas;Primavera;Julio;2019;14/04/2019;Danielle;6;BCP;1;0;0;1;Sede 1;1;0;0;Comic
+Tammy;200;Villa el Salvador;Primavera;Octubre;2019;23/06/2019;Alexander;6;PLIN;1;0;0;1;Sede 2;0;1;0;Lettering
+Tyler;200;Surco;Otonio;Julio;2020;11/02/2020;Deanna;6;PLIN;1;0;0;1;Sede 2;0;1;0;Dibujo
+Hector;200;Miraflores;Otonio;Noviembre;2020;4/05/2020;Miguel;6;BCP;1;0;0;1;Sede 1;1;0;0;Lettering
+Robert;200;Molina;Escolar;Octubre;2020;11/07/2020;Jennifer;6;Efectivo;1;0;0;1;Sede 3;0;0;1;Manga
+Shane;200;Molina;Invierno;Noviembre;2020;23/04/2020;Haley;6;Scotiabank;1;0;0;1;Sede 1;1;0;0;Lettering
+Amanda;200;Comas;Verano;Setiembre;2020;5/05/2020;Adam;6;Efectivo;1;0;0;1;Sede 2;0;1;0;Manga
+Stephanie;200;Villa el Salvador;Invierno;Marzo;2020;6/10/2020;Barbara;6;PLIN;1;0;0;1;Sede 2;0;1;0;Manga
+Kelly;200;Surco;Verano;Octubre;2020;5/05/2020;Crystal;6;Scotiabank;1;0;0;1;Sede 2;0;1;0;Lettering
+Gabriel;200;Villa el Salvador;Otonio;Octubre;2020;25/08/2020;Helen;6;Efectivo;1;0;0;1;Sede 2;0;1;0;Lettering
+Arthur;200;Comas;Primavera;Mayo;2020;6/09/2020;David;6;BCP;1;0;0;1;Sede 3;0;0;1;Pintura
+Michael;200;Brenia;Primavera;Setiembre;2020;1/03/2020;Debra;6;Scotiabank;1;0;0;1;Sede 2;0;1;0;Comic
+Cassidy;200;SJL;Escolar;Diciembre;2020;11/08/2020;Sara;6;Scotiabank;1;0;0;1;Sede 3;0;0;1;Lettering
+Adrian;200;SJL;Primavera;Julio;2020;12/09/2020;Ashley;6;Scotiabank;1;0;0;1;Sede 2;0;1;0;Dibujo
+Sylvia;200;Miraflores;Primavera;Setiembre;2020;31/07/2020;Tiffany;6;BVBA;1;0;0;1;Sede 2;0;1;0;Lettering
+Jennifer;200;SJL;Otonio;Junio;2020;8/03/2020;Samantha;6;Efectivo;1;0;0;1;Sede 2;0;1;0;Pintura
+Tiffany;200;Miraflores;Escolar;Agosto;2020;17/06/2020;Jennifer;6;Scotiabank;1;0;0;1;Sede 3;0;0;1;Pintura
+Michael;200;Brenia;Primavera;Junio;2020;10/01/2020;Jordan;6;PLIN;1;0;0;1;Sede 1;1;0;0;Dibujo
+Matthew;200;Brenia;Invierno;Abril;2020;27/12/2020;Susan;6;BCP;1;0;0;1;Sede 3;0;0;1;Comic
+Patricia;200;Brenia;Verano;Diciembre;2020;10/03/2020;Bryan;6;PLIN;1;0;0;1;Sede 2;0;1;0;Lettering
+Margaret;200;Brenia;Verano;Marzo;2020;26/07/2020;Seth;6;BVBA;1;0;0;1;Sede 1;1;0;0;Pintura
+Derrick;200;Comas;Verano;Marzo;2023;2/05/2023;David;6;Scotiabank;1;0;0;1;Sede 1;1;0;0;Manga
+Amanda;200;Comas;Invierno;Julio;2023;4/06/2023;Donald;6;BVBA;1;0;0;1;Sede 2;0;1;0;Pintura
+Stacy;200;SJL;Primavera;Julio;2023;26/04/2023;Jacob;6;Scotiabank;1;0;0;1;Sede 3;0;0;1;Manga
+Andrew;200;Surco;Primavera;Agosto;2023;26/07/2023;Jacqueline;6;BVBA;1;0;0;1;Sede 3;0;0;1;Comic
+Crystal;200;Surco;Primavera;Setiembre;2023;22/08/2023;Stanley;7;PLIN;1;0;0;1;Sede 1;1;0;0;Dibujo
+Gerald;200;Comas;Verano;Agosto;2023;7/03/2023;Christopher;6;PLIN;1;0;0;1;Sede 2;0;1;0;Pintura
+Crystal;200;Surco;Otonio;Mayo;2023;19/06/2023;Travis;6;BCP;1;0;0;1;Sede 2;0;1;0;Pintura
+Caleb;200;Brenia;Verano;Enero;2023;12/03/2023;Tiffany;6;Scotiabank;1;0;0;1;Sede 3;0;0;1;Dibujo
+Erin;200;Brenia;Escolar;Mayo;2023;24/02/2023;Tammy;6;Yape;1;0;0;1;Sede 2;0;1;0;Pintura
+Jessica;200;Brenia;Primavera;Junio;2023;11/11/2023;Patricia;6;BCP;1;0;0;1;Sede 2;0;1;0;Manga
+Robert;200;SJL;Verano;Agosto;2023;8/03/2023;Jasmine;6;BCP;1;0;0;1;Sede 2;0;1;0;Pintura
+Allison;200;Molina;Escolar;Abril;2023;2/02/2023;Karen;6;BCP;1;0;0;1;Sede 1;1;0;0;Comic
+Danny;200;Molina;Otonio;Setiembre;2023;16/02/2023;Lisa;7;Efectivo;1;0;0;1;Sede 1;1;0;0;Manga
+Garrett;200;SJL;Primavera;Febrero;2023;18/12/2023;Trevor;6;BVBA;1;0;0;1;Sede 2;0;1;0;Pintura
+Michelle;200;SJL;Invierno;Abril;2023;27/06/2023;Sarah;6;Efectivo;1;0;0;1;Sede 2;0;1;0;Manga
+Jesse;200;Surco;Escolar;Febrero;2023;26/09/2023;Gilbert;6;Scotiabank;1;0;0;1;Sede 1;1;0;0;Manga
+Matthew;200;Molina;Verano;Abril;2023;30/08/2023;Michael;6;BCP;1;0;0;1;Sede 1;1;0;0;Comic
+Cheryl;200;Comas;Invierno;Setiembre;2023;25/01/2023;Devon;7;Efectivo;1;0;0;1;Sede 2;0;1;0;Dibujo
+Blake;200;SJL;Otonio;Abril;2023;4/09/2023;David;6;Yape;1;0;0;1;Sede 3;0;0;1;Pintura
+Felicia;200;Surco;Verano;Marzo;2023;4/01/2023;Gregory;6;PLIN;1;0;0;1;Sede 2;0;1;0;Lettering
+Brenda;200;Brenia;Primavera;Junio;2023;9/12/2023;Patricia;6;BCP;1;0;0;1;Sede 1;1;0;0;Pintura
+Mark;200;SJL;Escolar;Octubre;2023;21/09/2023;Destiny;6;Yape;1;0;0;1;Sede 1;1;0;0;Manga
+Joanna;200;Miraflores;Escolar;Marzo;2023;6/04/2023;Amanda;6;PLIN;1;0;0;1;Sede 3;0;0;1;Lettering
+Christopher;200;Miraflores;Primavera;Julio;2023;13/06/2023;Carol;6;BVBA;1;0;0;1;Sede 3;0;0;1;Manga
+Pamela;200;Surco;Otonio;Setiembre;2023;7/12/2023;Kimberly;6;BVBA;1;0;0;1;Sede 1;1;0;0;Manga
+Justin;200;Molina;Verano;Abril;2023;1/11/2023;Zachary;6;Yape;1;0;0;1;Sede 2;0;1;0;Pintura
+Stephen;200;SJL;Verano;Mayo;2023;5/04/2023;William;6;PLIN;1;0;0;1;Sede 1;1;0;0;Dibujo
+John;200;Miraflores;Verano;Abril;2023;4/03/2023;Robert;6;Yape;1;0;0;1;Sede 2;0;1;0;Pintura
+Rachael;200;SJL;Otonio;Enero;2019;7/04/2019;Nicholas;5;BVBA;1;0;0;1;Sede 2;0;1;0;Manga
+Lindsay;200;SJL;Otonio;Setiembre;2019;26/06/2019;Joseph;5;BVBA;1;0;0;1;Sede 1;1;0;0;Comic
+Jodi;200;Molina;Primavera;Agosto;2019;4/10/2019;Joe;5;Efectivo;1;0;0;1;Sede 1;1;0;0;Lettering
+Ronald;200;Villa el Salvador;Verano;Abril;2019;6/04/2019;Kenneth;5;PLIN;1;0;0;1;Sede 1;1;0;0;Pintura
+Adam;200;Surco;Verano;Julio;2019;22/02/2019;Carol;5;Yape;1;0;0;1;Sede 1;1;0;0;Lettering
+Timothy;200;Molina;Escolar;Enero;2019;5/05/2019;Tonya;5;BCP;1;0;0;1;Sede 2;0;1;0;Dibujo
+Erin;200;SJL;Primavera;Abril;2019;25/04/2019;Martha;5;Efectivo;1;0;0;1;Sede 2;0;1;0;Comic
+Robert;200;SJL;Otonio;Marzo;2019;23/07/2019;Emily;5;Yape;1;0;0;1;Sede 1;1;0;0;Pintura
+Maria;200;Miraflores;Otonio;Abril;2019;27/08/2019;Kristin;5;Efectivo;1;0;0;1;Sede 1;1;0;0;Dibujo
+Sarah;200;Villa el Salvador;Primavera;Marzo;2019;28/03/2019;Danielle;5;BCP;1;0;0;1;Sede 2;0;1;0;Lettering
+James;200;Brenia;Invierno;Setiembre;2019;17/01/2019;James;5;PLIN;1;0;0;1;Sede 2;0;1;0;Dibujo
+Katherine;200;Brenia;Primavera;Octubre;2019;8/12/2019;Linda;5;PLIN;1;0;0;1;Sede 2;0;1;0;Lettering
+Suzanne;200;Molina;Primavera;Marzo;2019;28/02/2019;Brenda;5;Efectivo;1;0;0;1;Sede 1;1;0;0;Comic
+Benjamin;200;Surco;Verano;Mayo;2019;5/10/2019;Kelly;5;BCP;1;0;0;1;Sede 2;0;1;0;Comic
+Robert;200;SJL;Verano;Agosto;2019;14/08/2019;Christine;5;Efectivo;1;0;0;1;Sede 3;0;0;1;Lettering
+Molly;200;SJL;Primavera;Noviembre;2019;22/12/2019;Jaime;5;BCP;1;0;0;1;Sede 1;1;0;0;Pintura
+Linda;200;Brenia;Verano;Enero;2019;10/02/2019;Nicholas;5;Efectivo;1;0;0;1;Sede 2;0;1;0;Comic
+Danny;200;Miraflores;Invierno;Agosto;2019;10/12/2019;Robert;5;BCP;1;0;0;1;Sede 1;1;0;0;Lettering
+Jodi;200;SJL;Verano;Junio;2019;28/09/2019;Jose;5;BCP;1;0;0;1;Sede 2;0;1;0;Dibujo
+Nicholas;200;SJL;Invierno;Diciembre;2019;30/10/2019;Lisa;5;PLIN;1;0;0;1;Sede 3;0;0;1;Dibujo
+Daniel;200;Molina;Otonio;Enero;2019;22/12/2019;Marc;5;Efectivo;1;0;0;1;Sede 1;1;0;0;Manga
+Ricky;200;SJL;Primavera;Febrero;2019;10/06/2019;Barry;5;Efectivo;1;0;0;1;Sede 1;1;0;0;Comic
+Jacob;200;Villa el Salvador;Primavera;Noviembre;2019;12/06/2019;Melody;5;BCP;1;0;0;1;Sede 1;1;0;0;Dibujo
+Peter;200;Molina;Verano;Diciembre;2019;19/04/2019;Joseph;5;Yape;1;0;0;1;Sede 2;0;1;0;Lettering
+Kenneth;200;Comas;Invierno;Mayo;2019;11/06/2019;Christopher;5;Efectivo;1;0;0;1;Sede 3;0;0;1;Dibujo
+Taylor;200;Comas;Primavera;Mayo;2019;20/04/2019;Jeremy;5;BCP;1;0;0;1;Sede 3;0;0;1;Lettering
+Stephen;200;Brenia;Otonio;Octubre;2019;29/09/2019;Melanie;5;PLIN;1;0;0;1;Sede 1;1;0;0;Dibujo
+Deborah;200;SJL;Invierno;Agosto;2019;20/05/2019;Andrea;5;BVBA;1;0;0;1;Sede 2;0;1;0;Pintura
+Kenneth;200;Miraflores;Verano;Agosto;2019;15/02/2019;Chelsea;5;BCP;1;0;0;1;Sede 2;0;1;0;Manga
+Robert;200;Villa el Salvador;Primavera;Marzo;2020;6/09/2020;Elizabeth;5;BCP;1;0;0;1;Sede 2;0;1;0;Comic
+Kristin;200;Surco;Verano;Diciembre;2020;13/01/2020;Scott;5;BVBA;1;0;0;1;Sede 1;1;0;0;Lettering
+Adam;200;Brenia;Otonio;Noviembre;2020;6/08/2020;Ashley;5;Efectivo;1;0;0;1;Sede 1;1;0;0;Comic
+Michael;200;SJL;Verano;Agosto;2020;9/02/2020;Scott;5;Efectivo;1;0;0;1;Sede 1;1;0;0;Pintura
+Sue;200;Comas;Escolar;Mayo;2020;10/05/2020;Cynthia;5;BCP;1;0;0;1;Sede 3;0;0;1;Lettering
+Katie;200;Comas;Escolar;Marzo;2020;2/04/2020;Patrick;5;Efectivo;1;0;0;1;Sede 2;0;1;0;Comic
+Christina;200;Surco;Primavera;Abril;2020;10/11/2020;Brooke;5;Scotiabank;1;0;0;1;Sede 1;1;0;0;Comic
+Spencer;200;Surco;Otonio;Enero;2020;10/09/2020;Christopher;5;BVBA;1;0;0;1;Sede 3;0;0;1;Pintura
+Daniel;200;Comas;Otonio;Noviembre;2020;25/03/2020;Paula;5;Scotiabank;1;0;0;1;Sede 2;0;1;0;Pintura
+Beth;200;Surco;Invierno;Febrero;2020;11/10/2020;Patricia;5;PLIN;1;0;0;1;Sede 2;0;1;0;Dibujo
+Kristina;200;Surco;Verano;Noviembre;2020;7/08/2020;Jennifer;5;Scotiabank;1;0;0;1;Sede 3;0;0;1;Manga
+Courtney;200;Comas;Primavera;Diciembre;2020;16/10/2020;Meghan;5;BVBA;1;0;0;1;Sede 2;0;1;0;Dibujo
+Amber;200;Brenia;Escolar;Setiembre;2020;2/10/2020;Jimmy;5;Scotiabank;1;0;0;1;Sede 3;0;0;1;Manga
+Sophia;200;Molina;Otonio;Noviembre;2020;16/03/2020;Paul;5;BCP;1;0;0;1;Sede 3;0;0;1;Manga
+Trevor;200;Surco;Verano;Enero;2020;24/02/2020;Samantha;5;Efectivo;1;0;0;1;Sede 2;0;1;0;Manga
+Daniel;200;Brenia;Verano;Julio;2020;21/12/2020;Sean;5;BVBA;1;0;0;1;Sede 1;1;0;0;Dibujo
+Laura;200;Brenia;Escolar;Diciembre;2020;9/12/2020;John;5;Yape;1;0;0;1;Sede 1;1;0;0;Manga
+Sara;200;SJL;Escolar;Mayo;2020;9/09/2020;Jaime;5;Yape;1;0;0;1;Sede 3;0;0;1;Dibujo
+James;200;Miraflores;Invierno;Febrero;2020;20/12/2020;David;5;BCP;1;0;0;1;Sede 2;0;1;0;Manga
+Kimberly;200;Brenia;Escolar;Octubre;2020;7/12/2020;Jessica;5;PLIN;1;0;0;1;Sede 3;0;0;1;Pintura
+Taylor;200;Brenia;Otonio;Marzo;2020;20/06/2020;Michael;5;BVBA;1;0;0;1;Sede 3;0;0;1;Pintura
+Scott;200;SJL;Escolar;Enero;2020;16/08/2020;Tiffany;5;PLIN;1;0;0;1;Sede 1;1;0;0;Comic
+Victoria;200;Surco;Otonio;Enero;2023;3/02/2023;Shannon;5;BVBA;1;0;0;1;Sede 1;1;0;0;Comic
+Jennifer;200;SJL;Primavera;Octubre;2023;11/08/2023;Joseph;5;Efectivo;1;0;0;1;Sede 2;0;1;0;Pintura
+Kenneth;200;Molina;Primavera;Setiembre;2023;1/05/2023;Kirk;5;Yape;1;0;0;1;Sede 1;1;0;0;Pintura
+Kevin;200;Brenia;Primavera;Setiembre;2023;13/07/2023;Brandi;5;Efectivo;1;0;0;1;Sede 2;0;1;0;Dibujo
+Michael;200;Molina;Primavera;Mayo;2023;22/01/2023;Danielle;5;Yape;1;0;0;1;Sede 1;1;0;0;Manga
+Kenneth;200;Molina;Otonio;Octubre;2023;6/03/2023;Steven;5;PLIN;1;0;0;1;Sede 3;0;0;1;Lettering
+Rachel;200;Comas;Otonio;Octubre;2023;4/11/2023;Dana;5;BCP;1;0;0;1;Sede 3;0;0;1;Lettering
+Thomas;200;Villa el Salvador;Escolar;Setiembre;2023;24/12/2023;Aaron;5;Yape;1;0;0;1;Sede 2;0;1;0;Lettering
+Craig;200;Comas;Verano;Marzo;2023;20/07/2023;Stephanie;5;BCP;1;0;0;1;Sede 1;1;0;0;Manga
+Michelle;200;Brenia;Otonio;Setiembre;2023;11/06/2023;Michael;5;Scotiabank;1;0;0;1;Sede 2;0;1;0;Manga
+Alexis;200;SJL;Otonio;Enero;2023;24/02/2023;Ryan;5;Efectivo;1;0;0;1;Sede 3;0;0;1;Comic
+Benjamin;200;Comas;Otonio;Setiembre;2023;10/01/2023;Valerie;5;Yape;1;0;0;1;Sede 3;0;0;1;Manga
+Kevin;200;Miraflores;Invierno;Setiembre;2023;14/07/2023;Curtis;5;Scotiabank;1;0;0;1;Sede 1;1;0;0;Comic
+Shelly;200;Molina;Escolar;Marzo;2023;1/07/2023;Anthony;5;Scotiabank;1;0;0;1;Sede 3;0;0;1;Lettering
+Kenneth;200;Surco;Invierno;Marzo;2023;8/10/2023;Steven;5;BCP;1;0;0;1;Sede 2;0;1;0;Pintura
+Sandy;200;Miraflores;Escolar;Agosto;2023;2/01/2023;Susan;5;Scotiabank;1;0;0;1;Sede 2;0;1;0;Dibujo
+Alan;200;Miraflores;Verano;Julio;2023;22/11/2023;Jillian;5;Yape;1;0;0;1;Sede 3;0;0;1;Dibujo
+Melissa;200;Surco;Escolar;Febrero;2023;31/08/2023;Daniel;5;BCP;1;0;0;1;Sede 1;1;0;0;Lettering
+Colleen;200;Comas;Verano;Enero;2023;13/10/2023;Keith;5;Yape;1;0;0;1;Sede 2;0;1;0;Dibujo
+Yvette;200;Surco;Verano;Marzo;2023;16/03/2023;Kevin;5;BCP;1;0;0;1;Sede 1;1;0;0;Lettering
+James;200;Comas;Primavera;Setiembre;2023;8/08/2023;Trevor;5;PLIN;1;0;0;1;Sede 3;0;0;1;Manga
+Sandra;200;Molina;Verano;Febrero;2023;13/02/2023;Andrew;5;Scotiabank;1;0;0;1;Sede 2;0;1;0;Manga
+Ashley;200;SJL;Primavera;Enero;2023;9/03/2023;David;5;Yape;1;0;0;1;Sede 3;0;0;1;Comic
+Jennifer;200;Molina;Escolar;Agosto;2023;1/05/2023;Dorothy;5;Efectivo;1;0;0;1;Sede 1;1;0;0;Dibujo
+Caitlin;200;Miraflores;Escolar;Abril;2023;14/02/2023;Jennifer;5;PLIN;1;0;0;1;Sede 2;0;1;0;Lettering
+Morgan;200;Surco;Otonio;Junio;2023;21/11/2023;David;5;Yape;1;0;0;1;Sede 1;1;0;0;Manga
+Tony;200;Comas;Primavera;Setiembre;2023;12/12/2023;Gary;5;Scotiabank;1;0;0;1;Sede 1;1;0;0;Lettering
